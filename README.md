@@ -13,9 +13,9 @@
    - k-means 클러스터링
    - 대시보드 제작
 3. **급속충전기 최적입지 선정**
-  - SQL, python, tableau
-  - 전처리, EDA
-  - AHP(계층화분석) 기법 도입
-  - 대시보드 제작(개인 develop)
+   - SQL, python, tableau
+   - 전처리, EDA
+   - AHP(계층화분석) 기법 도입
+   - 대시보드 제작(개인 develop)
 
 ...updating...
