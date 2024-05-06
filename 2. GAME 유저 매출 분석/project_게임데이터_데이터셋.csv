@@ -1,0 +1,1001 @@
+user_id,first_name,last_name,email,gender,ip_address,country,pay_store,pay_amount,information_agree,first_login_date,pay_user_type,level,action_user_type,playtime,battle_pass_level
+bb0aa56d-fd4e-461a-871f-6f4fd9c4d1b9,Conny,Jerzykiewicz,cjerzykiewicz0@sourceforge.net,F,178.160.146.88,Mongolia,Other,816452,FALSE,20-Mar,heavy user,48,pve,8297.29,7
+59740d2b-5fca-4107-a4a8-c77c2aaa7b7e,Engracia,Radbourn,eradbourn1@weather.com,F,105.205.185.220,Indonesia,AOS,384905,TRUE,21-Dec,heavy user,87,pvp,3492.51,2
+0e07978a-443f-418a-88a8-08d111d2b8b9,Cassie,Jockle,cjockle2@mediafire.com,M,107.44.140.249,Ireland,Other,12513,FALSE,20-Nov,heavy user,78,fishing,2902.57,7
+57a9003b-f041-4643-80e6-bafcc2ad35dc,Papagena,Oles,poles3@guardian.co.uk,F,14.75.218.226,China,AOS,678059,FALSE,21-Jan,heavy user,46,pvp,9616.49,18
+806ecf02-f399-41ac-ba5d-f97c6caefc07,Boyce,Fleischmann,bfleischmann4@joomla.org,F,14.182.239.98,Indonesia,Other,98767,TRUE,22-Jan,heavy user,5,fishing,3656.33,18
+a981d0b6-3a9c-4099-a989-9c54e15e6b3a,Corrie,Kliemchen,ckliemchen5@fotki.com,M,183.89.239.57,Indonesia,IOS,713957,FALSE,21-Jul,heavy user,18,raid,7098.82,3
+b455e5c4-c57a-4fa8-8ab4-204c701bccff,Bail,Delany,bdelany6@ted.com,F,66.246.9.251,Norway,IOS,844323,FALSE,23-Oct,heavy user,95,pve,4507.76,0
+ebc995c9-3bd5-4e03-9fdb-2f45d88df7c8,Theobald,Castiglio,tcastiglio7@google.fr,M,78.153.222.248,Malaysia,IOS,205553,TRUE,22-Dec,heavy user,1,pve,535.24,0
+dc70dd2a-df56-47aa-beaf-a9ac8f852f99,Allison,Stubbins,astubbins8@oracle.com,M,175.13.8.163,France,Other,650993,FALSE,22-Sep,heavy user,7,fishing,4598.97,0
+72e77b68-9376-44b2-aa34-cd805fab2b88,Belle,Bondy,bbondy9@un.org,F,112.166.154.140,China,AOS,645125,TRUE,22-Jan,light user,73,raid,3808.12,0
+4849d595-70d0-4cb5-a8ad-4f4933c050d7,Stefa,Burt,sburta@unc.edu,M,1.197.81.20,China,Other,128868,TRUE,22-Nov,medium user,1,pve,7149.13,0
+083fc982-2610-4bbf-a492-452b425e7d6c,Brynn,Douberday,bdouberdayb@princeton.edu,F,225.62.230.249,Thailand,Other,334760,TRUE,20-Nov,heavy user,85,pve,9405.6,0
+2131ab2d-85cd-4713-9c66-5031e1644574,Patton,Matthias,pmatthiasc@spiegel.de,M,76.23.156.16,Poland,Other,650894,TRUE,21-Mar,medium user,23,pvp,6034.46,0
+7edb48f0-5d10-4878-8ce0-070bfbbd90bd,Son,Binnes,sbinnesd@usgs.gov,M,145.76.88.55,China,Other,207780,FALSE,20-Dec,heavy user,3,pve,7368.74,0
+2517d9af-8686-40cb-9621-a5754db5eacd,Zeb,D'Aulby,zdaulbye@umn.edu,F,213.158.213.29,Sweden,Other,907675,FALSE,21-Feb,heavy user,57,fishing,618.26,0
+12222511-186a-4957-9107-102612c41139,Aimee,Mellonby,amellonbyf@senate.gov,M,145.175.124.92,Brazil,Other,30021,TRUE,23-Sep,heavy user,34,pve,6050.25,0
+5c5803ce-df62-43d2-98b7-a22730700f5e,Benni,Casham,bcashamg@unesco.org,M,107.4.167.127,Vietnam,Other,938250,TRUE,20-Sep,light user,89,raid,5014.18,0
+00a3ba99-e307-4c6c-baf7-29b420bba6cc,Lanae,Landis,llandish@newyorker.com,M,232.52.134.125,Luxembourg,IOS,418036,TRUE,22-May,light user,89,pvp,4886.63,0
+0a3e6ec7-0566-468c-a6b8-ae08484baeab,Tobe,Mallabar,tmallabari@wordpress.com,M,26.88.43.89,China,AOS,318792,FALSE,22-May,heavy user,100,fishing,6497.37,0
+72446592-5cc5-4821-8806-3dfd228d0b39,Justinn,Mingasson,jmingassonj@alexa.com,M,66.64.110.221,Laos,Other,858470,FALSE,20-Jan,heavy user,49,pvp,6796.18,6
+0ffeeee2-a81b-4dfe-854a-78cd425784e8,Sammy,MacAskie,smacaskiek@amazonaws.com,F,150.155.142.31,Pakistan,Other,950808,TRUE,22-Mar,heavy user,22,fishing,4002.5,15
+b9a206ef-053d-46ee-afdd-e664166c7f7d,Ryley,Willoughby,rwilloughbyl@spiegel.de,M,173.103.73.97,Peru,AOS,8994,TRUE,23-Apr,medium user,27,pvp,2036.05,20
+27830f63-2ee6-4a6a-b61f-c3ce5509b3ce,Chandra,Keyzman,ckeyzmanm@ibm.com,M,137.26.34.162,Guatemala,Other,574334,TRUE,22-Jun,heavy user,75,raid,6625.32,9
+a4571369-dfb3-4427-8b25-8c04e12bfb6a,Charlton,Monteith,cmonteithn@seattletimes.com,F,229.211.115.195,Mexico,Other,920288,FALSE,23-Feb,light user,26,fishing,1529.96,
+2a6b4b42-fd1a-4eb8-8753-faf369a682d4,Ursula,Gieves,ugieveso@xinhuanet.com,F,14.229.168.115,Malaysia,Other,793120,FALSE,20-Mar,light user,93,pvp,4180.59,14
+4edcc4e2-0a34-4278-84e2-56827eb1a513,Gregor,Brierly,gbrierlyp@blogtalkradio.com,F,38.170.134.94,France,IOS,648448,TRUE,22-May,heavy user,41,fishing,8896.94,14
+5a5a0591-2477-4e4d-ba51-a69e0600e265,Saunderson,Steabler,ssteablerq@springer.com,F,254.97.142.8,Chile,Other,547496,FALSE,21-Mar,heavy user,23,fishing,5109.36,15
+8491651b-238c-4606-a9e7-2a1680c11b55,Emery,McCahey,emccaheyr@creativecommons.org,F,213.72.64.34,Honduras,Other,475960,TRUE,23-Jan,heavy user,83,pve,9510.53,6
+f00169b6-d47b-47cf-94ac-f02383d473cd,Susie,Allnatt,sallnatts@skype.com,M,46.18.148.230,Brazil,Other,468576,FALSE,21-Jun,heavy user,5,pve,9562.92,
+16cdc2b1-deda-4da1-a2d4-fba3a5fa5662,Baudoin,Lille,blillet@i2i.jp,F,130.64.177.208,Canada,IOS,722198,TRUE,20-Jul,medium user,22,pve,6633.27,15
+19ad0a34-f1f9-4fa1-847b-82eef91944e5,Jack,Chastney,jchastneyu@google.com.br,M,101.169.101.199,Macedonia,IOS,904724,FALSE,23-Mar,heavy user,88,pvp,7237.34,
+6cbe84bd-28c2-4e24-918a-70a42c291d92,Abbott,Rickeard,arickeardv@marketwatch.com,M,164.30.15.226,Germany,Other,690933,TRUE,21-Nov,heavy user,51,raid,954.53,20
+ce57bb2e-af09-4c9e-8987-a274bc08efb9,Cosetta,Bentz,cbentzw@bbb.org,M,124.246.117.222,Indonesia,IOS,85262,FALSE,22-Apr,heavy user,28,pvp,4036.72,14
+aeef3930-b5e6-40cc-9b33-5c86d12dfed7,Minerva,Chotty,mchottyx@tmall.com,F,184.207.104.171,Finland,Other,671380,TRUE,23-Jul,heavy user,70,pve,6835.13,19
+38858719-3017-423a-b48a-d2e1ce430936,Inger,Obal,iobaly@paginegialle.it,F,128.92.99.47,Indonesia,Other,994011,FALSE,20-Jan,heavy user,39,pvp,2820.92,7
+6c038b4d-20cf-40b5-814e-9dbc630b3cb1,Betty,Dei,bdeiz@sfgate.com,F,158.44.231.173,Norway,AOS,968682,TRUE,21-Feb,heavy user,7,pvp,4222.48,4
+50dd1ea6-562e-41bc-a881-8a29532b7788,Fidelio,Warland,fwarland10@trellian.com,F,18.88.43.170,Palestinian Territory,Other,977131,FALSE,23-Apr,medium user,29,fishing,3231.23,3
+2efc6879-4302-452b-b52d-8c329c905c57,Cyb,Imore,cimore11@infoseek.co.jp,F,11.27.254.209,Mexico,Other,762432,FALSE,20-Jan,heavy user,89,raid,791.22,17
+b014f127-a587-4a03-90b2-ae1c43725aaa,Sonnie,Toretta,storetta12@disqus.com,M,84.123.134.187,Chad,Other,166393,FALSE,20-May,heavy user,10,raid,2840.47,17
+98bbab9b-5356-48ae-9b1c-b1ac882d141d,Jimmie,Jarrad,jjarrad13@europa.eu,M,39.239.240.66,South Africa,AOS,825685,FALSE,20-Aug,heavy user,24,raid,9843.61,8
+ddd6cae8-adc3-4de0-a8a8-2bdde42a2521,Mary,Patise,mpatise14@qq.com,F,114.93.121.29,Indonesia,IOS,264961,TRUE,20-Sep,heavy user,36,fishing,5872.58,5
+1356485d-4228-4a11-9f2b-cd4bc8d3887e,Hattie,Barchrameev,hbarchrameev15@un.org,F,55.226.145.144,France,Other,661112,TRUE,21-Mar,heavy user,26,pve,9212.47,4
+19b07bec-5133-40dd-b909-11ad557c97ba,Ernesta,Duetsche,eduetsche16@multiply.com,F,35.168.246.250,Sweden,Other,743574,TRUE,22-Feb,medium user,20,pvp,357.64,5
+97eb2858-28fe-4681-8f15-e27c13710600,Aile,Covelle,acovelle17@nytimes.com,M,220.221.45.237,Mexico,IOS,456995,TRUE,20-Apr,light user,90,pve,6309.14,2
+92263736-e44e-4cf8-8c96-873f2050cb13,Clair,Rodda,crodda18@ameblo.jp,M,185.253.64.18,China,Other,993307,TRUE,20-Aug,heavy user,77,pve,6937.08,17
+19eb7782-7ed6-44eb-b2ec-043a08bbcd90,Nadeen,Brahan,nbrahan19@ox.ac.uk,M,47.238.225.85,Benin,Other,203941,FALSE,20-Oct,heavy user,30,raid,2079.79,5
+d154732d-75e6-40a9-98fa-6774b8a6bdbb,Elsie,Weatherill,eweatherill1a@com.com,F,42.253.239.72,Myanmar,AOS,403441,TRUE,21-Oct,heavy user,74,pve,4065.2,20
+a910b6e7-9e47-4d52-a121-f2a6b1cd6390,Phyllida,Ranald,pranald1b@walmart.com,F,12.90.200.245,Indonesia,Other,281216,FALSE,22-Sep,medium user,9,fishing,9545.15,13
+d1cfa063-41a1-47a3-b969-b3577b38d0ff,Laney,Sesons,lsesons1c@google.ru,F,108.116.88.205,Russia,Other,771291,FALSE,22-Mar,medium user,27,raid,3044.09,4
+ceef6ea6-688c-4704-bc0b-99bbd82a07b5,Pavlov,Hintze,phintze1d@zimbio.com,F,190.33.10.109,Syria,Other,37609,FALSE,20-Oct,heavy user,28,fishing,5203.61,
+8cb60f8a-8243-4063-af55-59aaeb7e9855,Bert,McDill,bmcdill1e@linkedin.com,M,17.38.86.126,Belarus,Other,676084,TRUE,23-Jan,heavy user,95,fishing,9815.03,10
+b816f767-bb47-4fa1-8e05-43f7ebec8c39,Carlen,Bess,cbess1f@arstechnica.com,F,95.139.111.73,Argentina,Other,866995,FALSE,23-Dec,heavy user,98,raid,5015.17,20
+8e1a03c2-c90e-49b9-9ea5-7898800eab69,Sebastien,Serot,sserot1g@toplist.cz,M,53.35.135.58,China,Other,715733,TRUE,22-May,light user,52,pvp,529.85,10
+a05e6655-cacd-4308-8001-a2af5a092c16,Astrix,Jowling,ajowling1h@bing.com,M,147.31.50.64,Philippines,Other,268967,TRUE,21-Oct,heavy user,42,pve,9063.18,15
+3446b94a-7532-4c58-861c-f3a7974d1010,Rem,Mylechreest,rmylechreest1i@youtube.com,F,75.19.84.14,China,IOS,680180,FALSE,21-Jul,heavy user,66,raid,6894.56,1
+9d05280f-2a73-4be6-9d64-16ebef62d379,Lamar,Gerrad,lgerrad1j@naver.com,F,26.151.186.46,Myanmar,Other,775976,FALSE,23-Jan,medium user,82,raid,9129.62,15
+e34082d2-6a6d-4214-ab8c-c4da290d9f2a,Daryle,Cowdrey,dcowdrey1k@feedburner.com,F,144.200.200.102,China,AOS,313526,FALSE,20-Feb,heavy user,34,pve,7491.03,20
+2fa85c4e-b6a0-4c87-b1a1-735fd5d59ad9,Lancelot,Chaloner,lchaloner1l@opera.com,M,76.230.133.138,United States,Other,747940,TRUE,21-Mar,heavy user,37,pvp,8978.82,3
+26897887-85f3-4ab1-9084-af35cb30ea59,Virginie,Lusher,vlusher1m@amazon.co.jp,F,32.133.249.158,Ethiopia,Other,126592,TRUE,20-Sep,light user,40,pvp,5320.7,
+6f445a6d-d724-4fbb-8235-b3ba5af07da0,Bancroft,Trodler,btrodler1n@china.com.cn,M,137.63.182.87,China,Other,988538,FALSE,23-Feb,heavy user,89,pve,3557.28,
+a5bf0dad-9e6c-4b98-9262-abad52a47acf,Verene,Rigts,vrigts1o@shutterfly.com,F,29.149.174.122,China,AOS,33120,FALSE,21-Aug,heavy user,61,pvp,3868.38,20
+43557200-6b2d-49a5-9ee9-938e8a1cc8b9,Madlen,Meighan,mmeighan1p@deliciousdays.com,M,82.254.120.180,France,Other,274308,FALSE,20-Feb,heavy user,85,pvp,3089.61,15
+027e1909-244d-4182-b60d-b9127f1a5411,Germaine,Echallie,gechallie1q@bluehost.com,F,31.13.68.177,Sweden,AOS,883135,TRUE,20-Jul,light user,32,pvp,5490.91,13
+892e9e6b-0dd7-40df-8729-c4d15f41ac2e,Connie,Robertot,crobertot1r@usda.gov,M,103.237.171.36,Portugal,Other,972653,TRUE,20-Jul,light user,58,raid,7284.53,20
+5f6b9589-74aa-4814-a415-ed3d2f36163c,Raoul,Gammet,rgammet1s@privacy.gov.au,F,175.79.76.147,Croatia,IOS,850119,FALSE,23-Jul,heavy user,64,pve,2364.01,15
+8090db6c-8575-40d7-98d6-bd5406805ef3,George,Nowakowska,gnowakowska1t@latimes.com,M,201.36.125.132,Sweden,Other,298781,TRUE,22-Feb,heavy user,7,pve,8104.78,4
+d538cff8-24fe-4acd-8a77-efb5b6d36cda,Selby,Ivantyev,sivantyev1u@irs.gov,F,108.65.174.100,Greece,Other,48216,TRUE,23-Jan,heavy user,45,pvp,7708.97,8
+45bc4d4a-9e1f-4255-a9c3-6d5134121fa6,Arther,Pedroli,apedroli1v@myspace.com,M,45.176.218.116,Brazil,AOS,459504,FALSE,20-Jun,medium user,90,raid,6769.16,
+d2a71560-3f05-486a-8a0e-7149d9cbd8e8,Nan,Linford,nlinford1w@mit.edu,M,1.117.209.225,China,IOS,237793,FALSE,21-Mar,heavy user,71,pve,2553.35,8
+7156779c-9e44-4818-9553-837b9e93994a,Caryl,Arnholz,carnholz1x@oracle.com,M,232.175.55.238,China,IOS,919083,FALSE,22-Oct,heavy user,80,raid,7211.49,19
+880efe09-27c2-4787-9383-43efe21c8993,Gardy,Zarfat,gzarfat1y@blogspot.com,F,4.133.10.239,Russia,Other,329030,FALSE,21-Feb,heavy user,33,fishing,7283.52,
+8bc664fd-1005-4dbd-9347-b973123fd685,Care,Lumbley,clumbley1z@omniture.com,F,215.235.205.145,Philippines,Other,566822,FALSE,20-Sep,heavy user,30,raid,6799.74,20
+d4e3703c-4b98-4892-8a50-8dedeaf63cf1,Fidelio,Jannasch,fjannasch20@guardian.co.uk,F,159.52.33.128,Russia,IOS,332073,FALSE,20-Aug,light user,90,raid,7332.08,
+d0ca3930-593e-476b-83b2-c628a4228b8b,Linnell,Sperski,lsperski21@sitemeter.com,F,15.22.109.20,China,Other,657544,FALSE,22-May,heavy user,73,pve,1602.55,12
+feb6d39f-6693-44bf-897b-7e5c975afe20,Lewes,Santore,lsantore22@alibaba.com,M,110.246.90.19,China,Other,105691,FALSE,20-Aug,heavy user,79,pvp,2956.22,16
+d3266817-7885-4b48-ac5e-0170cd028f5c,Dacie,Hulks,dhulks23@comsenz.com,F,242.9.14.181,Vietnam,Other,267058,TRUE,24-Feb,heavy user,22,raid,5838.23,13
+03d41b7c-52fd-4cee-9262-58de78b73aee,Flo,Orknay,forknay24@altervista.org,F,157.200.97.183,Brazil,Other,596747,TRUE,21-Jun,medium user,1,raid,5336.54,
+1144bc6b-efb2-46c3-801d-a939bccd81ea,Skye,Bettinson,sbettinson25@berkeley.edu,M,10.34.7.122,Poland,AOS,181303,FALSE,21-Jun,heavy user,28,pvp,2299.26,11
+879721b8-f379-4afa-a5b4-5228528b7cfe,Antonella,Crowcroft,acrowcroft26@flavors.me,M,155.159.8.41,Colombia,Other,691305,FALSE,23-Jul,heavy user,65,fishing,3809.11,1
+c9e1d9b1-9aab-41f8-a26a-db58fbaf3412,Der,Shovelin,dshovelin27@cnbc.com,M,196.226.51.101,China,Other,106744,TRUE,23-Mar,heavy user,41,fishing,7097.94,17
+996ffd9c-5f7a-4d24-b61e-6cdb945605e3,Erena,Oles,eoles28@clickbank.net,M,30.34.26.42,Brazil,Other,138073,TRUE,20-Oct,heavy user,97,pvp,3285.81,12
+7a1707cf-d573-467a-baca-2140f06a9cca,Sandye,Joannidi,sjoannidi29@wikia.com,F,82.141.70.35,Greece,IOS,615283,FALSE,21-Jun,heavy user,23,raid,7320.19,17
+e8fedfa8-4d9b-4164-ade6-d5dc811296c5,Danette,Ottley,dottley2a@cnbc.com,F,81.72.235.31,Uganda,Other,814645,FALSE,20-Oct,heavy user,22,pve,7817.72,
+0086987c-5640-4e6a-a7bb-6b1482d0e140,Lesley,Urion,lurion2b@hud.gov,M,65.21.13.182,Ukraine,Other,23325,FALSE,23-Feb,heavy user,41,pvp,1158.53,20
+90b2374e-f28a-4a92-be14-6e02518d3e4e,Kellie,Gircke,kgircke2c@dailymail.co.uk,M,94.102.215.112,Germany,Other,972623,FALSE,21-Jul,heavy user,89,raid,4730.08,11
+e7195864-d46a-4bd6-ae2e-2568a01cb1cb,Marie-ann,Ivantsov,mivantsov2d@cam.ac.uk,F,154.0.245.4,China,Other,633819,TRUE,21-Jun,heavy user,30,pve,4420.19,9
+fdafbaed-3698-4579-bd7b-4442df3ee788,Sergio,Kliemke,skliemke2e@printfriendly.com,F,98.213.183.2,China,Other,793108,FALSE,21-Sep,heavy user,73,raid,4711.75,16
+d2c834e6-d716-485a-b86c-07a911ddb0b3,Berry,Muzzollo,bmuzzollo2f@elpais.com,M,221.1.127.148,Greece,Other,114464,FALSE,21-Mar,heavy user,68,fishing,9014.47,15
+4b7e595d-79c2-41f0-aa00-9358921ac2f8,Luce,Mabone,lmabone2g@usda.gov,M,143.153.155.214,Poland,AOS,594576,FALSE,20-Jul,light user,97,pve,4056.01,
+9b81a864-41f2-44c4-ae0c-ef73af6127e9,Waldon,Clowney,wclowney2h@live.com,F,54.5.156.207,South Africa,IOS,45050,FALSE,21-Aug,medium user,44,raid,1597.69,4
+f74297c2-1af9-45d8-90c0-24075a77c50e,Jandy,Boise,jboise2i@list-manage.com,F,26.183.48.248,China,Other,208159,FALSE,23-Sep,heavy user,71,fishing,5128.08,16
+66f8e68d-83ff-403b-a17c-d301ec97ff60,Kelli,Feldhorn,kfeldhorn2j@smugmug.com,F,23.200.254.130,Burkina Faso,Other,682187,FALSE,23-May,heavy user,57,fishing,452.38,
+2d937356-0744-45dc-8bbe-242d31db3e6b,Jozef,Ortiger,jortiger2k@patch.com,M,243.119.99.159,Brazil,Other,930337,TRUE,21-Nov,heavy user,65,fishing,900.03,12
+356f48cd-1b3d-40cd-ac3c-166d301d6864,Karlyn,Trippack,ktrippack2l@dedecms.com,F,247.86.144.19,Norway,Other,804157,TRUE,21-Sep,heavy user,88,fishing,8504.63,1
+7be5b628-c70c-4ec5-956c-92ca46652f71,Claiborn,D'Oyley,cdoyley2m@dyndns.org,F,167.78.29.40,Brazil,Other,399955,FALSE,21-Jul,light user,54,fishing,5895.83,20
+6dddbcd7-edfe-4a29-95c4-44cb97470925,Nye,Winfindine,nwinfindine2n@istockphoto.com,M,212.175.155.203,China,Other,36071,FALSE,21-Sep,heavy user,28,pvp,320.14,3
+b16909fd-198b-42b9-bde7-75ae7503c597,Kali,Jeanequin,kjeanequin2o@tumblr.com,M,24.112.192.114,Sweden,AOS,362070,TRUE,20-Aug,medium user,5,raid,2858.65,11
+213f5e0c-6e63-40c0-b594-65882c892b0c,Verne,Fakeley,vfakeley2p@un.org,M,252.7.180.109,Indonesia,Other,976129,FALSE,23-Feb,heavy user,46,pvp,5856.2,19
+b6cb23e2-2f3e-4f61-87f8-ff414b5efa9f,Jethro,Billborough,jbillborough2q@wired.com,F,29.166.162.176,"Bonaire, Saint Eustatius and Saba ",AOS,241828,FALSE,21-May,light user,77,pve,6854.46,
+e0148ce3-dd3f-4313-8264-6a1261ad8d2a,Kippie,Polino,kpolino2r@prnewswire.com,F,182.187.134.166,New Caledonia,AOS,359980,TRUE,20-May,heavy user,91,raid,7184.35,10
+009e1fad-3c8f-477f-809b-e00bd72730dc,Gib,Castiglione,gcastiglione2s@jugem.jp,M,58.255.98.132,Ireland,IOS,697690,FALSE,24-Jan,medium user,7,raid,1674.52,15
+afe6cf9e-b6d0-4dc8-8ca7-a53cefea8a06,Valencia,Swinfen,vswinfen2t@sciencedaily.com,F,246.148.63.21,Poland,Other,156272,FALSE,21-Jul,medium user,58,raid,765.14,6
+dfb732e1-8d95-470a-b883-130b6d59dbf9,Orlando,Carmody,ocarmody2u@foxnews.com,M,83.221.202.74,Russia,Other,611651,FALSE,20-Jul,light user,49,pve,4602.27,20
+8b2b786e-d088-4252-8934-7d6ce4460240,Maurizia,Varah,mvarah2v@google.nl,F,159.21.192.80,Belarus,AOS,897709,FALSE,22-Jan,medium user,2,raid,5343.9,
+6d931bba-482a-4bf4-91dd-2e2b149135db,Caleb,Boothebie,cboothebie2w@google.ru,F,82.68.255.52,Iran,IOS,925270,FALSE,21-Aug,heavy user,72,pve,7833.04,18
+9d79bb98-cbd2-4a48-92f4-15606ff21984,Gunar,Riccard,griccard2x@360.cn,M,84.253.152.121,Indonesia,Other,258373,FALSE,20-Jan,medium user,57,pvp,2784.29,18
+d8b1afb2-4248-4204-a9c2-196b1cf25f38,Ryley,Abreheart,rabreheart2y@tinypic.com,M,43.47.196.83,France,Other,470528,FALSE,21-Sep,heavy user,6,pvp,2441.68,17
+a6e84c26-1765-4c5e-8e9c-6b49d825a7e4,Alister,Hauxwell,ahauxwell2z@yelp.com,M,151.5.191.241,American Samoa,Other,678485,FALSE,24-Feb,heavy user,50,raid,2038.48,10
+486833df-2ed6-4291-a8af-07e5587af7f5,Zoe,Pendleton,zpendleton30@zdnet.com,F,11.40.159.189,Argentina,IOS,153474,FALSE,23-Dec,heavy user,64,raid,7922.34,3
+9f0f2b6b-6ac5-4c10-ab00-fa3a9227d01f,Alejandrina,Pashby,apashby31@sitemeter.com,M,137.92.187.144,China,AOS,412374,TRUE,21-Apr,heavy user,42,raid,4906.62,12
+39058b21-2c16-476c-bab1-dbc6d79c8730,Flynn,Targett,ftargett32@posterous.com,F,195.130.254.249,Belarus,Other,790481,TRUE,20-Dec,light user,96,pve,6727.88,
+4f7cb634-9021-4a78-a822-c22fa0cd352e,Ronda,Chad,rchad33@psu.edu,F,173.58.249.255,Thailand,AOS,399083,FALSE,20-Jul,heavy user,24,pvp,583.76,2
+ffe5132f-3a92-4158-a737-351397b4d7d9,Wilden,Quogan,wquogan34@myspace.com,F,226.169.251.13,Indonesia,Other,455085,FALSE,20-Jul,heavy user,10,pve,2258.18,12
+9121088d-f0ff-466a-a72b-fbae2a0e4fb0,Grange,Von Welldun,gvonwelldun35@economist.com,F,38.191.47.49,North Korea,Other,860043,FALSE,22-Nov,light user,10,pvp,2963.55,12
+3f08dd9b-35e0-4fb0-98fb-88db132a3f66,Charlotta,Skews,cskews36@cam.ac.uk,M,178.209.75.62,Vietnam,Other,262979,TRUE,22-Jan,light user,48,pvp,5373.55,5
+c7fd6c28-c319-48cd-a4e3-09cfe32123c3,Guthrie,Westall,gwestall37@ed.gov,M,170.235.20.190,France,AOS,731386,TRUE,21-Feb,heavy user,45,raid,4316.67,
+0dbac343-dca7-43fa-a523-a2f98a1de9eb,Lethia,Casiroli,lcasiroli38@opensource.org,F,188.64.210.134,Morocco,AOS,344362,FALSE,20-Jan,heavy user,81,fishing,3071.14,20
+d61b8cab-a1f1-451a-bb88-1e776011677c,Hestia,Loftus,hloftus39@reddit.com,M,136.167.51.46,Philippines,AOS,248685,FALSE,22-Apr,heavy user,72,pve,9977.06,12
+f6538871-4ca7-43a9-a389-8da2f0d9e6ad,Kit,Tocque,ktocque3a@weibo.com,M,5.208.35.193,Indonesia,Other,310741,TRUE,22-Jan,light user,25,pve,4242.61,16
+fea9dbd2-ae02-417a-a48a-25dede0c137c,Kyle,Bridges,kbridges3b@wikispaces.com,M,30.45.175.30,Russia,IOS,853239,FALSE,22-Oct,heavy user,64,pvp,6256.74,15
+96e1bafc-dcbb-48bc-ba92-5ce7b78e22ee,Janela,O'Cannavan,jocannavan3c@google.ca,F,116.136.93.52,Indonesia,Other,90642,FALSE,21-May,heavy user,49,raid,4829.98,19
+52f183ae-29e1-4aac-888a-240bd3f456fc,Sal,Boal,sboal3d@mediafire.com,F,89.23.195.226,China,AOS,493884,TRUE,20-Jun,heavy user,95,pvp,6393.16,16
+ce4b2d63-338c-4fa6-8d7f-09204f4f6c49,Vidovik,Toolin,vtoolin3e@webmd.com,F,96.41.133.152,China,Other,595250,TRUE,21-Jan,heavy user,17,pve,2514.44,6
+d2f30426-1786-40b7-a82c-21049582eb2e,Myles,Barnsley,mbarnsley3f@cocolog-nifty.com,F,161.81.104.154,France,Other,672050,FALSE,21-Mar,light user,33,pve,397.89,11
+775f5c4b-f778-4e9a-ad41-d89b6889773e,Nell,Sawl,nsawl3g@123-reg.co.uk,M,251.109.134.143,Brazil,Other,748153,TRUE,21-Oct,heavy user,95,raid,8161.13,5
+59c268dc-58cc-4e8a-a56f-27d0e64d8708,Bret,Colleymore,bcolleymore3h@canalblog.com,M,105.226.148.184,Russia,IOS,944938,FALSE,21-Feb,heavy user,16,pvp,8268.39,4
+d80fb3b2-4ac9-402a-a217-7e5a82280a2c,Patton,Flode,pflode3i@ocn.ne.jp,M,124.17.62.32,China,Other,599338,TRUE,22-Aug,heavy user,51,fishing,4855.45,19
+53f6e1f4-2a4c-4d26-ae0d-64b52f93823f,Sibyl,Hursthouse,shursthouse3j@google.com.br,F,191.195.240.21,China,AOS,121411,FALSE,23-Sep,heavy user,36,fishing,8435.73,12
+0f35d432-ec8b-4200-bb32-02bcaab2c8be,Vanny,Vannini,vvannini3k@businessinsider.com,M,176.188.19.0,China,Other,834661,FALSE,22-Jul,light user,57,pvp,8450.31,5
+1bcd7d0b-9427-40c9-b0a7-83dcb4df6a32,Feliks,Palliser,fpalliser3l@people.com.cn,F,109.198.201.138,China,Other,172074,TRUE,22-Nov,heavy user,75,raid,7769.86,19
+fa6e6de1-45d1-46f1-9fcb-e732b1765e4c,Kylila,Murrhardt,kmurrhardt3m@live.com,F,126.7.240.96,Albania,Other,438424,FALSE,20-Dec,heavy user,55,fishing,7722.1,1
+ce2ea94f-2a2f-4caf-b642-eba50acee93e,Karie,Sizeland,ksizeland3n@reference.com,F,126.28.34.99,Philippines,Other,305802,FALSE,24-Feb,heavy user,79,pvp,4010.8,14
+2a7cb4b5-b0cb-4cd4-a03a-99e7ea41ddbf,Hollie,Martinson,hmartinson3o@storify.com,F,119.76.214.194,France,Other,676055,FALSE,23-Dec,heavy user,65,pvp,5398.18,12
+fe1cc256-8879-4e9b-a520-a6e74b6a3007,James,Blakiston,jblakiston3p@nytimes.com,F,143.20.148.209,Brazil,IOS,962056,TRUE,20-Jul,heavy user,20,pvp,6918.97,14
+93eb5bad-3934-401c-87c3-878c269db48a,Jania,Redmile,jredmile3q@washington.edu,M,103.240.89.137,Russia,Other,997541,TRUE,22-Jun,medium user,89,pvp,858.86,9
+68114262-6469-4abe-9fd6-e5af55d4e94e,Blakelee,Bartosik,bbartosik3r@desdev.cn,M,250.247.142.188,Sweden,Other,586515,TRUE,23-Feb,heavy user,83,pve,2891.23,4
+75c197ca-8b91-4ec7-8442-71b267211081,Dody,Townsend,dtownsend3s@aol.com,M,181.27.205.5,Malaysia,Other,708581,TRUE,23-Dec,heavy user,72,pve,9464.34,13
+90bce1e2-8d53-4402-a0ee-1c1d87448ba0,Joana,Jacobi,jjacobi3t@youtube.com,M,38.20.17.222,Poland,AOS,826489,FALSE,21-May,light user,83,pvp,1714.02,9
+648bcd53-a1e0-4819-89f9-ff45b04b5d77,Port,Ibbs,pibbs3u@pagesperso-orange.fr,M,101.189.79.69,Nicaragua,Other,934595,TRUE,20-Jan,heavy user,66,pve,5007.73,
+1f0663f6-8d8e-4e75-82a4-990a16c06cf8,Fleming,Gidley,fgidley3v@blogs.com,F,63.156.141.13,Sweden,Other,474230,FALSE,20-Sep,heavy user,27,raid,742.38,9
+a85749b6-b2a3-4e21-80c0-91ebeec0709f,Judas,Westrey,jwestrey3w@eepurl.com,F,227.136.77.26,Indonesia,Other,2506,FALSE,20-Nov,medium user,81,fishing,4602.17,12
+166c104c-32bf-443e-9066-fa3e5805706a,Waring,Domange,wdomange3x@google.com,M,197.148.230.245,France,Other,77676,TRUE,23-Jan,light user,30,pve,1589.92,18
+fb455e7b-8258-481e-bbf6-1a70d3172672,Jeffrey,Armor,jarmor3y@google.ru,M,121.205.101.227,Russia,Other,718356,TRUE,20-Feb,heavy user,95,pve,7366.57,8
+6a25ce38-d860-44da-89df-0e7ac4d3d071,Phaidra,Phelp,pphelp3z@epa.gov,F,6.67.111.82,Russia,Other,200322,TRUE,21-Nov,heavy user,67,fishing,9080.4,10
+6857b4d5-7b86-4f7e-80f4-a9b7010bcfb1,Batholomew,Crawley,bcrawley40@merriam-webster.com,F,178.15.209.101,China,Other,669532,FALSE,20-Apr,light user,8,raid,7102.56,
+ba268830-7d05-4e7c-929a-2e5675639be1,Ellissa,Coon,ecoon41@usda.gov,F,110.220.134.38,Indonesia,Other,212477,FALSE,22-Oct,heavy user,82,pve,9321.09,7
+4575dc9b-aedd-49a6-8017-ea92c88c29e4,Ahmed,Diffley,adiffley42@privacy.gov.au,M,109.88.125.27,Brazil,IOS,687155,TRUE,22-Jun,light user,41,pve,6326.65,
+d4631067-0fc0-4f36-ac36-4fdb3a3b4d4b,Carita,Monelli,cmonelli43@unc.edu,F,69.80.218.197,Venezuela,AOS,403873,FALSE,20-Dec,heavy user,53,pve,3638.17,5
+9cb94fb4-511e-4577-9fab-d052ef083f0c,Rubetta,Roakes,rroakes44@opensource.org,M,194.20.35.24,Malawi,Other,920263,FALSE,21-May,heavy user,91,fishing,2475.35,19
+97dcd0a2-3fe9-4493-abc4-93bce4dd5be9,Raff,Killock,rkillock45@sfgate.com,F,96.76.94.13,Tunisia,IOS,465122,FALSE,22-Oct,medium user,36,pve,6288.16,1
+36bc5fbe-c924-4e1c-a067-1cadedc60894,Abigale,Netherwood,anetherwood46@youtu.be,M,152.238.173.167,Ecuador,IOS,453757,TRUE,20-Dec,light user,84,raid,3502.51,17
+0e29c384-7ad8-48b2-ae2f-1bad0534dc0a,Charmian,Camock,ccamock47@reddit.com,F,203.226.147.252,Indonesia,AOS,645640,TRUE,23-Sep,heavy user,43,fishing,4470.96,8
+1c82b69f-daf3-4d27-8ada-d5fa2e3c3384,Ashley,Magson,amagson48@state.gov,F,152.68.249.225,Brazil,IOS,246042,TRUE,20-Oct,heavy user,17,fishing,7877.26,15
+f8f4f243-cc47-46a9-8f9e-ca38fe7e9b17,Donielle,Molyneux,dmolyneux49@ftc.gov,F,110.187.85.139,Vietnam,Other,149868,TRUE,24-Jan,heavy user,81,pvp,5450.32,10
+f8b30ca5-da0c-4d93-b483-bbe83a932d83,Baryram,Rockcliffe,brockcliffe4a@twitter.com,F,81.68.30.241,China,Other,42577,FALSE,22-Oct,light user,40,pvp,2664.08,5
+542087f0-8362-498d-80af-b5053e42d244,Abbott,Fayre,afayre4b@yahoo.com,M,140.249.116.63,Thailand,Other,346516,FALSE,20-Mar,heavy user,89,raid,8072.5,15
+3d8c98bc-319f-4238-86a3-eb5171fa1f2c,Fannie,Hulance,fhulance4c@sfgate.com,F,98.234.162.32,Brazil,Other,692572,TRUE,20-May,heavy user,60,pvp,8680.82,19
+b7aba3fb-bad2-42c6-947d-55413c95fb29,Alexio,Tiuit,atiuit4d@rambler.ru,M,240.93.127.121,China,Other,812796,FALSE,23-Aug,medium user,26,pvp,7328.52,1
+c065645d-a39a-442f-9b85-c77f358db414,Cornelius,Endersby,cendersby4e@e-recht24.de,F,76.25.238.113,China,Other,721770,FALSE,20-Feb,light user,38,pve,5636.65,20
+2bf756ce-4a5b-4a6a-81cd-3776dde21a47,Bryana,Winscum,bwinscum4f@smh.com.au,M,135.140.53.38,Saudi Arabia,Other,607464,FALSE,24-Jan,medium user,26,fishing,2304.2,13
+658cc9e4-71df-4a74-a825-763b6f47c299,Gwenore,Kardos,gkardos4g@hc360.com,F,127.178.76.231,Luxembourg,IOS,438837,FALSE,22-Sep,heavy user,14,pvp,179.63,8
+4c81b48d-421a-4e61-9f14-66c8036c0984,Merna,Schindler,mschindler4h@vkontakte.ru,F,169.4.154.103,Belarus,Other,858699,FALSE,20-Jul,heavy user,98,pve,2968.46,7
+32f23a05-79ee-470c-ba6d-7e8d6590004b,Kaitlyn,Shaylor,kshaylor4i@fda.gov,M,132.67.99.158,Slovenia,Other,85352,FALSE,24-Jan,heavy user,11,pvp,6259.79,
+8c9fa081-ed58-4fbc-ab6a-e27a4705a5a4,Briggs,Glaister,bglaister4j@reuters.com,F,58.158.253.68,Portugal,AOS,670907,TRUE,21-Aug,heavy user,27,raid,9884.55,20
+2d5c8d77-3d34-4eb5-b775-4f9e06712100,Ambrosi,Gori,agori4k@hubpages.com,F,36.170.65.137,Indonesia,AOS,781753,TRUE,21-Jul,light user,57,fishing,3047.1,
+bca66702-9708-4167-87da-f36f2decc826,Ellyn,Allender,eallender4l@printfriendly.com,F,197.155.131.81,China,IOS,786342,TRUE,23-Mar,medium user,96,raid,1179.08,13
+7de23184-e519-4720-936f-8539574fb804,Guthrey,Barhem,gbarhem4m@tumblr.com,M,133.36.8.138,France,Other,596083,TRUE,23-Apr,heavy user,21,pvp,8407.48,11
+28d7174f-8c48-4ae9-8dc3-f2f0ab37af72,Louella,Pickvance,lpickvance4n@go.com,F,130.132.102.197,Indonesia,Other,658820,FALSE,22-Sep,heavy user,96,fishing,4766.93,11
+e807722b-1ca0-4990-b84f-80cb8f613301,Dalia,Sharpe,dsharpe4o@canalblog.com,M,25.21.86.6,Tunisia,AOS,577190,FALSE,20-Oct,heavy user,70,raid,6605.88,13
+1183b661-40e9-4091-967b-86e90285ae2f,Reinaldos,Gittins,rgittins4p@webeden.co.uk,M,103.102.14.118,China,Other,186486,TRUE,22-Apr,heavy user,43,raid,5392.15,7
+8ce25309-9662-4f55-a7a9-44d3cb06ba88,Gabie,Featherstonhalgh,gfeatherstonhalgh4q@wisc.edu,M,152.39.113.176,Portugal,Other,86401,FALSE,21-Jul,heavy user,70,raid,1338.57,12
+9fa326ab-574c-4231-983a-21dab4be0522,Lonee,Kienzle,lkienzle4r@goo.gl,M,141.16.144.45,China,Other,149039,FALSE,23-Dec,heavy user,44,raid,4165.41,18
+e01da6a2-4b1d-4162-b5e7-467eaefa5304,Alida,Vezey,avezey4s@de.vu,M,28.241.112.111,Serbia,Other,358586,TRUE,23-Sep,medium user,78,raid,4843.76,16
+c8247cd8-e7b4-4e2c-bcb0-799d4b07b720,Marlee,Shew,mshew4t@odnoklassniki.ru,F,23.243.16.110,Brazil,Other,531422,FALSE,22-Jun,heavy user,88,fishing,2873.32,8
+e9e03bb1-56e4-4b36-81e1-102104c40ca6,Biddy,Trevena,btrevena4u@twitter.com,M,105.127.120.248,Ukraine,AOS,311679,TRUE,20-Jun,heavy user,3,fishing,4937.75,18
+8e4ddbb6-e594-4287-a981-d9bb0b243077,Sergei,Dows,sdows4v@opera.com,M,78.32.13.124,Philippines,AOS,552202,TRUE,21-Oct,heavy user,46,pve,7353.71,11
+43ac5d87-2043-4c3d-9646-060a1d188d14,Rutter,Dunn,rdunn4w@youtube.com,M,159.86.149.85,China,Other,302683,TRUE,21-Jan,heavy user,7,fishing,6366.06,
+ec523b68-3d84-427a-b4fb-2233fc526227,Brier,Waldram,bwaldram4x@tiny.cc,F,202.183.204.249,France,AOS,170636,TRUE,20-Dec,heavy user,24,fishing,7603.72,7
+6a839c0c-2b32-4d58-8e8b-02982970564b,Ailey,Partington,apartington4y@dot.gov,M,126.215.150.197,Japan,Other,473939,FALSE,21-Aug,heavy user,38,raid,2178.27,
+c77784ac-1d6a-49ba-81ed-5672b4a442ae,Jarib,Beeze,jbeeze4z@woothemes.com,F,13.72.209.169,New Zealand,Other,717081,FALSE,24-Jan,heavy user,28,raid,8772,
+d34758d4-1a41-417b-b93b-7b2b79abdc4d,Izabel,Cattroll,icattroll50@nydailynews.com,F,218.128.125.202,Indonesia,IOS,196088,FALSE,23-May,heavy user,47,raid,2548.43,17
+638c6777-4959-4b3c-bb11-6c0c0d97fc33,Isidore,Kinnin,ikinnin51@dyndns.org,F,91.191.104.7,China,Other,966125,FALSE,20-Jul,heavy user,95,pve,2060.43,4
+c24b5cad-da5f-43b5-acec-8a172a0bbd8d,Gorden,Ferryn,gferryn52@comcast.net,M,145.185.100.214,Poland,Other,190510,TRUE,21-Mar,heavy user,95,fishing,6689.15,16
+948cbec9-94a3-476d-a263-c2a98e7df74c,Gus,Neame,gneame53@house.gov,F,43.59.29.195,Pakistan,Other,641032,FALSE,21-Aug,heavy user,77,pve,3320.87,10
+1d234504-eae1-43a8-b27b-700424be784c,Tammie,Waistall,twaistall54@usatoday.com,F,44.228.16.217,Bolivia,Other,347197,TRUE,21-Mar,medium user,9,pvp,7751.72,14
+24206283-ece3-4597-92fc-175de8df494b,Hussein,Bontein,hbontein55@live.com,M,93.231.91.62,Indonesia,Other,383726,TRUE,21-Apr,heavy user,69,fishing,4684.8,
+ad789958-5a2e-443e-bfa0-b898df7ef4b0,Maurita,Kassidy,mkassidy56@gnu.org,M,119.122.186.108,France,IOS,985077,TRUE,22-Jul,heavy user,66,raid,7134.43,
+76663075-7d4e-4519-911c-bf6a45e3a360,Gabi,Kem,gkem57@goodreads.com,M,137.143.190.182,Bhutan,Other,457910,TRUE,21-Jul,heavy user,28,fishing,3704.77,14
+45b8f104-4082-458c-8dd9-f29480e3a7ef,Madelene,Ochiltree,mochiltree58@sphinn.com,F,145.76.21.42,Indonesia,Other,769435,TRUE,21-Aug,heavy user,42,pvp,166.42,13
+fb3091e7-b2df-4a51-ab99-a3e82491257f,Tedi,St. John,tstjohn59@europa.eu,M,14.33.146.137,China,IOS,348076,FALSE,20-Dec,heavy user,69,fishing,6577.5,1
+d64c23b0-e658-4c6c-8c53-2f603b53210e,Bastian,Osbourn,bosbourn5a@boston.com,M,90.97.32.153,Philippines,Other,523943,FALSE,21-Jan,heavy user,68,pvp,4320.06,1
+e6d215fa-fcff-4074-8d78-0f1cecd2cd6c,Shalom,Strathman,sstrathman5b@a8.net,F,71.119.25.20,Philippines,Other,41463,FALSE,22-Dec,light user,69,pve,3180.72,7
+25335cd8-7d10-4de4-a039-77124191b956,Diana,Laurenson,dlaurenson5c@feedburner.com,M,169.101.128.243,Chile,Other,726998,FALSE,20-Apr,heavy user,80,pvp,2080.38,14
+df63bdce-cd53-43af-809b-93ef4a98a25d,Cece,Rolston,crolston5d@gizmodo.com,M,185.18.176.254,Brazil,IOS,812230,TRUE,20-Dec,heavy user,85,pvp,7766.65,9
+db17a2f6-3276-491a-8258-fe31093eb0ed,Sloan,Rosborough,srosborough5e@gmpg.org,F,135.86.74.175,Ukraine,Other,178401,TRUE,21-Aug,heavy user,33,fishing,2847.36,2
+b23f982a-b40c-42d2-b8bc-b504f1e2e69a,Ramon,Pyecroft,rpyecroft5f@unesco.org,F,222.251.233.230,Indonesia,Other,470686,FALSE,23-Jan,heavy user,42,raid,2051.03,6
+c048dfa5-7b4c-44f1-b401-121da0f8beb3,Katusha,O'Keefe,kokeefe5g@hostgator.com,M,208.197.136.57,South Africa,Other,327160,FALSE,22-Mar,heavy user,60,fishing,5799.62,14
+700ddb0d-4358-402e-bd92-8171ebe2b7ce,Jessey,Mabbs,jmabbs5h@theatlantic.com,M,233.217.168.233,Indonesia,Other,217822,TRUE,21-Jul,heavy user,5,pve,3216.25,6
+561ec848-2b0b-4c8f-94ef-3c1d2fde49cc,Marie-ann,Graalman,mgraalman5i@delicious.com,M,115.5.89.181,United States,Other,835326,FALSE,20-Jun,heavy user,17,pve,4656.83,11
+6375a2be-a6d5-4eaf-ae2c-3a305d602fdb,Leonardo,Bill,lbill5j@huffingtonpost.com,F,56.228.43.19,China,IOS,450492,TRUE,22-Feb,light user,54,pve,4529.9,17
+0618409b-e6ce-4c72-a228-efe9fda395f9,Juliann,Garbar,jgarbar5k@bloomberg.com,F,41.197.147.123,Croatia,Other,396986,TRUE,23-Jan,heavy user,2,pve,784.63,
+1e801091-7f4d-4641-a547-b20c5be97b26,Kyla,Kleen,kkleen5l@networkadvertising.org,M,150.170.23.58,Portugal,Other,622867,TRUE,21-Dec,heavy user,59,pvp,699.26,19
+251506d9-5982-4b78-b955-0602de93ecb2,Gael,Fuller,gfuller5m@wp.com,F,210.248.69.3,Senegal,Other,233625,FALSE,22-Apr,medium user,93,fishing,651.96,1
+905dedbe-61bf-44b1-a747-8725c9f980fa,Bax,Stoade,bstoade5n@yellowpages.com,M,3.237.124.169,France,Other,968491,TRUE,22-Sep,heavy user,41,pvp,5008.24,
+736e75c4-d943-4257-8840-63b3e3a1f2cc,Erek,Lautie,elautie5o@vkontakte.ru,M,251.103.206.206,China,Other,40467,FALSE,23-May,heavy user,36,raid,6752.22,15
+8e79b744-da8d-4050-9127-776b72bfc38f,Merrile,Propper,mpropper5p@over-blog.com,M,60.5.75.91,Portugal,IOS,83779,TRUE,20-May,heavy user,14,fishing,9533.97,6
+eecad663-3757-413c-bb7c-aa54dd2d8df3,Woodrow,Davidy,wdavidy5q@economist.com,M,157.44.19.108,Japan,Other,374592,TRUE,20-Jun,heavy user,90,fishing,7291.06,10
+57bc91a9-15b2-446f-a034-6f57e92e7751,Bette,Goudie,bgoudie5r@is.gd,M,98.132.213.119,Tuvalu,Other,230886,TRUE,21-Jun,heavy user,97,pve,7028.24,11
+851fc8c3-7665-41b3-9385-f96fa539b3c0,Gran,Pitts,gpitts5s@printfriendly.com,F,179.219.36.6,Ethiopia,AOS,295567,TRUE,23-Feb,medium user,74,raid,8670.54,5
+84225151-0e0b-45fc-ac55-f4268f3cfcb4,Ramsey,St. Queintain,rstqueintain5t@spiegel.de,F,103.105.124.139,Indonesia,AOS,480955,FALSE,23-Apr,heavy user,21,raid,8822.1,15
+7851f0ac-3d07-41eb-af0f-b0a7b3159a79,Lyle,Stockin,lstockin5u@google.co.jp,M,237.120.104.202,Russia,Other,612992,FALSE,20-May,light user,87,pvp,4515.92,11
+c0099e8a-1409-4cdc-8476-b24324e7715c,Glennie,Kelemen,gkelemen5v@pcworld.com,F,162.241.162.95,Brazil,AOS,324923,FALSE,23-Oct,light user,47,pve,6000.5,16
+710400f4-831d-48ce-be05-5f74037ca990,Joy,Rosenberger,jrosenberger5w@google.pl,M,190.239.87.3,Bulgaria,AOS,346206,TRUE,22-Nov,heavy user,32,fishing,9707.12,10
+9e86f9a2-82ab-4146-b476-d8b02ce5e01f,Berkie,Durdy,bdurdy5x@ustream.tv,F,186.86.104.250,Russia,Other,687636,FALSE,22-Dec,heavy user,80,pve,8164.92,14
+f2eb3f16-8485-4188-bedf-2322536a8448,Honey,Swayton,hswayton5y@weebly.com,M,145.115.157.123,Tanzania,Other,172532,TRUE,23-Nov,light user,88,pve,8809.58,7
+12bc3ebd-0b71-4314-959a-e80e8de62046,Abbey,Ibbotson,aibbotson5z@discuz.net,F,113.234.37.36,Hungary,IOS,749361,FALSE,24-Jan,heavy user,76,fishing,8650.24,4
+ceedae84-5a32-46fc-9117-9a7764da5a7e,Sherlock,Wines,swines60@ibm.com,F,22.67.204.226,Philippines,Other,74520,FALSE,21-Dec,heavy user,23,pvp,9089.25,7
+3c002e01-6e3b-4d9b-bbb7-f7109a623ae2,Winonah,Panks,wpanks61@pcworld.com,M,222.125.87.74,Philippines,Other,181485,FALSE,20-Mar,heavy user,45,raid,8228.26,1
+6cfc9a4b-d868-4c2d-9589-5f9f0999a4c0,Cully,Govier,cgovier62@eepurl.com,F,48.22.122.193,Colombia,Other,756987,FALSE,23-Apr,heavy user,56,pvp,2023.74,3
+c021abaf-9613-4375-ab83-8d0c974c236d,Neil,Spears,nspears63@microsoft.com,F,213.214.18.147,New Caledonia,Other,595045,FALSE,21-Oct,medium user,10,fishing,7101.85,17
+37904ee1-e76a-4e18-9216-730aacab4c6f,Mylo,Goldfinch,mgoldfinch64@ehow.com,F,64.22.247.155,Afghanistan,IOS,599494,TRUE,20-Oct,heavy user,72,fishing,44.2,
+b0f3c3f1-4cf6-4703-980e-4bd1cd2ec252,Raquela,Erdely,rerdely65@hibu.com,M,178.2.110.45,China,Other,8547,FALSE,23-Mar,medium user,17,raid,1561.26,13
+c81ef41b-31dc-4ed9-a0d4-0946ed293471,Rhodia,Maulkin,rmaulkin66@last.fm,M,13.191.151.106,Venezuela,Other,62449,FALSE,21-Jan,heavy user,51,pvp,423.86,5
+9ba2b2ec-927f-44e0-9e63-f886f674d7c4,Celestine,Orry,corry67@smh.com.au,M,193.5.165.18,Ukraine,Other,324015,FALSE,23-Apr,light user,80,pvp,4035.14,
+5cb63b2e-f27e-4016-98c9-55d229283c9b,Lindon,Booker,lbooker68@51.la,F,220.159.180.38,China,Other,113434,FALSE,22-Nov,heavy user,67,pvp,7190.93,
+c8ee694b-777c-430b-bf43-f2f05e5c3f49,Joanna,Guyon,jguyon69@privacy.gov.au,M,210.61.241.54,China,Other,631850,FALSE,20-Feb,medium user,66,fishing,458.12,12
+99f9d66b-c992-4e22-b64c-48c357adda17,Esteban,Brydie,ebrydie6a@tamu.edu,F,94.18.110.203,United States,IOS,623513,TRUE,20-Dec,heavy user,86,raid,1067.36,
+30fb0710-081c-40a3-83f0-34700398a6ce,Demott,Rosentholer,drosentholer6b@uol.com.br,F,109.124.100.40,France,IOS,261149,FALSE,20-Jul,heavy user,48,pve,2338.27,14
+8e69da94-6856-42d6-9657-3dd177f397ae,Caryl,Bruggen,cbruggen6c@odnoklassniki.ru,F,148.178.81.10,Indonesia,Other,148201,TRUE,20-May,heavy user,33,pve,7481.48,5
+beeb345c-f489-4afd-b4c1-c1586cc0d877,Jaine,Crocombe,jcrocombe6d@nih.gov,F,102.251.99.2,Ukraine,Other,136383,TRUE,23-Apr,medium user,55,pvp,1954.62,
+5a8d0f70-b5d9-4f8a-b4f1-3bbe84e0458c,Andy,Haggerstone,ahaggerstone6e@deviantart.com,F,229.10.25.62,China,IOS,792686,FALSE,20-Jul,heavy user,5,pve,5992.84,10
+a5a446c7-8dc7-4e5b-8ea6-c50d7f3e97b0,Damita,Slocomb,dslocomb6f@psu.edu,M,43.172.77.147,Zambia,AOS,526256,FALSE,22-May,heavy user,11,pve,1860.59,10
+1c4b7d72-7f6f-4c00-a2c3-507d0bda8078,Josephine,Coady,jcoady6g@huffingtonpost.com,M,46.29.160.41,China,Other,656437,FALSE,23-Jun,heavy user,28,pve,1001.45,15
+f6c7d09b-2089-4c5a-a204-49da4cf2f081,Sabina,McKirdy,smckirdy6h@stumbleupon.com,M,123.205.21.39,Slovenia,Other,20081,FALSE,20-Oct,heavy user,99,pve,7108.01,
+d2176a81-492b-4053-af5f-b899309726a2,Joel,Greneham,jgreneham6i@boston.com,F,208.85.237.168,Ukraine,Other,416427,TRUE,23-Sep,heavy user,52,pve,7239.74,1
+48c8bee1-15bd-4a5c-b440-13d32b746191,Hendrik,Ruslin,hruslin6j@businessweek.com,M,30.171.162.9,Kazakhstan,Other,498089,TRUE,21-Oct,heavy user,89,pve,1315.36,19
+d606d9b1-e37c-441d-a84f-897b97f0c1fb,Minna,Chaloner,mchaloner6k@acquirethisname.com,M,75.196.103.145,Sweden,Other,205185,FALSE,23-Sep,heavy user,90,pvp,7681.19,12
+255ad37e-ba8f-4a38-815a-30873af29b9e,Fairleigh,Favela,ffavela6l@about.me,M,43.210.254.23,Russia,AOS,819673,TRUE,23-Aug,heavy user,9,pve,1099.45,
+4b4f9f70-1125-42a5-ad1e-8c58105357c6,Rodolfo,Smithies,rsmithies6m@goo.gl,M,43.155.248.222,Poland,Other,622553,FALSE,22-Oct,heavy user,51,fishing,8059.17,6
+40398eee-ae54-4929-8b2b-b3efce2bbe45,Clemence,Moncarr,cmoncarr6n@europa.eu,F,193.187.40.129,Japan,Other,778530,TRUE,22-Dec,heavy user,99,fishing,3480.83,9
+5d48c672-3e50-43a2-b099-0820ebd884b1,Bethanne,Longhorne,blonghorne6o@dion.ne.jp,M,23.120.41.23,Indonesia,Other,495088,TRUE,20-Jan,heavy user,67,pve,5879.73,2
+e5e257b5-ce7c-4a5b-b967-461be615b277,Farris,Marnes,fmarnes6p@berkeley.edu,M,114.3.243.46,Brazil,Other,688044,FALSE,21-Dec,heavy user,27,fishing,5532.05,
+ef101f59-c444-4fc5-a1de-3d685481e555,Olin,Orsman,oorsman6q@walmart.com,M,209.28.175.242,China,IOS,804442,FALSE,20-Feb,heavy user,12,fishing,1688.14,18
+79072b76-0f14-4e41-8462-72cfcd8dbc69,Ardyth,Tansill,atansill6r@shop-pro.jp,F,193.118.38.103,Sweden,Other,644612,TRUE,23-Jul,medium user,23,raid,11.04,10
+1c8ff9d4-9cd3-4e95-972a-0efc2e643530,Rube,Perview,rperview6s@yelp.com,F,29.25.24.202,China,Other,899505,FALSE,21-Jun,heavy user,87,pve,2544.48,11
+51ca8039-72d7-4c38-bf80-67a47a6abacd,Andreana,Budik,abudik6t@icq.com,F,93.79.44.185,China,Other,915156,TRUE,22-Aug,light user,26,fishing,6486.88,16
+67894b1d-d21d-4291-ad61-9f119d61ddde,Ransom,Valance,rvalance6u@weather.com,M,40.190.215.53,Peru,IOS,586198,FALSE,20-Dec,heavy user,28,pve,3873.75,10
+5c9bcebc-ab99-4ae4-941e-81cbc76fce87,Karoly,Ewert,kewert6v@yahoo.co.jp,F,10.116.109.43,China,Other,644822,FALSE,20-Feb,heavy user,83,pve,4396.32,13
+5327837c-c7a5-4d66-abe6-754afef4033b,Caz,Jealous,cjealous6w@businessweek.com,M,74.226.119.137,Russia,IOS,463990,FALSE,20-Jul,medium user,93,pvp,5184.46,19
+521d467d-63df-40d9-be1d-9528f1c186c9,Tally,Bickerstasse,tbickerstasse6x@boston.com,M,191.163.40.175,China,Other,653713,FALSE,20-Jul,heavy user,54,pve,9296.3,11
+4bfdc2f6-e5df-406d-bb59-1266aaf66eec,Nanni,Meltetal,nmeltetal6y@alexa.com,M,5.227.119.201,Sweden,Other,219498,TRUE,23-Jan,heavy user,51,pvp,1692.49,4
+7e01a671-b022-4373-9690-a551b90c2a0d,Mildred,Dillow,mdillow6z@spiegel.de,M,70.177.95.112,Palestinian Territory,Other,372770,TRUE,21-Mar,heavy user,2,pve,3148.91,5
+9561a1f4-d60f-4f2c-a93a-f98c395cd8f7,Una,Tidbold,utidbold70@webeden.co.uk,M,136.115.83.145,Philippines,AOS,370308,FALSE,22-Dec,heavy user,81,pve,6442.97,7
+24980a73-93a4-4d99-90e7-7c0973012f3a,Christiana,Odgaard,codgaard71@geocities.com,F,56.113.230.211,Kenya,Other,19680,TRUE,22-Feb,heavy user,83,pvp,7040.25,12
+5703acb0-7422-4330-8830-2fe644062447,Joela,Preshous,jpreshous72@aol.com,F,101.5.14.222,Marshall Islands,Other,691754,FALSE,23-Dec,heavy user,39,pve,316.98,11
+863900f7-07f6-4cb9-a17f-15f4ca234544,Lorna,Stentiford,lstentiford73@arizona.edu,F,134.135.32.3,Philippines,Other,599061,FALSE,21-Apr,heavy user,64,fishing,9510.6,7
+eae8f12e-ef5d-432b-b8e9-0dbf78ff02f8,Marline,Shiers,mshiers74@vk.com,M,79.237.48.9,China,Other,196890,FALSE,22-Feb,heavy user,2,fishing,7298.2,5
+9b3958b9-3b8b-4b55-b2fa-3c1ae0f155a0,Asia,Herion,aherion75@hibu.com,M,40.109.224.11,France,Other,201820,FALSE,23-Dec,heavy user,92,raid,6817.2,
+e2663927-10cc-4f03-ab6b-28973cc17cda,Benedetto,Vasilenko,bvasilenko76@apache.org,M,238.127.36.48,South Africa,Other,879595,FALSE,20-Jun,heavy user,69,raid,8689.29,13
+d23f8590-1026-4a0c-ae66-8754c38d1843,Leonerd,Haking,lhaking77@twitpic.com,M,238.87.215.144,Peru,Other,739612,TRUE,22-Oct,heavy user,2,pve,6034.88,8
+3816c93f-54aa-4216-a1dd-9535f65863fe,Manda,Tremathick,mtremathick78@twitpic.com,F,43.79.117.186,Brazil,Other,590058,TRUE,21-Jan,heavy user,79,pve,1353.44,14
+fcb5a53e-1aa0-4a1f-9852-575bd4d0b56e,Gayler,Rimell,grimell79@google.nl,M,12.80.252.165,Japan,Other,574475,TRUE,22-Aug,heavy user,56,raid,1968.63,2
+551d4cae-344f-45b2-9c9f-43eb51b5bb36,Augusto,Wathen,awathen7a@topsy.com,F,203.178.185.226,Indonesia,Other,847064,FALSE,22-Jul,heavy user,37,raid,6938.75,6
+0944d3c5-23ee-4d07-90f3-eb00229aa589,Alissa,Smorthit,asmorthit7b@furl.net,F,122.122.200.126,Croatia,Other,33269,FALSE,21-Dec,heavy user,28,fishing,7945.56,7
+212151d5-4496-4d11-880c-5841b96642f5,Sawyere,Saich,ssaich7c@nydailynews.com,M,59.243.233.58,Sweden,Other,641128,FALSE,21-Mar,heavy user,70,fishing,8302.56,
+76c2332a-6058-4fee-ad44-4ec2e0a4348f,Tedie,Fetherby,tfetherby7d@friendfeed.com,F,60.146.221.157,Argentina,Other,736524,FALSE,21-Mar,light user,11,pve,6600.43,2
+9fed2697-2215-4bc1-82b8-6212983203f4,Hazel,Harroll,hharroll7e@flavors.me,F,236.105.137.245,Sudan,Other,945320,TRUE,20-May,heavy user,10,fishing,6200.3,20
+ee8244cb-ae97-4bb9-804f-327d81cea22a,Eleanor,Trusler,etrusler7f@prweb.com,F,23.238.85.251,Canada,IOS,963823,FALSE,23-Feb,heavy user,55,pve,3205.87,
+1e264a50-fb1c-4db8-a4b5-b473470fd290,Damiano,Lacroux,dlacroux7g@wisc.edu,F,8.143.138.213,Poland,AOS,866646,FALSE,23-Apr,heavy user,33,pvp,4258.55,8
+cc892312-b93a-4605-a6ae-63f3e2e290dc,Benita,Olrenshaw,bolrenshaw7h@eepurl.com,M,222.16.194.62,Greece,Other,996401,FALSE,23-Sep,medium user,88,fishing,1471.98,19
+19dee50f-ca43-4d9f-bbe4-de726f63255f,Nona,Satterlee,nsatterlee7i@census.gov,M,90.156.191.139,Thailand,Other,626803,FALSE,20-Jun,light user,99,fishing,2351.39,6
+e83ddd86-4a9a-4465-a5e8-1129942425b7,Dahlia,Dagon,ddagon7j@loc.gov,F,195.1.207.102,Colombia,IOS,580320,FALSE,23-Nov,heavy user,27,pvp,6114.01,12
+52ba0e47-b7a7-4de3-a214-6a60566d6918,Skip,McGuiness,smcguiness7k@tiny.cc,M,251.95.148.159,Panama,IOS,62892,FALSE,23-May,heavy user,55,pvp,3912.51,13
+dc706e6d-941a-486e-a2c0-4c24f64fcfab,Nickolai,Nuccitelli,nnuccitelli7l@sitemeter.com,F,184.72.3.68,China,AOS,631745,TRUE,20-Jan,light user,20,pve,3831.97,
+66a0a1ed-e9d0-40dc-8a19-b5e85fdf85f6,Paule,Trasler,ptrasler7m@nba.com,M,223.46.210.11,Indonesia,AOS,426512,FALSE,22-Dec,light user,25,pve,5986.4,2
+dafbcd68-0cf6-45da-a626-ec4e3c2308f0,Gallagher,Aves,gaves7n@goodreads.com,F,160.80.185.238,Philippines,Other,956157,TRUE,20-Jul,heavy user,11,fishing,4239.14,11
+f478d616-6a55-45e4-9281-1fa9d889ad81,Pearl,Meineking,pmeineking7o@about.com,F,153.247.65.254,Portugal,Other,343360,TRUE,20-Jan,heavy user,93,fishing,4967.93,3
+2cb15145-33c8-4a85-ab0a-fd6b9191f117,Debra,Comino,dcomino7p@jimdo.com,F,92.2.65.195,China,Other,878015,FALSE,22-Mar,medium user,15,pvp,9919.01,15
+dfaa7788-9456-48eb-8ee4-7c3098819374,Estele,Freckelton,efreckelton7q@wufoo.com,F,44.137.244.184,China,IOS,349739,TRUE,23-Jul,heavy user,64,pve,5120.67,18
+77c26304-05c3-4daf-8b48-96a33bd949d1,Myrtle,Lewcock,mlewcock7r@woothemes.com,F,140.142.133.4,Russia,Other,251301,FALSE,21-Oct,heavy user,8,pve,4868.91,4
+d6c396f3-7df1-4ab2-be7b-4cf8c8f9d1b6,Clareta,Dalmon,cdalmon7s@epa.gov,F,188.37.129.124,China,Other,316096,FALSE,20-Aug,heavy user,17,pvp,3254.75,
+6ffda7c9-6775-420a-af2f-709ec1cdd5a4,Tanhya,Littlekit,tlittlekit7t@wordpress.org,M,203.220.223.32,Russia,Other,419944,FALSE,23-Jun,medium user,66,fishing,4391.02,2
+7014f86b-0d0f-4be5-a487-7d96d7beb451,Philis,Jimmison,pjimmison7u@elpais.com,M,205.161.188.184,Albania,Other,640626,TRUE,22-Jan,heavy user,27,fishing,8740.5,9
+065d92c7-d756-48be-931c-6d4281de7098,Cathe,Wilmore,cwilmore7v@businesswire.com,F,7.149.165.62,China,IOS,703210,FALSE,24-Jan,heavy user,52,raid,7051.06,20
+78f81b55-7b98-4c2a-973e-d99b8fde6cf5,Maureene,Lomasny,mlomasny7w@google.de,F,214.98.148.8,Philippines,Other,123065,TRUE,22-Feb,light user,71,pvp,3437.07,18
+e51027b1-87a6-4fa7-a50a-f3c571ff18cb,Valeria,Sheldrake,vsheldrake7x@php.net,M,116.103.177.26,Indonesia,Other,48687,TRUE,20-Aug,heavy user,4,pvp,2831.72,5
+72c1502f-26a0-475e-815c-bfb7bd1a2d75,Pebrook,Woodison,pwoodison7y@archive.org,F,27.58.184.181,France,Other,655857,TRUE,20-Apr,light user,65,fishing,8473.56,20
+0f34d66e-09c1-4b74-93ef-00bf2982ce92,Cate,McCard,cmccard7z@cbsnews.com,M,204.4.57.112,Democratic Republic of the Congo,Other,988716,TRUE,20-Oct,heavy user,13,raid,9759.36,4
+1432164e-0bcd-4834-8283-9e8daf8f4143,Ondrea,Seebright,oseebright80@tripod.com,M,149.55.139.209,China,Other,993393,FALSE,21-Dec,medium user,13,pvp,7931.05,1
+cb0c123f-edcc-4c01-84c1-76f68e69ce44,Mikol,Kubecka,mkubecka81@163.com,F,239.251.89.253,China,IOS,46453,FALSE,23-Dec,heavy user,11,fishing,7941.83,4
+19536f34-ad7f-48f3-b70b-25f58b706ac8,Jelene,Galey,jgaley82@quantcast.com,F,252.100.57.151,Jamaica,Other,661178,TRUE,23-Jul,medium user,5,pvp,8294.76,
+151647c4-67d7-4f7a-90e8-a76889c72992,Ruthie,Getten,rgetten83@europa.eu,M,245.154.121.101,China,Other,306527,TRUE,21-Jan,heavy user,62,raid,6376.54,5
+a59c015f-6b2c-4234-9bd3-c585755c5f2e,Eudora,Ogger,eogger84@sourceforge.net,F,81.123.54.200,Sri Lanka,Other,945774,FALSE,20-Feb,heavy user,13,pvp,7155.05,19
+f9a940f1-f7ed-493a-b35e-8a1629ec21c1,Henrietta,Hoff,hhoff85@free.fr,F,3.89.14.121,Argentina,Other,90654,FALSE,21-May,heavy user,38,pve,4157.93,1
+2c3c2a3b-33d5-4a3a-99f8-eafc6b9189e1,Walden,MacShirie,wmacshirie86@nasa.gov,M,15.254.155.227,Sweden,Other,989692,FALSE,21-Feb,heavy user,4,fishing,1389.43,5
+4d6f4120-eeea-4537-9f44-713cab594433,Sande,Benthall,sbenthall87@artisteer.com,F,86.82.187.236,Philippines,Other,415382,FALSE,20-Apr,heavy user,62,pvp,8367.68,1
+6e658870-66c0-4c50-8dc0-7a235d66b7af,Nobie,Mussington,nmussington88@nih.gov,M,210.48.51.180,Poland,Other,668078,TRUE,22-Dec,medium user,12,pvp,1124.97,2
+50ecebf7-90d1-41ff-87cc-212aed165320,Laughton,Hartshorne,lhartshorne89@t-online.de,F,213.199.76.104,Djibouti,IOS,769596,TRUE,23-Nov,heavy user,20,fishing,6311.57,4
+1511cfd2-9ff0-42ea-93f1-4270e280665d,Ruthe,Edgson,redgson8a@nifty.com,M,13.50.30.2,Zimbabwe,Other,535299,FALSE,21-Apr,heavy user,25,raid,9907.26,9
+1f097cf4-3b9f-4bb2-a0e4-062c6c8e842c,Cindra,Fulstow,cfulstow8b@telegraph.co.uk,F,226.199.250.50,Uzbekistan,Other,352822,FALSE,20-Jan,heavy user,8,pve,9570.95,16
+bb3dfe50-c6fa-42e0-b903-eea95553c1ad,Neill,Blaker,nblaker8c@si.edu,M,54.205.46.208,Indonesia,Other,258388,TRUE,20-Apr,heavy user,33,pve,7456.73,5
+b076a661-f3b7-4d79-a8a4-07e2921b833e,Reamonn,Raddon,rraddon8d@nationalgeographic.com,M,210.98.161.90,Argentina,Other,876125,TRUE,23-Oct,heavy user,70,pvp,6208.06,17
+d823afcf-dd7c-4515-a8ad-632aa4d2a8a0,Perry,Seccombe,pseccombe8e@oaic.gov.au,F,197.68.61.31,Indonesia,Other,709551,FALSE,21-Dec,heavy user,94,pve,1650.62,9
+588628e8-0aab-4cfd-a92f-12c470ac0a02,Katlin,Hallede,khallede8f@google.pl,M,187.147.89.214,Croatia,Other,916923,TRUE,20-Dec,heavy user,23,pvp,583.32,5
+ffcad4d9-5f7a-4796-a19a-e93c00ab2444,Jakie,Oakton,joakton8g@4shared.com,M,153.9.43.36,Morocco,Other,105681,FALSE,23-Nov,heavy user,16,pvp,920.39,8
+26fa2214-c648-4d36-8882-436f73fc7a1b,Renae,Cusack,rcusack8h@tamu.edu,F,251.216.13.208,Russia,IOS,600824,TRUE,22-Aug,heavy user,77,pvp,4706.77,16
+324226cb-fcbb-421c-abf7-8f93dfdaa717,Clarita,Applewhaite,capplewhaite8i@aboutads.info,M,152.144.253.101,Vietnam,IOS,697577,FALSE,23-Jun,heavy user,98,fishing,1966.57,18
+05eb53c0-672e-4b66-908c-0eed651be53c,Vera,Schutze,vschutze8j@samsung.com,F,180.59.87.40,Dominican Republic,Other,17434,FALSE,22-May,light user,74,pvp,5979.3,8
+836b5c52-d553-4578-b3c7-b25a675a88f5,Benton,Braidwood,bbraidwood8k@goo.gl,F,207.17.43.43,Russia,Other,336772,FALSE,21-Dec,light user,96,pve,9270.09,
+ef1e204c-1df9-4318-baf1-d6cc047f2112,Shaw,Sloat,ssloat8l@gmpg.org,M,239.51.3.94,China,Other,542024,FALSE,20-Jan,light user,37,fishing,7387.67,7
+6552384b-79fa-4c0b-b2ad-14353a358649,Saunderson,Cesco,scesco8m@census.gov,F,7.67.210.87,Russia,IOS,977695,FALSE,22-Jan,heavy user,23,pve,1713.43,14
+0cdd5912-3503-4704-91f8-f758026668a0,Sofia,Kirtlan,skirtlan8n@mozilla.com,F,232.19.136.177,Panama,Other,454854,FALSE,20-Oct,light user,94,pve,3762.43,16
+2f663c2e-9610-4b2c-888c-49eba2410ef3,Dian,Theunissen,dtheunissen8o@jigsy.com,F,185.251.69.84,Poland,Other,958308,TRUE,22-Jan,heavy user,79,pvp,4548.28,
+41a4268d-0df8-451f-8124-3e9ff9c88fc9,Eyde,Markwelley,emarkwelley8p@dion.ne.jp,F,66.43.4.217,Indonesia,Other,178715,TRUE,23-Aug,heavy user,52,fishing,22.48,17
+867c469b-63ac-4262-b798-0899f0c6e907,Demeter,Merredy,dmerredy8q@bigcartel.com,M,47.120.176.171,Portugal,Other,457278,TRUE,20-Aug,medium user,79,fishing,6518.55,
+37d0d8f8-1661-45a2-bb58-a16154192f09,Dulsea,Ivimey,divimey8r@archive.org,M,254.144.216.86,China,AOS,187858,FALSE,20-Mar,light user,75,pve,8159.52,8
+f8f0e16c-ae24-4e2e-92a1-1ab52e37c327,Lannie,Malcolmson,lmalcolmson8s@slate.com,F,121.246.36.30,Belarus,Other,121922,FALSE,23-Apr,heavy user,24,fishing,9740.75,1
+0e137ee9-6fd4-4407-9c79-feda797174a7,Seline,Yvon,syvon8t@i2i.jp,F,207.187.22.177,Portugal,Other,301180,FALSE,20-Apr,medium user,34,raid,2348.26,12
+ad873a3a-ec0f-4d0e-8cfb-2487a3acb2d9,Filide,Maymand,fmaymand8u@weather.com,F,133.107.105.127,Russia,AOS,41364,FALSE,23-Jun,heavy user,46,fishing,8557.99,20
+b2707a1c-eec3-415d-891f-a85daa3cdf2e,Arch,Rosnau,arosnau8v@desdev.cn,F,162.173.85.116,China,Other,673979,TRUE,20-Oct,heavy user,41,raid,5646.07,11
+d38b4bfe-6423-44cc-b125-f95db8ae6663,Deeyn,Gissop,dgissop8w@ucla.edu,M,54.102.174.27,Japan,AOS,785925,FALSE,21-Jul,heavy user,10,pvp,4032.88,
+5a064fcd-41e1-45b8-8c42-0457370ed14d,Amil,Woodyear,awoodyear8x@icq.com,F,23.194.78.46,Finland,Other,558121,TRUE,21-Jun,heavy user,68,pve,9631.21,20
+d8cadf9e-974a-4c30-bb42-51bdde137031,Jacenta,Berntssen,jberntssen8y@reverbnation.com,F,254.219.131.33,Mexico,IOS,113493,TRUE,21-Dec,heavy user,38,raid,5169.03,15
+1a2e192b-8182-4eb9-9837-92f3424ceb9e,Cort,Bertomier,cbertomier8z@sun.com,M,143.32.209.37,Azerbaijan,Other,45260,TRUE,21-Dec,heavy user,97,fishing,1750.45,4
+d39dbd90-8ba6-4a08-8be3-3bee38c95d8e,Germaine,De Anesy,gdeanesy90@jugem.jp,F,70.251.223.221,China,Other,576858,TRUE,20-Aug,medium user,62,raid,6857.14,10
+7ca806c3-bfac-41f0-93d1-d405e13fa7cd,Althea,Fost,afost91@tripadvisor.com,F,174.73.168.63,Thailand,Other,148937,TRUE,20-Jul,heavy user,28,pve,7223.04,7
+8b23359f-9330-4fc9-82e3-f2fb5224bad6,Rutherford,Waylett,rwaylett92@ebay.co.uk,F,214.38.20.36,Poland,Other,332171,FALSE,20-Sep,heavy user,72,pvp,7960.19,16
+6b31b516-168b-4ce6-a153-aa07c039cdd5,Belva,Abbess,babbess93@bbc.co.uk,F,195.225.169.137,Brazil,AOS,316620,TRUE,22-Nov,heavy user,9,pvp,6413.76,
+6c8a0376-1df6-4633-bdb0-1ff9d6f28e07,Kevon,Borless,kborless94@patch.com,M,122.118.55.126,Philippines,Other,553028,FALSE,22-May,heavy user,66,pve,9145.9,13
+be3a5d7a-c960-462f-80b6-2a5242fc7c53,Craggy,Stubbe,cstubbe95@yellowpages.com,F,186.129.206.223,France,Other,247550,FALSE,22-Aug,heavy user,3,fishing,6830.73,16
+a8cb966d-9643-445d-bb7f-ed501e94b194,Torre,Fritzer,tfritzer96@intel.com,M,229.251.226.43,United States,IOS,146390,TRUE,23-May,heavy user,27,pvp,9014.75,13
+2aeee7a4-7e40-47e7-8d06-e24c2b869b62,Gerty,Pimlott,gpimlott97@is.gd,F,223.7.255.124,Sweden,AOS,670717,TRUE,20-Nov,light user,100,raid,2299.47,8
+2876e642-19b8-4f8c-9a08-782e038644ad,Kaleb,Philippon,kphilippon98@imgur.com,M,96.4.88.48,Russia,IOS,809186,FALSE,22-Sep,heavy user,5,raid,6059.6,
+0757a733-5c82-44bf-9229-d95dde0c94de,Lynde,Corris,lcorris99@flickr.com,F,57.106.163.197,China,AOS,539405,FALSE,20-Oct,heavy user,63,pvp,4827.24,14
+f4ce109d-3ddc-48f0-b967-569b57b39939,Montague,Armitage,marmitage9a@drupal.org,M,143.233.161.89,Yemen,Other,828843,FALSE,23-May,heavy user,17,fishing,9558.78,20
+6b339400-ed55-4337-882e-3961a09ec9b4,Rhianon,Lumsden,rlumsden9b@mysql.com,M,223.115.238.114,France,Other,576413,TRUE,23-Mar,heavy user,57,pve,2512.47,3
+1ad311e0-1000-4c29-8b1d-6ff9f51bc89e,Birdie,Jeens,bjeens9c@hhs.gov,F,183.98.22.14,China,Other,704900,TRUE,21-Apr,heavy user,86,pve,7330.33,
+4a6ef4bc-6d48-4360-9463-dba1531a5c5b,Bernhard,D'Hooghe,bdhooghe9d@ted.com,M,171.24.185.171,Philippines,IOS,522835,TRUE,22-Dec,heavy user,71,pve,3999.53,15
+560ed6f6-e6e8-43ec-af15-24fea7b0c605,Cassy,Gibberd,cgibberd9e@wikimedia.org,F,135.184.128.254,Indonesia,AOS,516143,TRUE,23-Mar,heavy user,30,fishing,8923.7,1
+b9254b11-f3ef-4099-aa6d-0fa776b32f97,Darrelle,Butters,dbutters9f@scribd.com,F,212.0.210.202,Costa Rica,Other,654107,TRUE,21-Aug,medium user,31,pvp,535.01,17
+f45224f5-34f0-4127-9814-cf5fecec30e8,Cletis,Kann,ckann9g@mapy.cz,M,39.151.179.115,Argentina,Other,794343,FALSE,20-Apr,heavy user,60,pvp,8214.34,19
+19be51ef-4bc9-4660-baf2-ba7aa0d3b227,Darill,Phinnis,dphinnis9h@wufoo.com,M,181.28.174.94,China,Other,830697,TRUE,23-Apr,heavy user,29,raid,3752.28,7
+37e5dc68-a425-49e8-862a-5568020b7e70,Webb,Kidman,wkidman9i@yahoo.com,F,142.190.223.0,China,Other,681279,TRUE,22-Jan,heavy user,42,pvp,3053.37,
+81188394-84da-4de3-af18-62ac53ed09eb,Ricard,Westphalen,rwestphalen9j@cdc.gov,F,181.152.178.149,China,Other,364296,TRUE,23-Feb,heavy user,16,pve,7695.21,10
+0e6af868-07a4-4c4c-81bc-c95d9df5b9dd,Winnah,O'Dyvoie,wodyvoie9k@disqus.com,M,171.254.176.169,France,IOS,258352,TRUE,20-Dec,heavy user,68,raid,1203.09,2
+d7f30ea5-89b0-45a4-a4b9-c57573efb4fc,Liva,Hardie,lhardie9l@columbia.edu,M,190.243.64.124,Czech Republic,Other,728606,TRUE,21-Jun,heavy user,68,pvp,7249.39,6
+6abfb3a8-df8a-415c-bbf1-c989f100503d,Gallard,Venton,gventon9m@elpais.com,M,47.39.58.215,Poland,Other,981541,FALSE,23-Jan,heavy user,57,fishing,8686.14,
+08001cbc-c501-4104-9656-6e17e97ae60d,Dynah,MacCague,dmaccague9n@cnn.com,F,30.1.49.67,Mongolia,IOS,675334,FALSE,22-Nov,heavy user,19,fishing,9337.55,14
+951956e0-2c45-41e4-8bac-1844d32647f6,Georgette,Stains,gstains9o@weather.com,M,181.43.174.251,Mali,Other,639137,FALSE,21-Jan,light user,66,raid,5594.94,20
+df45706c-b129-4cc1-a244-eefb007ffcab,Valdemar,Kiehne,vkiehne9p@nbcnews.com,F,217.46.161.60,South Africa,IOS,304887,TRUE,20-May,heavy user,18,pvp,9836.35,
+91bd9675-7f89-4bf7-8e36-f780899c5ea9,Ricardo,Marshland,rmarshland9q@squarespace.com,F,183.138.242.36,South Korea,Other,453018,TRUE,20-Jul,heavy user,56,fishing,188.17,15
+f43752fa-9b09-418b-a201-ec38bf5008a8,Dulciana,Weakley,dweakley9r@istockphoto.com,M,131.121.130.66,Ukraine,Other,173630,FALSE,20-May,heavy user,91,raid,9126.94,1
+c114674a-e51c-40d6-ac8d-94d8a4ebb4df,Carrie,Ruperti,cruperti9s@adobe.com,F,225.111.162.75,South Africa,Other,3907,FALSE,21-May,heavy user,10,pvp,6505.21,9
+dcd9a012-e65a-4da5-815c-790072e20470,Bell,Tixier,btixier9t@pen.io,M,130.167.255.169,Mongolia,Other,699092,TRUE,20-Jan,heavy user,44,fishing,5790.78,9
+6389fc72-84b0-4d32-8085-28724f80b65c,Odetta,Tomas,otomas9u@adobe.com,M,5.28.193.69,China,AOS,243639,FALSE,21-Jul,heavy user,47,fishing,524.81,
+b64a0b20-2fad-4ec5-8a16-a88ca1b5061b,Lanette,Lebond,llebond9v@mac.com,M,207.69.67.178,Dominican Republic,Other,435955,TRUE,23-Oct,heavy user,60,pve,6914.16,3
+394431f4-d9c1-4dce-bcbf-566df60554d2,Salomo,Dallaghan,sdallaghan9w@furl.net,M,104.252.18.86,China,IOS,926825,TRUE,21-Dec,heavy user,11,pvp,2784.34,20
+92712572-6ec6-4218-9b0a-d13257da6911,Lyle,Josefsen,ljosefsen9x@sphinn.com,F,49.54.133.88,Malaysia,Other,90664,TRUE,22-May,heavy user,87,raid,5820.23,13
+6d2a103c-1c8a-48e3-9d32-c47df97d2e37,Fredrick,O'Farrell,fofarrell9y@google.com.au,M,24.40.130.168,Indonesia,Other,412724,FALSE,23-Jul,medium user,80,pve,2425.36,1
+626cc9e6-79af-44f6-b658-a03741a4f9c6,Bo,Richemont,brichemont9z@joomla.org,M,249.148.16.177,Indonesia,Other,428953,TRUE,21-Jan,heavy user,81,fishing,6763.22,18
+c713628c-0830-436e-9e2b-9fcf32bb5a61,Amos,Oventon,aoventona0@gnu.org,M,231.80.240.171,Djibouti,Other,763893,FALSE,23-May,heavy user,58,pve,9137.42,12
+bebc5818-5aa3-4848-8faa-d09f3c23c96d,Wilbert,Despenser,wdespensera1@drupal.org,M,193.112.161.139,Tanzania,Other,467413,FALSE,20-May,heavy user,75,pvp,6494.71,19
+39e0f1be-f400-4366-8bd3-1a91b7385644,Erek,Pattillo,epattilloa2@technorati.com,F,204.23.110.204,France,Other,954189,TRUE,20-Jun,heavy user,68,fishing,6743.57,12
+e040f69f-0e5b-4f08-a59f-38d4caa27b4b,Nye,Bonhan,nbonhana3@cbsnews.com,M,121.54.38.190,United States,AOS,884879,FALSE,21-Mar,heavy user,11,fishing,1951.04,4
+48548d02-cd7c-4b13-af96-b62be5f073e8,Craggie,Oakes,coakesa4@icio.us,F,127.150.101.49,Sweden,Other,951417,TRUE,20-Dec,heavy user,65,pve,6289.11,9
+ee6af90c-bc22-4dc8-9db6-60b8c8fc4779,Gerrie,Meriton,gmeritona5@sphinn.com,F,36.210.117.78,Russia,Other,153071,TRUE,23-Feb,heavy user,90,pve,4257.02,17
+49f5d7d4-a57b-43ec-9e30-6b25442ff1ac,Phip,Newlan,pnewlana6@newyorker.com,M,249.17.106.38,Tajikistan,Other,972272,FALSE,23-Jan,heavy user,29,pve,8134.84,5
+8fe2d840-771d-4afd-b16b-3fb1313a82ad,Petronella,Alltimes,palltimesa7@fc2.com,M,225.107.89.241,Canada,AOS,937022,FALSE,20-Apr,medium user,32,pvp,8026.57,13
+f73e750a-f934-476e-9ca8-4f2cc391f3b5,Vassili,Edmans,vedmansa8@skype.com,F,9.106.44.73,Mexico,AOS,230803,TRUE,21-Aug,heavy user,86,fishing,1312.85,
+1cd707b7-784d-4e42-9c44-0eb65d31f376,Jacynth,Eskrigg,jeskrigga9@tripadvisor.com,F,227.240.21.70,Philippines,Other,180888,TRUE,21-Sep,light user,73,fishing,218.73,15
+b6051c64-4205-4752-913a-ea91c23f5e67,Alex,Coggan,acogganaa@reverbnation.com,F,92.124.67.148,Kazakhstan,Other,723267,TRUE,20-Oct,heavy user,62,pvp,1706.5,10
+bc4b909d-124f-4da0-ae22-0643e83ed2de,Karlen,Oleszczak,koleszczakab@spiegel.de,F,192.2.59.161,Portugal,AOS,266601,FALSE,20-May,heavy user,86,pvp,4451.21,
+990f5769-1536-422e-9d82-cc4f54bd5dcc,Bridgette,Oxton,boxtonac@yellowpages.com,M,103.254.137.252,United States,Other,567543,TRUE,22-Nov,heavy user,69,raid,9170.24,6
+0666e4b5-1538-439a-8a54-afa15f630e59,Eziechiele,Hebner,ehebnerad@squarespace.com,M,165.171.58.185,Finland,Other,938747,FALSE,20-Mar,light user,50,pvp,764.76,
+7fc7ed6e-3cb2-4970-a2d1-ddbbfd46e7d6,Burl,Giacomasso,bgiacomassoae@usnews.com,M,139.171.160.103,Peru,Other,378091,FALSE,20-Aug,heavy user,63,pvp,7162.81,19
+900e0780-e628-48b6-86cc-3d46885e4781,Marquita,Ceresa,mceresaaf@studiopress.com,F,56.9.5.130,Colombia,Other,290976,FALSE,21-Aug,medium user,73,pve,6821.94,
+111d7542-683b-47d6-b2c1-541dcf239419,Justus,Poolton,jpooltonag@home.pl,F,40.179.165.13,Russia,Other,205725,FALSE,20-Jul,heavy user,21,pve,8936.5,12
+bb06e774-4eba-4716-afc6-ec6b09ed7707,Verna,Beatson,vbeatsonah@123-reg.co.uk,F,60.14.34.232,United States,Other,933416,TRUE,22-Dec,heavy user,64,pve,6406.25,9
+ff6b496c-6e29-4df3-8a7a-5974d31aa362,Micheal,Wakeley,mwakeleyai@un.org,M,60.164.196.14,Indonesia,Other,312151,TRUE,23-Jul,medium user,35,pve,8717.56,2
+aff1c610-c436-4897-a6a7-ea37e5934f68,Noe,Greasty,ngreastyaj@tiny.cc,M,208.203.4.102,Japan,Other,516298,FALSE,23-Nov,heavy user,52,pvp,6368.02,12
+2d4f35a1-92f3-4f2f-93ce-9e7096f64c28,Erl,Hamnet,ehamnetak@alibaba.com,F,163.148.162.146,Brazil,Other,575799,TRUE,20-Jan,light user,49,raid,5867.5,2
+c919c4bc-133a-4a19-83ce-32c063117623,Cordie,Klimshuk,cklimshukal@godaddy.com,M,5.74.12.0,Vanuatu,Other,404867,FALSE,22-Sep,heavy user,1,pvp,5905.49,5
+27e5eadf-6c5d-4285-83d9-35494914bd4b,Mab,Favill,mfavillam@cbsnews.com,M,187.127.229.206,Portugal,Other,106973,TRUE,20-Oct,heavy user,45,raid,5788.74,18
+86dd1acc-c4a2-4c55-8429-aac79086af44,Cordy,Franey,cfraneyan@arizona.edu,F,69.112.238.202,Russia,Other,724201,TRUE,22-Jul,heavy user,74,pvp,5778.76,14
+6607db1b-c13e-42a3-ae0b-305888ce0036,Horatio,Botterman,hbottermanao@parallels.com,F,191.125.7.170,Philippines,AOS,503054,FALSE,20-May,light user,2,pvp,6532.53,17
+c9c3679c-3681-41e2-aed1-c3f48fcb9b66,Urson,Coleshill,ucoleshillap@canalblog.com,M,215.216.241.113,Norway,Other,246451,FALSE,23-Jan,heavy user,31,fishing,9781.17,5
+f93f80ad-04d0-4d0c-9e15-d17af014b7e4,Davon,Savery,dsaveryaq@networksolutions.com,F,81.123.36.42,Honduras,AOS,398721,FALSE,22-Jan,heavy user,73,raid,7753.88,
+a862a9ff-dd98-4fa0-938a-6cbe50c9f3d1,Pavia,MacGibbon,pmacgibbonar@slashdot.org,F,158.160.2.253,France,AOS,421522,FALSE,23-Oct,heavy user,8,pve,6251.18,2
+45fbf195-c430-4414-9d45-ffbe9c9e9d9f,Glory,Lugg,gluggas@scribd.com,F,90.254.242.25,China,AOS,117218,TRUE,20-Mar,light user,94,pvp,3821.59,4
+316a9f4d-9e43-46ea-b88e-2780102e35fd,Hynda,Penney,hpenneyat@mtv.com,M,212.199.206.100,China,Other,422974,FALSE,20-Nov,medium user,94,fishing,8538.8,20
+2b944d8a-c0a2-4164-8b02-8845386625f1,Bobinette,M'Quhan,bmquhanau@illinois.edu,F,116.191.102.210,China,Other,617125,FALSE,20-Feb,light user,46,pve,2276.52,4
+fbd8d7a0-e47b-42e0-9123-322c000ce856,Rachelle,Beel,rbeelav@tamu.edu,F,172.39.35.227,Malaysia,Other,75677,FALSE,20-Feb,light user,48,pvp,7678.11,18
+c45ba15b-1d5d-46e2-a54f-2efc00902c99,Perri,Swinfen,pswinfenaw@thetimes.co.uk,F,169.219.68.5,Yemen,IOS,413841,TRUE,22-Mar,heavy user,96,fishing,5046.63,
+4eda1b74-d007-419d-abaa-8ee0a4a62f51,Eduardo,Treend,etreendax@webnode.com,F,38.129.207.253,Ukraine,Other,590627,FALSE,21-Oct,medium user,15,pve,2858.2,20
+e71b3470-2926-4778-ab8c-b7cf5dfbb643,Chas,McEachern,cmceachernay@va.gov,M,144.194.183.51,China,Other,473317,TRUE,21-Mar,medium user,67,pve,5792.45,
+197f4d42-c66e-486d-8c65-3e45e524f999,Nobe,Jon,njonaz@vkontakte.ru,M,166.194.73.46,Indonesia,Other,434179,TRUE,20-Nov,heavy user,34,fishing,917.52,2
+47c1e138-0748-4cb5-831e-1e841e9ac5b3,Rita,Haining,rhainingb0@pbs.org,F,31.106.216.128,Colombia,IOS,684767,TRUE,23-May,heavy user,24,pvp,1223.84,3
+ce896c51-ff94-4b7e-849a-4222936d52a9,Skell,Hegg,sheggb1@amazon.co.jp,M,26.110.225.231,Indonesia,IOS,494737,TRUE,21-Nov,heavy user,13,raid,6397.73,18
+818756db-165a-4e1a-9a53-2f3657377966,Rob,Darrel,rdarrelb2@csmonitor.com,M,200.52.127.118,China,Other,234379,FALSE,23-Aug,heavy user,43,pvp,8033.9,5
+d273f911-f46a-414c-9813-95e84561692f,Jenelle,Crannage,jcrannageb3@dyndns.org,F,140.159.87.247,Sweden,Other,79307,TRUE,20-Dec,heavy user,92,fishing,12.92,17
+39c629fe-507d-44d7-b082-78b6aeebb9a2,Phil,McCurry,pmccurryb4@blogspot.com,F,26.241.169.219,Ecuador,Other,317215,TRUE,20-Mar,heavy user,77,pvp,9372.32,9
+45298ddf-8451-4c3f-922a-d34b0fe58184,Ximenez,Bartholomew,xbartholomewb5@imdb.com,M,244.141.203.178,China,Other,356296,TRUE,20-Jan,heavy user,4,pve,5584.02,13
+32f79280-8afe-4f32-91b6-aa1adb4eae5f,Johanna,Trueman,jtruemanb6@mediafire.com,F,127.251.226.30,China,Other,629600,FALSE,21-Jun,heavy user,87,raid,490.47,7
+7fd34f20-f69c-4247-a4d6-8b055234c5b1,Eleanore,Wolton,ewoltonb7@behance.net,F,87.219.67.98,Bulgaria,AOS,467724,FALSE,20-Jul,medium user,50,raid,4133.73,15
+8e490d9d-f338-412e-87b3-a20e04e1462f,Janek,Berrisford,jberrisfordb8@mail.ru,F,19.67.235.70,Indonesia,Other,128707,TRUE,22-May,heavy user,77,pve,257.22,
+65c14e4a-9993-4dc7-9af7-704a31cdff3f,Irina,Scardifield,iscardifieldb9@earthlink.net,M,88.217.178.41,Czech Republic,Other,439251,FALSE,22-Mar,light user,26,raid,9517,12
+44bd6340-8b18-4883-8768-9279306c5588,Cicily,Haxbie,chaxbieba@xinhuanet.com,F,129.143.150.219,France,Other,580538,TRUE,20-Apr,heavy user,16,pve,6803.3,
+d1ef20d6-5d83-4afd-bc4d-edeaa7a6b2fb,Sol,Varrow,svarrowbb@baidu.com,M,148.133.97.205,Egypt,Other,416422,FALSE,20-Dec,heavy user,2,raid,9784.03,12
+9d96149c-a73c-4b2c-9330-26c9b85d4101,Skippie,Scholfield,sscholfieldbc@nature.com,F,146.244.48.112,China,Other,843028,FALSE,23-Mar,heavy user,58,pvp,7483.65,3
+8944e8e6-c619-469a-ba1f-c7d8e885981e,Christoffer,Richter,crichterbd@slate.com,F,98.157.253.208,Philippines,Other,199544,TRUE,23-Jan,heavy user,73,pve,2028.77,1
+bb17d81c-bbbc-4dec-a57f-3a574ae69f8a,Huey,Barthod,hbarthodbe@ning.com,M,145.181.201.180,Indonesia,Other,881229,TRUE,22-Nov,heavy user,69,pvp,6811.08,2
+f2553ef5-73aa-4022-8e16-1579c4a04347,Kally,Gruszka,kgruszkabf@abc.net.au,F,79.234.155.146,Spain,Other,427240,FALSE,22-Sep,heavy user,98,pvp,3478.46,
+86cf20bd-a66c-4e61-96cc-03e1257d6893,Randal,Bearcock,rbearcockbg@netlog.com,M,162.186.188.192,Philippines,Other,627123,TRUE,22-Aug,heavy user,21,fishing,6607.07,9
+dd3bf983-5ac9-4555-8598-3ef98948f1e2,Mackenzie,Thornewill,mthornewillbh@twitter.com,F,222.171.47.130,Azerbaijan,Other,893998,TRUE,22-Dec,heavy user,17,raid,6837.22,9
+b231724b-3e38-46b5-acab-518d4cc28045,Christy,Semens,csemensbi@theatlantic.com,F,230.128.118.88,China,Other,480408,TRUE,22-Apr,heavy user,67,pvp,749.32,
+51d93be9-ecce-4e18-b43b-1d88c027ff74,Clyve,Fulks,cfulksbj@bloglines.com,M,245.52.13.224,Brazil,Other,100200,TRUE,22-Feb,heavy user,17,raid,838.51,5
+d525e2b6-94da-45fa-baa1-57e92cabe2c6,Shaina,Wonfar,swonfarbk@usnews.com,F,242.198.206.247,Philippines,Other,769364,TRUE,23-Jul,light user,53,fishing,1019.68,13
+7fe170c6-2554-469c-8861-2f00e6f4386a,Harp,Marchington,hmarchingtonbl@weebly.com,M,141.14.6.224,China,Other,220308,TRUE,22-Apr,medium user,25,pve,2094,16
+d813239c-a504-4aac-9771-9fdb28053ad5,Norton,Amori,namoribm@walmart.com,M,133.198.88.152,Indonesia,Other,479812,FALSE,21-Apr,light user,3,pve,6204.48,15
+bf556495-4b31-4a99-b236-b48114e38ef7,Amandy,Adam,aadambn@ifeng.com,F,35.15.165.241,Portugal,AOS,136825,TRUE,23-Jul,heavy user,22,pve,4226.47,12
+7093d84f-6b3d-4367-8863-c4d11dc39746,Sully,Hellwich,shellwichbo@ihg.com,F,245.37.10.247,Philippines,Other,740115,FALSE,22-Dec,heavy user,30,raid,3645.18,6
+0c4030e9-bdff-44b4-a38d-6285c681f4e1,Calla,Harkus,charkusbp@networksolutions.com,M,4.132.69.165,Indonesia,Other,973858,FALSE,21-Jul,medium user,92,pve,6743.31,10
+17a8f002-6c79-40ae-92e5-6be1cbcf9b57,Abra,Johnsson,ajohnssonbq@etsy.com,M,24.75.194.37,Greece,IOS,729555,TRUE,21-Mar,heavy user,76,pvp,3318.77,3
+98e9ddae-909c-40f6-b63a-4d989debfc30,Roderigo,Fetherstan,rfetherstanbr@army.mil,M,111.195.90.218,Brazil,AOS,28583,FALSE,21-Dec,heavy user,79,pvp,2556.81,
+6160f59f-960c-4bcb-8b56-c438a969ec73,Ferdinand,Ellwell,fellwellbs@abc.net.au,F,28.214.1.213,China,IOS,517945,FALSE,23-Jan,heavy user,50,fishing,9392.46,16
+3f71060b-7c1a-41ff-8a56-8be345a29b12,Dinnie,Heller,dhellerbt@cisco.com,F,192.213.72.251,Japan,IOS,186816,TRUE,22-Aug,heavy user,70,raid,2995.8,19
+afa7c9fe-1708-4c61-9db1-8505c79fbfef,Joelle,Labbati,jlabbatibu@miibeian.gov.cn,F,223.211.184.237,China,Other,762487,TRUE,21-Jan,light user,27,raid,143.78,15
+846d54d4-6e34-48fa-93ee-1ac3de8a77fc,Scarface,Trengrove,strengrovebv@indiegogo.com,F,133.112.142.118,Peru,AOS,355376,FALSE,22-Nov,medium user,47,pve,2215.17,4
+7186dffa-e900-4141-99b8-fef16dd9d34a,Idelle,Cornhill,icornhillbw@goo.ne.jp,F,174.161.28.96,Sweden,Other,323630,FALSE,23-May,medium user,65,raid,5376.56,10
+0521203d-6e7a-4766-aace-363f055f4b12,Angeline,Willavoys,awillavoysbx@answers.com,F,26.219.152.116,China,AOS,186254,TRUE,23-Jun,heavy user,9,pve,6292.61,11
+e7946ba4-4119-4c4d-88d5-c53d5c54996e,Donica,Espinal,despinalby@cocolog-nifty.com,M,77.126.80.250,China,Other,544730,FALSE,21-Jul,light user,55,pvp,9265.36,
+8a43db5b-2edb-4e1f-b5a5-de69a60dbb2d,Oates,Goodbourn,ogoodbournbz@mapquest.com,F,3.49.168.196,China,Other,47316,FALSE,24-Jan,light user,72,fishing,3871.15,6
+7c3bc294-ed1c-48e4-a398-eefe816edfaa,Linda,Fennelow,lfennelowc0@wikipedia.org,M,208.62.6.13,China,Other,148057,FALSE,20-Dec,heavy user,67,raid,5308.26,17
+b99309aa-d714-4175-8494-3c1311e449cd,Erin,Blaxill,eblaxillc1@about.me,F,99.200.149.152,Pakistan,Other,597828,TRUE,22-Mar,heavy user,26,fishing,5741.5,13
+fd0bdb95-eeba-4619-b7ac-51accd2e67f8,Felisha,Gledstane,fgledstanec2@businessweek.com,M,142.180.83.233,Brazil,Other,297189,TRUE,22-Oct,heavy user,9,pvp,8302.65,13
+f08c1cab-6597-4c21-b1c6-5ccb5bc331e2,Frederica,Stitwell,fstitwellc3@issuu.com,F,42.73.129.127,Panama,AOS,664431,FALSE,20-Jul,medium user,6,pvp,7676.82,9
+5cd04510-0f69-48cf-9e6d-31a9fecf5709,Sharron,Henrion,shenrionc4@businesswire.com,F,121.42.179.60,Thailand,Other,717918,TRUE,22-Nov,heavy user,25,fishing,4865.19,19
+ae5b8bf3-9de9-47bb-94fb-571dfb75cf7a,Mendy,Menichini,mmenichinic5@examiner.com,M,160.16.163.141,Czech Republic,Other,342120,TRUE,22-Oct,light user,76,raid,5272.36,15
+adcfdfd4-c182-4d48-bff9-d1273a130e4f,Diana,L' Estrange,dlestrangec6@phoca.cz,F,220.207.78.28,Philippines,IOS,527979,TRUE,23-Jan,heavy user,73,raid,7330.67,6
+d08d3ead-7a43-4814-bd86-2ff0cb54e91a,Jinny,Whittier,jwhittierc7@lycos.com,M,105.151.8.148,Philippines,IOS,290930,TRUE,23-May,heavy user,87,pvp,8776.01,20
+e68fd330-cc17-48c8-8315-54eafe15a221,Elsi,MacGragh,emacgraghc8@senate.gov,M,96.25.205.35,Czech Republic,AOS,951469,FALSE,23-Sep,heavy user,94,raid,7495.56,5
+273b30e5-a61d-4edb-a7b7-186256686e11,Dorree,Kynder,dkynderc9@smugmug.com,F,58.193.157.90,Poland,Other,568176,FALSE,23-Mar,heavy user,22,fishing,5206.11,
+73e455cf-076e-418d-844b-4e09a6e7eb8b,Morey,Cossey,mcosseyca@gravatar.com,F,186.103.74.136,Malaysia,AOS,119091,FALSE,20-May,heavy user,79,pvp,3204.6,18
+a9fabee5-2437-4b65-a946-c2c5a8be93fc,Averyl,Krishtopaittis,akrishtopaittiscb@yolasite.com,F,157.115.174.250,Philippines,Other,748603,FALSE,22-Apr,light user,52,raid,9520.95,7
+2920edcf-ab1e-4ac5-a20a-6b8b6f548b33,Vasili,Maclean,vmacleancc@virginia.edu,M,71.106.69.114,Poland,AOS,828751,TRUE,20-Feb,heavy user,84,pvp,3568.86,4
+6fe774a3-18fa-4159-a94c-cfc79111195b,Riccardo,Lotterington,rlotteringtoncd@alexa.com,M,109.175.166.192,Russia,Other,427473,FALSE,21-Oct,light user,97,fishing,5007,7
+7ab9c5b8-0ac5-41a5-ad3f-f62840d4a460,Merrielle,Calow,mcalowce@is.gd,M,204.205.37.11,China,AOS,966232,FALSE,21-Nov,heavy user,93,fishing,8160.43,14
+950ffab9-b555-4369-bb61-e53178c295ca,Jany,Mardle,jmardlecf@upenn.edu,M,39.3.105.237,Mexico,IOS,744837,TRUE,23-Sep,heavy user,100,pve,4143.89,13
+ff1e9832-ca53-4488-9e17-d6bcb8e3426d,Caspar,Jollie,cjolliecg@arstechnica.com,F,161.159.194.11,Indonesia,IOS,915445,TRUE,21-Mar,heavy user,39,fishing,4058.84,8
+9c727327-7a08-4bc1-8051-06d6c3a3a05c,Perrine,Botcherby,pbotcherbych@google.co.uk,M,23.74.178.137,Philippines,Other,933024,TRUE,20-Dec,light user,80,fishing,1542.26,20
+94f65b9d-2758-45f8-8f88-ab7d8afb5622,Gannie,Heselwood,gheselwoodci@rambler.ru,M,237.84.48.147,China,Other,324571,TRUE,20-Sep,light user,36,raid,8956.44,15
+0644c2e8-4840-4d16-b169-b4e9931c6802,Charis,Leddy,cleddycj@opensource.org,F,191.180.178.132,Ukraine,IOS,700594,TRUE,21-Nov,heavy user,4,pve,8234.54,18
+eb468dda-c6e6-4a76-9fb9-152c4ad80f00,Marieann,Mickelwright,mmickelwrightck@hc360.com,F,197.86.219.180,Macedonia,Other,300940,TRUE,21-Jun,medium user,90,pve,2460.73,4
+b5d05fe0-8b8c-48dc-801f-43f0ea10fa1a,Robin,Cuniffe,rcuniffecl@shinystat.com,M,228.217.82.169,Luxembourg,Other,887904,FALSE,21-Aug,heavy user,89,pvp,7053.97,15
+4afa7482-91dc-4d7b-8b41-256ef9e017d0,Maxy,Haggerwood,mhaggerwoodcm@tuttocitta.it,F,173.16.3.231,Tajikistan,IOS,953519,TRUE,23-Mar,heavy user,58,fishing,8011.33,
+78fa1e4e-4fb3-4211-b5e8-5ac65c95fa88,Hillard,Swinglehurst,hswinglehurstcn@cnet.com,F,255.173.239.50,Slovenia,IOS,462280,FALSE,20-Jun,light user,27,pve,850.22,10
+c38ba736-5042-4537-9fcb-305edc1266e8,Clemmy,O' Culligan,coculliganco@utexas.edu,M,220.76.211.124,Indonesia,IOS,452318,TRUE,21-Oct,heavy user,33,pvp,6899.5,13
+1c7cfb29-34b3-4581-a7de-0a691c1cf08b,Tildy,Brewitt,tbrewittcp@surveymonkey.com,M,30.48.222.6,Thailand,IOS,320952,TRUE,23-Jul,heavy user,14,fishing,2465.25,15
+9f1f109a-dc7f-49bb-80ae-2ca41c6d9b57,Courtnay,Bocken,cbockencq@opensource.org,M,34.149.0.91,China,IOS,279029,TRUE,21-Dec,medium user,14,pvp,193.52,10
+1de17bea-f88a-4688-a615-99993efd910f,Tobin,Lackie,tlackiecr@mayoclinic.com,M,164.145.149.142,China,Other,284214,TRUE,21-Jul,heavy user,81,pvp,4256.37,14
+f2382dc6-b777-4ee4-8500-8e6d1d627c41,Dario,Blomfield,dblomfieldcs@oakley.com,M,164.200.204.126,Latvia,Other,731100,FALSE,22-Aug,light user,4,fishing,792.67,12
+e24a2d57-bd8a-474d-8c04-c03b6c3fbe58,Maybelle,Van Halle,mvanhallect@spotify.com,F,229.208.102.189,Indonesia,IOS,102307,FALSE,22-Apr,heavy user,91,pve,3341.67,9
+478ddf49-4aa8-4696-9117-ea919556a561,Janka,Coenraets,jcoenraetscu@boston.com,M,109.11.136.228,Palestinian Territory,Other,198302,FALSE,23-Oct,heavy user,58,pve,2758.73,6
+d51bf305-6e49-4fa0-a0fb-1b7fa5c7bfc1,Kliment,Boobyer,kboobyercv@booking.com,F,218.193.100.160,China,Other,54562,TRUE,23-Sep,medium user,83,fishing,9625.37,3
+f55f5ba5-9480-4a29-86bb-5768f1d17bf6,Pyotr,Moyer,pmoyercw@ebay.co.uk,M,219.185.109.254,United States,Other,425242,TRUE,22-Aug,heavy user,64,fishing,8814.01,12
+f8572a1a-7143-4501-80bf-dd9642e3fbd1,Micki,Hartil,mhartilcx@home.pl,F,5.181.137.44,Sweden,IOS,589233,FALSE,20-Mar,heavy user,98,pvp,9593.99,19
+4b0df2d1-60fe-47b2-a064-e05d59727037,Kikelia,Iacobucci,kiacobuccicy@free.fr,F,112.198.162.6,Armenia,Other,659101,TRUE,23-Oct,heavy user,19,raid,9435.43,2
+d9d8d614-9186-4aed-b2d5-04532368b034,Clotilda,Baskeyfield,cbaskeyfieldcz@webnode.com,M,134.4.30.61,France,Other,939948,TRUE,22-Feb,medium user,32,pve,6015.76,8
+1e98ae21-cfec-41af-a0db-be6de17c0670,Laurice,Siret,lsiretd0@about.com,F,250.141.202.60,Serbia,Other,816654,TRUE,20-Sep,medium user,54,pvp,9532.99,
+b0cb2092-0d84-4ed9-aff3-d7dd8cf6f82a,Laraine,Fearnsides,lfearnsidesd1@google.com.br,F,46.252.53.88,United States,Other,754493,TRUE,22-Nov,heavy user,52,fishing,5060.93,15
+58eb7624-69e3-4b0f-8bdc-2269021c3e45,Nolly,Manthorpe,nmanthorped2@intel.com,M,82.232.155.48,China,Other,641021,TRUE,20-Nov,heavy user,56,pve,1332,
+5acd4fdc-b6fe-4150-a9f2-abba3f662090,Lurline,Gonoude,lgonouded3@blogspot.com,F,213.40.68.95,China,Other,633831,FALSE,23-Dec,medium user,70,pvp,1598.32,14
+51bf8332-27de-43ca-8854-919fb4cb6f28,Torrence,Bayston,tbaystond4@geocities.jp,F,236.107.116.229,Indonesia,Other,998907,TRUE,24-Feb,heavy user,13,raid,4860.79,1
+0d213031-8dfa-45b6-898b-3f96a11e4fda,Ealasaid,Rigard,erigardd5@google.co.jp,F,249.41.154.231,Japan,Other,258652,TRUE,22-Feb,medium user,9,pvp,9044.7,6
+b72964f3-fa9f-41f9-a5e7-949a5ed14196,Penni,Keasley,pkeasleyd6@zdnet.com,F,185.43.195.124,Thailand,IOS,735761,TRUE,23-Feb,heavy user,93,fishing,5226.14,20
+3be8d0c5-df08-42aa-b86c-18d7689c8231,Carny,Probert,cprobertd7@ovh.net,M,26.187.103.32,Moldova,Other,830405,TRUE,22-Aug,heavy user,1,raid,3834.49,20
+01557da2-274f-4d9e-8b9f-b554f49dce82,Gabriela,Bamborough,gbamboroughd8@dell.com,F,72.137.45.199,Oman,Other,590198,FALSE,24-Jan,medium user,12,pve,8966.25,15
+dc8037e3-af8f-4f75-8cc3-248d0ab76d25,Westbrooke,Formigli,wformiglid9@cisco.com,F,222.206.123.140,Malaysia,Other,364445,FALSE,23-Feb,medium user,68,raid,4987.35,18
+3f81185d-ba4b-4192-a347-5b49839c7a13,Cherilyn,Surgeoner,csurgeonerda@vimeo.com,M,76.126.106.114,Comoros,IOS,717574,FALSE,23-Jun,heavy user,69,raid,7059.46,8
+f3ef6e38-b9c7-4c26-8c79-5fadb3fb8a9e,Karlik,Molian,kmoliandb@php.net,F,121.174.104.175,Czech Republic,Other,487485,FALSE,22-Feb,heavy user,39,fishing,429.4,14
+ba1172af-78f0-4036-85ac-2d75de2943cb,Breanne,Gerasch,bgeraschdc@myspace.com,F,30.97.129.173,China,Other,564019,FALSE,21-May,light user,27,pvp,4811.78,13
+71e9fb95-9d4c-4ccd-9159-8f6da72026a0,Kaylyn,Kittless,kkittlessdd@lycos.com,F,217.40.47.4,Brazil,Other,591980,TRUE,22-Sep,heavy user,57,pve,6634.83,1
+7c2dc9e8-52cc-496c-b388-1d546bc744e2,Frants,Benduhn,fbenduhnde@wikimedia.org,M,47.176.150.192,China,AOS,851520,TRUE,21-Apr,medium user,45,raid,4630.29,13
+3b4d6758-6d53-45ca-aad0-0f9fc332aebb,Shamus,Theodoris,stheodorisdf@msn.com,F,18.147.179.246,Sweden,Other,233498,TRUE,24-Jan,heavy user,46,fishing,3141.43,7
+6fe166b3-88bb-4dd7-aa16-6303b23004b1,Kriste,Quarlis,kquarlisdg@earthlink.net,M,94.216.224.201,Indonesia,AOS,463304,FALSE,20-Aug,heavy user,87,fishing,8457.05,13
+e3e08f45-b319-43c3-8661-6eb96494955b,Locke,Rude,lrudedh@hp.com,M,112.150.166.52,France,Other,8059,FALSE,22-Jul,heavy user,26,pve,7840.66,6
+fbc870a9-5e66-4e09-a3d4-077b72f08138,Cherlyn,Druitt,cdruittdi@biglobe.ne.jp,M,210.104.77.4,France,Other,7719,FALSE,23-Jan,heavy user,50,raid,2181.66,
+341cefab-1332-4219-b20b-1e1f00fb1b5d,Lowell,Cridlan,lcridlandj@twitter.com,M,82.159.179.231,Ireland,IOS,282438,FALSE,24-Jan,heavy user,66,pve,9685.66,7
+f78a783a-7363-49a0-98cb-255c8603685c,Carmella,Redman,credmandk@ask.com,F,195.234.13.149,China,Other,999808,TRUE,22-Apr,heavy user,87,pvp,3970.62,12
+e33dcb42-b17e-430e-93d4-ff9c4ee62ead,Jenna,Fenney,jfenneydl@slashdot.org,M,150.27.167.186,Indonesia,IOS,480883,FALSE,20-May,heavy user,45,pve,6188.47,13
+8d973d45-bc21-4b2a-9082-149d6f485a29,Honey,Halley,hhalleydm@biglobe.ne.jp,F,162.195.137.151,Ukraine,IOS,667157,TRUE,22-Sep,heavy user,38,pve,537.07,11
+2066d521-3d05-4886-a9e5-1c268e7d991c,Jordana,Brabban,jbrabbandn@springer.com,M,159.125.219.95,Indonesia,Other,748304,FALSE,22-Jan,heavy user,61,fishing,9800.53,17
+cb4dc83e-aad7-4f19-b588-c9ac22086541,Paolina,Carillo,pcarillodo@ft.com,F,217.155.131.243,Indonesia,Other,472718,TRUE,21-Jun,heavy user,81,fishing,2913.85,20
+bf72804f-2300-443f-9d46-4746b0512ada,Valle,Astridge,vastridgedp@newyorker.com,M,15.199.176.132,China,Other,115440,FALSE,24-Jan,heavy user,12,pve,6168.45,5
+89db222b-0dd0-416a-a52c-b4d680a435ff,Isidoro,Spinas,ispinasdq@slashdot.org,M,199.219.8.89,Micronesia,Other,979010,TRUE,23-Aug,heavy user,71,pve,7301.37,8
+c7b1b65c-ea0e-43ec-b641-28f633e80f7d,Aubert,Biscomb,abiscombdr@archive.org,F,215.111.146.111,Indonesia,Other,996395,TRUE,20-Nov,heavy user,98,raid,7651.62,1
+3e7611c6-ec20-4f61-b946-e6d1a588b22b,Edlin,Danick,edanickds@macromedia.com,F,122.37.77.171,South Africa,IOS,32907,FALSE,22-Dec,heavy user,12,raid,8867.1,3
+3dacbde0-42b9-4792-96cb-b3d1c249981d,Beitris,Hamblett,bhamblettdt@ycombinator.com,F,111.141.130.246,Mexico,Other,970676,TRUE,21-Sep,heavy user,11,pve,3518.03,4
+f97f9460-cf26-457f-b6fa-27ba21ed2e56,Egor,Quince,equincedu@harvard.edu,M,37.41.27.147,South Korea,AOS,371800,TRUE,20-May,heavy user,26,raid,866.15,
+b5269e9d-c0b0-4125-a063-7d4d14550b59,Meredith,Comettoi,mcomettoidv@blinklist.com,F,215.130.250.245,Sweden,Other,699518,FALSE,21-Apr,heavy user,13,pvp,9827,9
+a0db93cd-876b-4156-9f9d-d5eec5a4c973,Juditha,Kilmary,jkilmarydw@imdb.com,M,138.30.116.15,Central African Republic,Other,396950,TRUE,20-Jul,heavy user,99,fishing,5606.3,18
+8dde9320-c2f4-4c61-ab09-f578d56191ab,Suzy,Rosengren,srosengrendx@blog.com,M,123.197.103.21,Peru,Other,166451,TRUE,23-Jan,heavy user,21,fishing,7740.19,
+6d5937bc-5036-464b-bc40-27e2494af0eb,Tammara,Kissack,tkissackdy@phoca.cz,F,157.102.43.55,Indonesia,Other,102030,FALSE,21-Jul,medium user,77,pve,5208.37,10
+aed8a04d-1d5c-41cb-aa0e-97c4570825e2,Imogen,Peinton,ipeintondz@marketwatch.com,F,227.58.52.177,Indonesia,IOS,731000,TRUE,21-Feb,heavy user,94,raid,7478.66,15
+95ffa689-67e5-428f-a5ed-9d3b0add3e90,Malory,Ramstead,mramsteade0@homestead.com,F,111.169.33.216,Sweden,Other,63400,TRUE,20-Aug,heavy user,28,pvp,7285.13,12
+1cdd8a84-a19f-4f43-a7ae-2649664e1235,Huntlee,Duesberry,hduesberrye1@flickr.com,F,142.189.234.180,Indonesia,Other,929128,FALSE,20-Aug,heavy user,35,raid,7788.76,19
+62be7516-710a-4370-ace5-0c2166d7e657,Robenia,Pristnor,rpristnore2@unesco.org,F,104.56.69.158,Sweden,IOS,747706,FALSE,22-Sep,heavy user,29,fishing,4445.23,13
+2fcb7bdf-01bc-4f67-a54a-0a1f5ac92e56,Eliot,Vasyutin,evasyutine3@businessweek.com,M,119.217.136.111,France,Other,571055,FALSE,20-May,heavy user,10,raid,4780.55,7
+82b39f31-f407-4ba8-94be-b04dacdd7c7f,Brier,Rampling,bramplinge4@columbia.edu,F,233.198.140.128,Turkmenistan,Other,322604,FALSE,20-Apr,heavy user,13,pve,5306.99,6
+7a471cbf-1b42-4b0e-bb62-6741e4daef8d,Florette,Kingshott,fkingshotte5@twitpic.com,F,100.16.64.162,Czech Republic,Other,913942,FALSE,20-Sep,heavy user,20,fishing,5368.36,11
+48852d89-741c-4e5f-bfc6-d934ccacbf5a,Celestina,Ciccottini,cciccottinie6@weather.com,M,22.163.63.106,Philippines,Other,509700,TRUE,22-Oct,light user,98,fishing,3346.31,15
+6c8ae1cf-372f-4336-ae6b-4a19612ad619,Kacie,Beckworth,kbeckworthe7@dmoz.org,M,85.20.146.2,Mexico,Other,599649,TRUE,23-Mar,heavy user,88,pvp,6828.51,19
+a15a3388-b8ce-4da3-a0ef-375b121649e9,Trixi,Garratt,tgarratte8@stanford.edu,F,74.59.26.42,Sweden,IOS,166243,FALSE,22-Nov,heavy user,70,pvp,5461.37,19
+cbfcd5f0-e73f-4e56-a82f-3741c955d728,Emmery,Gerish,egerishe9@scientificamerican.com,M,180.135.196.225,Argentina,AOS,119851,TRUE,23-Dec,heavy user,96,pve,8303.65,1
+40faa4d7-2bcf-44c6-8e9a-0ddcec0e4dba,Antonella,Meddemmen,ameddemmenea@dagondesign.com,F,133.254.232.169,China,AOS,531896,TRUE,21-Apr,heavy user,84,pve,4003.2,4
+f5803705-36b3-4558-ae85-9916dd8b9fba,Anabel,Klejin,aklejineb@woothemes.com,F,89.77.125.150,Philippines,Other,446097,TRUE,20-Feb,heavy user,58,pvp,7629.36,16
+8f3aa2c4-e568-494e-b497-e9ce46a22ade,Margarita,Brennan,mbrennanec@wordpress.com,F,112.74.163.59,Philippines,AOS,685564,FALSE,23-Feb,heavy user,39,pvp,7735.89,14
+c5a6e91e-8879-4c34-b2c0-8b91428f9de3,Rivi,Hutten,rhuttened@whitehouse.gov,F,251.39.159.169,Ivory Coast,Other,694568,FALSE,23-Feb,medium user,96,fishing,141.45,5
+2c8602bb-4a9b-44d7-868b-4ad6eabff6f3,Katusha,Redolfi,kredolfiee@opera.com,M,0.211.212.209,Indonesia,Other,841672,TRUE,22-Feb,light user,42,fishing,4539.23,8
+0942203d-0c13-4efa-b8f6-acecd0de13c4,Taber,Lapree,tlapreeef@geocities.jp,M,25.120.191.66,Philippines,Other,724075,TRUE,22-Apr,light user,7,pve,9996.17,17
+131a8b77-77a1-4700-be36-a055679928b1,Tiffanie,Knyvett,tknyvetteg@nasa.gov,M,212.90.20.101,Nigeria,Other,852775,FALSE,22-Jun,heavy user,24,pvp,9369.65,3
+950894d9-a0e2-4ac6-adec-3bdf385be290,Charissa,O'Gleasane,cogleasaneeh@sina.com.cn,F,48.187.107.232,China,IOS,983736,FALSE,22-Feb,heavy user,27,fishing,54.11,4
+cbfa26ec-53bf-489a-9781-5ba928f3a47e,Felipa,Stone Fewings,fstonefewingsei@columbia.edu,F,116.182.234.94,Mexico,Other,305372,FALSE,22-May,heavy user,97,raid,9612.93,14
+721832cf-ed4a-4d4d-87c4-4f3b1164840a,Ardenia,Yekel,ayekelej@marriott.com,F,39.233.99.8,China,Other,950103,FALSE,21-Jun,medium user,58,pvp,4399.07,8
+57fab2d4-7ef3-4d9d-9954-7f524ebf86cf,La verne,Faulds,lfauldsek@paypal.com,M,147.27.205.23,Mongolia,AOS,988502,FALSE,20-Sep,heavy user,97,fishing,2200.48,13
+43e41817-a86a-4dd0-a7db-36054267c414,Michele,Seniour,mseniourel@comcast.net,M,211.115.98.48,Armenia,Other,661661,FALSE,20-Jun,heavy user,10,pve,8303.05,1
+f13bbf96-02d8-4faf-8958-270d65d91d51,Edgard,Ashlin,eashlinem@dedecms.com,M,121.73.71.18,Portugal,Other,619946,FALSE,23-Sep,medium user,45,fishing,1836.27,6
+81cee023-b572-4a16-9ff4-3acd64eb032d,Lincoln,Penna,lpennaen@jimdo.com,M,111.174.233.147,China,Other,282851,FALSE,21-Apr,heavy user,81,raid,6080.63,19
+c9846ecb-3afc-45d8-860a-d984f2ab7d2e,Vivianna,Wilder,vwildereo@statcounter.com,F,110.70.185.134,China,Other,770560,TRUE,22-Oct,heavy user,79,fishing,9468.65,18
+51d0741e-a5c7-466c-b850-5c466d799131,Andra,Youthed,ayouthedep@vistaprint.com,M,183.99.199.50,Philippines,Other,197921,TRUE,20-Aug,heavy user,54,fishing,2863.71,4
+3d10d428-3221-4bec-8b9e-1017a2600b63,Tana,Libbie,tlibbieeq@hostgator.com,M,133.9.83.121,Philippines,Other,21461,TRUE,21-Mar,light user,68,pve,6821.56,9
+547349b8-cdf4-474f-ab9d-da0f20a0185e,Trumaine,Bunney,tbunneyer@vimeo.com,F,244.13.183.124,China,AOS,998411,FALSE,22-Apr,heavy user,35,pve,8048.38,1
+cf47e647-c5c2-41b8-8553-014bd6724eb3,Gusta,Mcwhinnie,gmcwhinniees@trellian.com,M,114.117.125.4,France,Other,114133,FALSE,20-May,light user,33,pve,9473.89,20
+0e7d4f6a-a474-4f27-8f20-4fc0d6e53e75,Malinda,Studdal,mstuddalet@live.com,M,231.144.22.116,China,Other,538133,TRUE,21-Feb,light user,69,pvp,2587.16,
+07cf7534-b415-4628-aa65-c8b2e444c760,Sissie,Hucklesby,shucklesbyeu@china.com.cn,F,37.246.208.105,Russia,Other,570807,TRUE,23-Jan,heavy user,52,pvp,8966.7,5
+bd38f828-964c-4fd7-b02f-e58d9c4a12b6,Ulick,Gumby,ugumbyev@squarespace.com,M,0.87.5.165,Saudi Arabia,Other,522024,TRUE,20-Oct,heavy user,45,fishing,7787.56,15
+42d3f625-dc2c-4d40-a023-6e07bb8b61da,Ody,Kaines,okainesew@eventbrite.com,F,149.34.84.237,Chile,AOS,590542,TRUE,21-Aug,light user,88,pvp,7597.19,
+108c571b-6fd0-4fbd-91a1-d951da8f600f,Tiffani,Godard,tgodardex@netlog.com,F,0.79.173.129,Indonesia,Other,771916,FALSE,21-Oct,heavy user,10,pvp,2088.27,4
+613beb37-34ba-437a-9570-496bb7c0c996,Estevan,Farrier,efarrierey@walmart.com,M,215.27.35.185,Ukraine,Other,296516,FALSE,22-Mar,heavy user,80,pvp,2267.44,3
+46e1dd97-34ec-4a2a-96a1-51df1b236913,Moselle,Cockcroft,mcockcroftez@wikipedia.org,M,63.121.200.224,Colombia,Other,558062,TRUE,20-Jan,heavy user,93,pve,2609.89,15
+713194f4-0780-4db1-b838-5f489657c4dc,Reider,Tuckley,rtuckleyf0@bing.com,F,67.43.90.164,China,Other,114221,TRUE,20-Nov,heavy user,22,pvp,225.96,7
+199abedb-6efc-4e49-b282-24ae6ac5f522,Perl,Yurchenko,pyurchenkof1@soup.io,F,206.51.116.54,Indonesia,Other,928350,TRUE,23-Mar,heavy user,1,raid,5925.34,5
+b5aa4374-9cdd-4925-941d-36f2edcf560e,Orel,Baverstock,obaverstockf2@last.fm,F,249.137.192.245,Indonesia,AOS,772595,TRUE,22-Jun,heavy user,52,fishing,9517.56,6
+06d52501-4769-435b-a8e9-9541e7ae268a,Eduardo,Hamsson,ehamssonf3@blogger.com,M,177.68.220.217,Japan,Other,639696,TRUE,21-Oct,heavy user,41,raid,1228.43,1
+3cf6f95e-3aa7-493c-b32e-68b89a8c746e,Ed,Stigell,estigellf4@ucsd.edu,F,154.122.83.2,Germany,AOS,719103,TRUE,20-May,heavy user,54,pvp,3780.9,
+0e2761c0-21bf-4ae0-84fb-9d779a035fe0,Wynn,Chesshyre,wchesshyref5@yellowpages.com,M,1.98.245.60,Estonia,Other,264818,TRUE,22-May,medium user,37,pvp,7166.24,14
+1c9101ea-78b0-4af0-adf6-8e3395bee139,Tommie,Abotson,tabotsonf6@plala.or.jp,M,200.177.95.252,Portugal,Other,849617,TRUE,23-Oct,heavy user,87,pve,9609.9,2
+8c6a6da2-b8e8-44a4-b1d8-715bd756e499,Cybill,Mirfield,cmirfieldf7@loc.gov,M,233.194.133.97,China,IOS,468096,TRUE,22-Oct,heavy user,43,pve,9166.17,16
+9f87fd57-d6a5-4f84-a9b5-b235d2c1ecfd,Jude,Pranger,jprangerf8@eepurl.com,F,184.180.68.157,Ukraine,AOS,963756,TRUE,22-Jun,heavy user,98,raid,5542.19,5
+856adfa6-dce7-4e0f-bb69-d56302366155,Felike,Hehl,fhehlf9@tripadvisor.com,F,252.121.97.76,Mexico,Other,497614,TRUE,22-May,light user,72,raid,9664.28,
+db3bf4ab-28f1-4d1a-bbc1-6cb4ec8a739c,Cyrille,Duer,cduerfa@census.gov,F,196.221.167.107,Indonesia,AOS,440570,FALSE,23-Sep,heavy user,55,pve,4226.24,14
+f939ead1-a721-4f7a-aaf3-26eb460bdd57,Sidney,Dumbrall,sdumbrallfb@odnoklassniki.ru,F,68.11.128.119,Nigeria,IOS,635768,FALSE,23-Oct,light user,5,pvp,7016.93,13
+0e140430-a0cd-4507-8541-8a2d36f00aae,Galvin,Bigland,gbiglandfc@jimdo.com,M,7.56.47.205,Russia,AOS,60660,TRUE,24-Jan,heavy user,23,fishing,1780.17,
+e30dad15-5689-46a8-9ab8-ee03beac999a,Tess,Lackemann,tlackemannfd@pagesperso-orange.fr,M,188.244.136.35,Brazil,Other,287448,FALSE,21-Jun,heavy user,17,fishing,4340.47,8
+37e71597-3d4a-40e2-b390-e32c1c7ba2d8,Zelig,Fibbit,zfibbitfe@usnews.com,M,94.236.192.56,Indonesia,IOS,570293,TRUE,21-May,medium user,93,raid,7760.82,14
+9aff7d60-a838-490b-a957-562259a8dda0,Sigismondo,Benko,sbenkoff@patch.com,M,127.48.139.91,Indonesia,Other,587889,TRUE,20-Dec,heavy user,95,raid,9747.5,6
+0a4bbed2-4881-4f21-b3c3-c357f41e0bf1,Ethelyn,Douglass,edouglassfg@forbes.com,M,45.1.164.19,Greece,Other,727762,TRUE,21-Nov,heavy user,83,fishing,1403.67,12
+4dd6e566-53db-40e9-a71e-9e1224c9e56d,Irvin,Dimitru,idimitrufh@stanford.edu,M,207.247.220.185,Chile,AOS,492476,TRUE,20-Jan,heavy user,5,pve,9875.9,
+736803c7-7e23-4dbd-a360-9df6a12bd400,Brandtr,Loxley,bloxleyfi@tamu.edu,M,97.151.133.93,Indonesia,Other,863758,FALSE,22-Jul,heavy user,11,pve,5613.73,15
+77e2d1ce-fb22-4a0e-84ae-9096365a78b7,Darb,Asbury,dasburyfj@ox.ac.uk,M,89.96.139.148,Russia,Other,68675,TRUE,20-Mar,heavy user,16,raid,4383.87,16
+4601a8b8-aa7c-4244-a29f-078027fb2bbf,Alia,Brothers,abrothersfk@reference.com,F,224.85.14.222,Lesotho,Other,777629,FALSE,21-May,heavy user,4,raid,8398.24,
+a7184723-d99f-4458-b665-f540cb8ebe10,Orlan,Huccaby,ohuccabyfl@github.io,F,199.194.89.242,Argentina,Other,825029,TRUE,24-Jan,heavy user,2,pvp,2005.97,14
+78a26998-b09c-424a-91c0-da1e4803446d,Trey,Garmston,tgarmstonfm@yahoo.com,M,239.57.52.111,China,AOS,212167,FALSE,21-Oct,heavy user,81,fishing,8354.3,6
+b2a118db-2957-49c7-9f85-32c174fac4c6,Charmine,Stinchcombe,cstinchcombefn@ucoz.ru,M,2.208.213.170,Indonesia,Other,670804,FALSE,21-Jan,heavy user,18,fishing,9136.9,17
+5532d108-39ff-48fb-8b61-131489d8babc,Miran,Adams,madamsfo@myspace.com,M,225.209.163.150,Philippines,Other,211851,FALSE,21-Nov,heavy user,14,fishing,2610.48,
+8bfd0234-90e7-4cab-9e2c-63970d84bbd5,Lizzie,Selland,lsellandfp@linkedin.com,M,71.169.0.143,China,Other,64133,FALSE,22-Mar,heavy user,49,fishing,4131.56,15
+867c9e90-4244-45ba-b1f8-d5d71c36bfd4,Kerwinn,Gammell,kgammellfq@quantcast.com,M,107.57.125.157,Indonesia,Other,753867,TRUE,23-Jun,heavy user,16,pvp,1734.74,13
+7215357a-31ec-4ed8-af17-bf89212d3172,Garnet,Taylder,gtaylderfr@qq.com,F,120.161.6.17,Canada,Other,953430,TRUE,23-May,heavy user,51,raid,153.75,
+7f9ad9e5-6bf7-445f-ba79-e13796a0e46b,Whitaker,Banfill,wbanfillfs@github.io,M,180.73.2.145,Indonesia,Other,953740,FALSE,21-Jul,heavy user,55,raid,9773.47,12
+36db20a5-b594-44cd-b090-33bffad17c44,Alfonse,Snoad,asnoadft@parallels.com,M,191.158.100.184,Nepal,Other,29798,FALSE,20-Dec,medium user,90,fishing,7487.12,20
+e625f1d0-1d95-4f1a-a5f9-a2df5e529ac1,Cecile,Gisborne,cgisbornefu@behance.net,F,33.213.9.223,Slovenia,AOS,565020,FALSE,22-Mar,heavy user,32,pve,3917.63,3
+acf79289-6821-4ab9-87c6-0f02e1a9af8c,Alonzo,Taggart,ataggartfv@instagram.com,F,194.27.84.33,Marshall Islands,IOS,805010,TRUE,23-Oct,medium user,30,pve,5981.89,17
+0ded199c-8c90-4bae-beaa-e3814bf44b27,Winslow,Girvan,wgirvanfw@wikimedia.org,M,231.5.253.117,Russia,Other,31389,TRUE,21-Apr,heavy user,68,pve,8391.93,
+66557f88-d206-4eb5-952d-f7e5d741eb61,Ulrick,Kaes,ukaesfx@guardian.co.uk,F,192.204.132.21,Philippines,Other,259021,TRUE,23-Jan,heavy user,35,pve,2194.58,11
+a64297ab-9c14-4ba5-a038-c2b340cbd95c,Mollee,Samwayes,msamwayesfy@rambler.ru,M,228.222.39.18,Sweden,Other,8274,TRUE,23-Sep,light user,5,fishing,5647.91,7
+420f1984-7df2-426d-a308-63468f387875,Lura,Febre,lfebrefz@ft.com,F,100.65.6.157,Bulgaria,AOS,139062,TRUE,22-Jun,heavy user,44,fishing,9019.41,12
+b2eb999b-720b-480b-b6d5-8737ed1f05c5,Mirna,Rumford,mrumfordg0@eepurl.com,M,140.88.195.214,China,Other,913554,TRUE,22-Aug,heavy user,36,pve,6121.37,11
+6cb130a5-9b93-4385-98ff-ba4a3eb8730c,Stearne,Bubbear,sbubbearg1@salon.com,M,159.142.34.84,Gambia,Other,459177,TRUE,23-Jun,heavy user,41,pve,8679.62,4
+11b6c8c4-e8a5-45d2-9d29-c7523ae741a0,Ivette,Snoding,isnodingg2@storify.com,F,201.132.249.137,China,Other,135152,TRUE,20-Sep,medium user,100,pvp,7064.96,12
+45b01644-cc2b-4e00-ba3d-ccf28a5c7a83,Aldridge,Abramson,aabramsong3@jalbum.net,M,48.194.24.128,Russia,Other,373401,TRUE,20-Nov,heavy user,20,pvp,8569.9,9
+84f97dfa-13bc-4ec2-aecb-bfa7a7a29d01,Reeta,Soppitt,rsoppittg4@amazon.co.jp,M,37.172.44.113,Russia,Other,323382,TRUE,23-May,light user,16,pve,9685.87,15
+2b3829cc-da7e-4cc0-ab4c-481d76ec2c03,Son,Dulieu,sdulieug5@alexa.com,F,108.136.248.147,China,Other,669950,TRUE,20-Apr,light user,56,pvp,9618.03,17
+5b7ca143-2868-4b9c-a7eb-d05e34dcfad9,Webb,Girardetti,wgirardettig6@bloglines.com,M,166.196.232.67,China,Other,334827,FALSE,21-Aug,heavy user,51,fishing,5265.76,12
+221f79e6-5f02-471b-823d-767eb28b74ec,Nedda,Pockey,npockeyg7@goo.ne.jp,F,53.186.58.169,Poland,Other,144693,FALSE,23-Aug,heavy user,5,pve,7208.76,15
+7aaf6406-10a7-46e6-8e98-4fba5363ed31,Odelinda,Blaber,oblaberg8@mozilla.org,F,208.163.84.39,Sweden,Other,199374,TRUE,22-Jun,heavy user,24,pve,8955.76,
+0ed5f592-7fe3-4c62-93bd-20e92e41d1de,Alasteir,Russell,arussellg9@nytimes.com,M,92.2.20.86,Japan,IOS,495240,FALSE,22-Oct,heavy user,53,pvp,1226.39,11
+53524b57-ab64-4ea8-b7a5-a91d498135ed,Matelda,Sheals,mshealsga@altervista.org,M,12.51.76.111,Poland,Other,731918,FALSE,22-Feb,light user,51,pvp,4131.86,2
+bc041a7a-290b-4945-954f-c7cbefa08eb3,Annadiane,Tyres,atyresgb@nsw.gov.au,F,236.242.16.218,France,Other,682949,TRUE,20-Jun,medium user,23,raid,5525.66,3
+d02063f1-256a-4d7e-ab48-ad45edb6e76d,Leonanie,Verrall,lverrallgc@pcworld.com,F,229.114.223.115,South Korea,Other,202480,TRUE,21-Oct,heavy user,5,pvp,6739.72,14
+8200ffe5-4f47-46f2-ba6c-691e3535899e,Gerick,Kondratyuk,gkondratyukgd@photobucket.com,M,123.189.159.140,Albania,Other,487073,TRUE,21-Jan,heavy user,56,pve,7285.29,11
+8a752be9-2bba-419d-bfe3-4ca59b71e3e8,Kristyn,Groocock,kgroocockge@illinois.edu,F,130.121.6.55,China,IOS,45401,TRUE,21-Feb,heavy user,32,fishing,790.42,16
+92f94966-f988-4e5f-8e23-911a72f69b87,Ulrica,Kedie,ukediegf@nyu.edu,F,12.215.63.200,Brazil,Other,974991,TRUE,21-Mar,heavy user,74,fishing,7283.34,4
+d9c50f1c-e4a9-4006-953a-7d2b2b83e5a9,Ferne,Dutnall,fdutnallgg@sakura.ne.jp,F,246.13.75.86,France,Other,671222,FALSE,23-Apr,heavy user,47,raid,9660.1,14
+f9910ab3-f12a-4931-a36c-f5adb9e0280e,Augustine,Hannah,ahannahgh@cargocollective.com,M,155.81.254.119,Philippines,Other,609242,TRUE,23-Apr,heavy user,84,raid,9055.65,
+6086a3bc-1c74-4441-a3d1-6982038eab56,Beryl,Chellam,bchellamgi@cbsnews.com,F,42.186.241.244,Indonesia,Other,848081,FALSE,21-Oct,heavy user,49,pvp,1042.9,17
+2723289e-4b97-402c-83ab-9613c1280a4f,Eziechiele,Wiz,ewizgj@chicagotribune.com,M,19.60.187.115,Costa Rica,Other,973658,TRUE,20-Jul,heavy user,12,fishing,4067.62,9
+32c65d1d-fc66-4b08-85f0-4c1fdff7e63d,Jacobo,Ronchka,jronchkagk@ycombinator.com,F,254.213.71.131,Poland,Other,465532,TRUE,20-Aug,heavy user,27,raid,5818.21,15
+62fe163b-820b-4304-88a2-3771bed0e628,Fallon,Yurtsev,fyurtsevgl@answers.com,F,218.55.220.69,Russia,Other,176058,FALSE,22-Sep,heavy user,90,pvp,3281.86,12
+e0745d13-194c-4f80-8b13-e5346aa3a4cd,Marie,Clemes,mclemesgm@infoseek.co.jp,F,74.108.51.52,Philippines,IOS,105999,FALSE,23-Oct,heavy user,22,pvp,190.98,3
+f6ea8e6f-fb47-431a-98c3-bb4af6c967a9,Kellen,Tiltman,ktiltmangn@google.nl,F,156.247.44.104,China,AOS,930207,FALSE,22-Jan,heavy user,67,pvp,1823.42,4
+58ada474-4226-4a74-9cea-4f509c081eb0,Frederigo,Lerner,flernergo@guardian.co.uk,F,236.142.53.110,China,Other,207142,FALSE,23-May,heavy user,49,raid,8442.72,15
+9f97c564-e385-4f41-b49e-a0e1c9502cc7,Belinda,Rabbatts,brabbattsgp@reference.com,M,1.144.188.45,Albania,Other,34474,TRUE,22-Oct,heavy user,24,raid,6452.65,4
+ff1711e5-c346-4cd5-978b-41e6c6129c2c,Karin,Hundall,khundallgq@usda.gov,F,66.66.187.176,China,IOS,664067,FALSE,21-Nov,light user,17,pvp,3207.76,4
+b4495c92-944d-4565-b415-6d23f18f0f70,Yolane,Currin,ycurringr@geocities.com,M,225.216.90.52,France,Other,352722,FALSE,22-Feb,heavy user,43,pvp,6452.79,19
+8a3183a4-c377-4ac7-9bb5-c4176d402af3,Giuseppe,Zamora,gzamorags@amazon.co.uk,M,178.186.228.206,China,Other,565092,TRUE,23-Mar,light user,37,pve,3511.74,18
+7d4c0d95-2c56-40b8-a938-dd4dcb5843cd,Irving,Truman,itrumangt@google.nl,M,44.190.239.199,Mali,Other,282624,FALSE,22-Jul,heavy user,44,raid,3428.19,4
+401ef943-683d-4700-8d7f-5cfed88394bf,Jeth,Anderer,janderergu@jimdo.com,M,175.168.205.111,Indonesia,Other,808117,TRUE,21-Apr,heavy user,7,fishing,8291.99,19
+9191f5ac-f93c-4ceb-ad5c-2e9e26983d13,Chaddie,Mapston,cmapstongv@istockphoto.com,M,40.28.97.247,Ukraine,IOS,453571,FALSE,22-Dec,heavy user,93,pve,3560.28,
+9ad9de88-bd55-4f07-ad34-8db8449ba43e,Hamish,Cookney,hcookneygw@amazon.co.uk,F,18.186.240.190,Poland,Other,977785,TRUE,22-Feb,heavy user,45,fishing,5311.34,
+07961538-60bc-4bf2-ac25-1389326d7b8b,Dulsea,Firman,dfirmangx@vimeo.com,M,165.184.18.217,Philippines,Other,538178,FALSE,20-Mar,heavy user,35,raid,9475.48,7
+25ba3550-ab98-410a-aa63-05165d148f30,Aleda,Whitehead,awhiteheadgy@4shared.com,M,126.179.83.124,South Korea,IOS,477316,FALSE,21-Feb,heavy user,77,pvp,1454.89,15
+ba03a4b8-994f-41a2-9929-ced3b44b93b3,Annette,Rentcome,arentcomegz@va.gov,M,130.21.45.252,Peru,AOS,196462,TRUE,22-Dec,heavy user,15,raid,7972.43,7
+cc0afea4-efbb-4dd8-9f3b-ff07785ac34b,Wanda,Springtorp,wspringtorph0@zimbio.com,F,75.136.68.160,Philippines,AOS,409143,TRUE,21-Mar,light user,41,pvp,9532.36,11
+0984e394-e897-4655-8818-cad181a8d5d5,Frances,Lawful,flawfulh1@epa.gov,F,33.139.21.237,China,IOS,405312,FALSE,21-Apr,light user,39,pvp,3489.41,7
+e48389f6-9e65-483d-9c16-38176d9d630c,Ianthe,Thorndycraft,ithorndycrafth2@list-manage.com,M,150.66.32.203,Indonesia,IOS,180397,FALSE,22-Sep,heavy user,49,fishing,7816.31,20
+21cb7072-0272-4f02-97e6-c3da6ce3d450,Vinita,Carey,vcareyh3@gizmodo.com,M,208.155.252.206,Canada,Other,853905,FALSE,21-Mar,heavy user,98,raid,4958.78,19
+c37101ca-8644-43ba-a608-1796a2551c55,Tate,Spinella,tspinellah4@timesonline.co.uk,F,3.68.231.187,France,AOS,471223,FALSE,21-Mar,heavy user,15,fishing,6778.11,18
+45ef791c-f50f-4eb9-b718-06e3a0ccb910,Gustavus,Chewter,gchewterh5@squarespace.com,F,150.88.49.165,Sweden,Other,198104,FALSE,22-Oct,medium user,23,pve,4569.68,9
+7a31cd4f-ac8c-40be-909a-8a4cddae231d,Hillel,Greswell,hgreswellh6@wordpress.com,M,201.219.200.187,Portugal,Other,381502,FALSE,23-Dec,heavy user,25,fishing,3339.59,19
+df9bf458-4ec2-4c2d-9980-2a9006ff16bf,Davide,Beebe,dbeebeh7@addtoany.com,M,241.164.176.135,Indonesia,Other,873897,TRUE,21-Mar,heavy user,20,pve,7924.83,9
+681bad69-8655-41f8-ab79-c9d7bbc7e0e9,Angeli,Cadle,acadleh8@mysql.com,M,142.241.42.209,Indonesia,Other,418414,FALSE,22-Nov,heavy user,7,fishing,7660.9,13
+f672307f-7ad0-4b54-a7c5-102f0ce453c0,Starr,Kroon,skroonh9@drupal.org,M,62.123.175.193,Indonesia,IOS,776656,FALSE,21-Apr,heavy user,30,pve,748.48,1
+bbf1ad60-e082-4a9e-b94e-e0ee04ed28a5,Kit,MacAindreis,kmacaindreisha@mediafire.com,M,220.159.253.213,Russia,IOS,813888,TRUE,23-Dec,heavy user,5,pvp,3945.44,11
+af920c2c-5992-4bd5-9d92-25c51ecb2191,Bunny,Broxap,bbroxaphb@elpais.com,M,190.145.69.197,Pakistan,Other,78464,FALSE,21-Jan,heavy user,78,fishing,8780.54,7
+a967a363-b62b-4867-8f6c-561affc289e1,Ring,Axtonne,raxtonnehc@tripod.com,M,249.171.103.103,South Africa,IOS,721114,TRUE,22-Aug,heavy user,38,pvp,6945.32,10
+fed357c8-d1a9-45f6-b66e-a689ec7bd3b9,Melinde,Da Costa,mdacostahd@time.com,M,159.48.85.72,Indonesia,Other,198421,TRUE,23-Dec,heavy user,44,pve,9282.26,3
+a8dbb680-39d5-4e8b-966b-91e8e4872a7d,Selie,Saunier,ssaunierhe@vk.com,M,219.41.181.181,China,Other,357260,FALSE,21-Dec,heavy user,75,pvp,8946.71,5
+57114da5-d79e-4669-80d6-365f94952621,Gerhardine,Cranstoun,gcranstounhf@mapy.cz,F,7.105.210.145,China,Other,149785,TRUE,23-Aug,medium user,97,pvp,8537.16,2
+2ae805d9-73c7-4b84-9a58-b709d3bb11c8,Ichabod,Broader,ibroaderhg@gov.uk,F,17.187.89.203,France,Other,770529,FALSE,23-Sep,heavy user,15,pve,2175.4,6
+e11550af-9b05-44e9-b5b2-e54dc337c6ca,Merl,Morena,mmorenahh@istockphoto.com,M,142.103.53.209,Georgia,Other,468468,FALSE,21-Jun,heavy user,59,pve,3755.61,
+349c36fe-b0d4-4db6-ad5f-9aac52ec3e63,Dayle,Breadmore,dbreadmorehi@rambler.ru,F,14.128.154.39,Colombia,AOS,114623,TRUE,23-Sep,heavy user,90,raid,2018.01,15
+988ffd51-c480-4e63-98cb-64be50d464ec,Amii,Normadell,anormadellhj@arstechnica.com,F,174.86.216.29,Albania,Other,336501,TRUE,23-Dec,heavy user,68,pve,5491.21,15
+12974f7f-1079-4f74-8377-522359ac7439,Lanie,Nolan,lnolanhk@go.com,F,232.95.229.245,Indonesia,Other,455338,TRUE,23-Jan,heavy user,17,raid,1474.35,8
+c22d51ea-a024-4d56-8a34-4e32577ab6b1,Henrie,Winchurch,hwinchurchhl@cafepress.com,M,177.224.159.220,South Africa,AOS,517599,FALSE,20-Oct,heavy user,39,fishing,6756.54,4
+29427014-7484-4232-8f3f-182bdd3baa13,Violet,Harrhy,vharrhyhm@japanpost.jp,F,96.23.219.164,China,Other,251727,FALSE,22-Mar,heavy user,40,pvp,4560.34,
+866f8caa-e21c-4d34-bd92-fa4505458d8a,Malena,Kuna,mkunahn@hatena.ne.jp,M,6.149.168.148,Poland,Other,345363,FALSE,20-Aug,light user,93,raid,9281.02,11
+2be5dfc0-bc74-49e1-8ccb-09b0b9b2c353,Melisse,Bresland,mbreslandho@theglobeandmail.com,F,134.134.185.162,Hungary,Other,166424,FALSE,21-Apr,medium user,55,raid,4055.85,18
+96d5e4b4-a8a0-470f-aae4-b211ebaed4b4,Karly,Evershed,kevershedhp@umich.edu,F,106.139.49.135,Tanzania,AOS,576437,FALSE,22-Nov,heavy user,78,raid,1286.06,4
+1b8bfc3d-278c-421e-b4c2-c66970da9674,Carine,Wallas,cwallashq@jimdo.com,F,223.134.95.232,China,Other,581974,FALSE,23-Jul,heavy user,32,raid,9820.7,10
+bea2fbee-aa0d-490e-9cec-c4f134b59752,Rafael,Van Son,rvansonhr@opensource.org,M,205.162.178.214,Georgia,Other,45138,FALSE,20-Jan,heavy user,49,pve,5377.61,10
+20d225d3-d387-4bcb-aeb2-d8d909f58827,Midge,Guihen,mguihenhs@chron.com,M,242.133.216.234,Ireland,Other,349069,FALSE,22-Mar,heavy user,11,fishing,1048.91,11
+2a0a7a0a-7a3b-4dc0-a9d5-ab26a98459ae,Keenan,Beddall,kbeddallht@seattletimes.com,F,251.169.132.244,Sri Lanka,AOS,371132,TRUE,22-Nov,heavy user,92,pvp,8845.47,2
+07691ef7-bbd3-4921-a98b-ca91ae86a382,Pieter,Whitley,pwhitleyhu@webmd.com,M,91.224.17.191,Poland,IOS,631899,FALSE,21-Oct,light user,35,pvp,7225.02,5
+4da5b65a-d855-4172-bd77-3d6527138d6b,Zola,Clubbe,zclubbehv@about.com,F,120.136.45.171,Thailand,Other,303980,TRUE,21-May,heavy user,59,fishing,2532.41,20
+7136433f-4eca-44bb-9632-c13a7c521edb,Felic,Empringham,fempringhamhw@slideshare.net,M,255.202.202.12,Bolivia,Other,213452,TRUE,20-Jul,medium user,51,raid,4696.5,2
+01c601ea-70cd-4a77-a74b-b8266a94883f,Marice,Schroder,mschroderhx@ucla.edu,M,115.153.229.143,Indonesia,Other,243018,FALSE,21-Sep,medium user,84,pvp,9995.47,2
+1f29817b-17e7-47a3-8853-921b56170bf7,Marlon,Kalker,mkalkerhy@google.com,M,80.104.40.71,Ukraine,AOS,812251,TRUE,20-Jan,heavy user,16,fishing,8996.59,
+10bfa840-cf81-4e32-b46c-d9acf6eee5c4,Sherwynd,Bundock,sbundockhz@google.pl,M,233.220.248.167,Portugal,Other,938808,FALSE,23-May,heavy user,50,raid,2467.26,
+3ffdb7db-a5c1-4820-bca6-c23f04fbf929,Hanni,Kauschke,hkauschkei0@ted.com,F,206.216.11.25,Sweden,AOS,665824,FALSE,21-May,medium user,16,fishing,5646.67,
+aac92e6d-a38d-4f5a-8eb6-4c655d82f37c,Oliviero,Donohue,odonohuei1@state.gov,F,45.66.108.214,Cameroon,Other,729531,TRUE,22-Jun,light user,27,fishing,6288.45,8
+fb630dd1-2b47-40e7-8840-7612c3e1d90e,Bobby,Weatherhill,bweatherhilli2@theguardian.com,F,84.109.241.62,Indonesia,Other,777530,FALSE,22-Oct,light user,94,raid,599.95,9
+5e927edd-fb16-4b9a-9754-84763602f86c,Vinita,Dowdeswell,vdowdeswelli3@lulu.com,F,18.57.254.240,China,Other,113027,TRUE,23-Oct,light user,9,pvp,1294.66,8
+a45be676-dc2e-4274-b93f-3e95a7c8498e,Zolly,Jereatt,zjereatti4@creativecommons.org,M,236.3.9.89,Indonesia,Other,356431,TRUE,22-Oct,medium user,35,pvp,3163.09,12
+03244f3e-b7e9-4dc8-bc83-e10f3577d3e7,Bridget,Shanks,bshanksi5@army.mil,M,83.77.222.191,Russia,Other,238922,FALSE,22-Jan,heavy user,97,raid,2045.32,6
+cf9c554f-a492-4609-b167-8f2576e001f1,Rogers,Aisthorpe,raisthorpei6@dyndns.org,M,180.77.246.49,China,Other,333967,FALSE,22-Feb,medium user,64,pve,5064.17,18
+9eb4f8b1-6634-4f11-9695-9f309e94748b,Ozzy,Zahor,ozahori7@blogtalkradio.com,M,155.180.82.12,Philippines,Other,967553,TRUE,21-May,medium user,80,raid,7409.9,18
+425627a8-4bf2-455e-b7e2-dd9bf875c65b,Gregorius,Tribe,gtribei8@census.gov,F,39.106.20.172,Russia,Other,156475,FALSE,22-Jul,heavy user,9,pvp,3655.45,17
+f9737b00-7117-4c07-8b5e-2e367086bbe9,George,MacAndreis,gmacandreisi9@google.co.jp,M,2.239.160.61,Poland,Other,70825,FALSE,23-Jan,heavy user,87,pvp,2583.75,7
+f83bcaab-5eb4-48ce-a8b3-1dffc8117eb6,Deonne,Reynolds,dreynoldsia@jugem.jp,F,49.178.110.76,Japan,Other,708150,FALSE,21-Sep,light user,1,fishing,2375.94,2
+249a6054-e81a-41bf-b19e-04b22fbe5dd6,Malva,Langabeer,mlangabeerib@gravatar.com,F,225.20.38.227,France,Other,164424,TRUE,24-Jan,heavy user,35,pvp,6791.72,17
+4b5117f5-ea32-4538-9ef8-cc370292ebfc,Anna,Cradoc,acradocic@furl.net,F,163.122.232.236,Japan,Other,559177,TRUE,22-Mar,heavy user,44,fishing,7253.33,15
+5e42a49d-9e66-455b-80fd-6f288a9cfa7d,Cheston,Fieldhouse,cfieldhouseid@wordpress.com,M,102.110.60.148,Iran,Other,991933,TRUE,23-Jul,heavy user,27,fishing,6667.63,3
+7519db03-945e-486b-b3d0-554397e3972e,Enrique,Perle,eperleie@ebay.com,F,233.242.138.187,China,Other,34782,TRUE,23-Feb,medium user,81,fishing,5366.64,16
+a10061d0-4dec-499b-87b6-1a1f7861eee9,Marabel,Checcucci,mcheccucciif@desdev.cn,M,94.23.251.175,China,Other,78299,TRUE,20-Jan,light user,55,fishing,6207.74,14
+9feb97b9-c31a-4414-ab23-f93944156aa8,Adolpho,Braybrooks,abraybrooksig@mtv.com,F,188.199.137.71,Cyprus,Other,562504,TRUE,22-Dec,medium user,18,fishing,1422.68,13
+7de26182-c303-4f83-bca4-cec5dcd890cd,Kalil,Luckin,kluckinih@example.com,M,60.193.247.11,South Africa,Other,280908,FALSE,21-Jul,heavy user,66,pvp,3857.33,
+5be468a8-f1c5-4ebb-b5e5-acce2057bddf,Timofei,Hemeret,themeretii@yellowbook.com,F,74.208.199.196,Czech Republic,AOS,495335,TRUE,21-Aug,medium user,19,pve,2384.79,16
+ccea00f6-efe5-4bc6-82d9-6ef7632b1021,Ches,Tyhurst,ctyhurstij@businessinsider.com,M,65.198.32.33,China,AOS,711845,FALSE,20-Sep,heavy user,100,pve,4236.97,10
+523d0b5e-69a0-497d-8364-eb697219ea80,Brew,Macewan,bmacewanik@spotify.com,F,108.210.242.39,France,Other,746455,FALSE,20-Aug,heavy user,27,pvp,4637.23,9
+b3340a92-22cb-4d69-bad5-ae2439d6c3a4,Elicia,Moon,emoonil@narod.ru,M,79.252.100.154,Indonesia,Other,157666,FALSE,21-Jan,heavy user,77,raid,1055.27,13
+00bbf311-1aeb-4a5c-8b10-f2cbb5353a9c,Brose,Bemrose,bbemroseim@dailymail.co.uk,M,214.166.104.120,China,Other,579123,TRUE,21-Jun,heavy user,94,fishing,4692.08,3
+7b1c6e27-be2c-46f5-811c-8b3da8d973fa,Elisabeth,Gidley,egidleyin@ustream.tv,F,188.76.100.217,Portugal,Other,494889,FALSE,22-Sep,heavy user,32,pve,7768.95,
+a8ae0b15-564d-478b-9b33-6fcb15a41acf,Reggie,Hosten,rhostenio@ebay.com,F,185.248.200.222,Costa Rica,IOS,206733,TRUE,21-Jan,heavy user,8,pve,7702.59,
+c578803f-2dd2-48e3-8fa0-f3df737cbb6f,Mel,Nalder,mnalderip@usnews.com,M,35.212.23.125,Philippines,Other,531083,FALSE,22-Jul,heavy user,20,pve,4641.37,9
+2da4d67c-4c30-4733-ba35-507190bb9824,Tyler,Pavett,tpavettiq@unesco.org,F,248.255.137.180,Albania,AOS,52367,TRUE,22-Oct,heavy user,37,pvp,1799.96,
+968caf89-89e1-4d53-880b-bbd9bd3eedbf,Rutherford,Carlos,rcarlosir@sina.com.cn,M,180.247.209.108,China,Other,393145,FALSE,22-Jun,heavy user,64,fishing,2153.79,18
+ab119304-9ecb-4ca5-b8f2-aec114fb7b13,Matt,Wagen,mwagenis@hibu.com,F,174.18.81.141,Kenya,Other,308311,TRUE,20-Apr,heavy user,88,pve,3277.83,4
+e5417f93-4455-44e3-be2e-d5f286aadf2c,Yank,Vibert,yvibertit@yellowpages.com,F,166.166.42.22,China,Other,407957,FALSE,20-Mar,heavy user,31,pve,6603.45,14
+b5dd0e5d-3858-4385-850e-49d5394df5ec,Kameko,Van Niekerk,kvanniekerkiu@tamu.edu,M,232.121.131.140,Portugal,IOS,635342,TRUE,23-Aug,heavy user,49,pvp,6536.78,
+1ddcd121-7cbc-4038-8492-61b710d7561a,Bessie,Burdfield,bburdfieldiv@com.com,M,227.124.112.4,China,Other,305498,FALSE,21-Nov,heavy user,23,pvp,48.78,19
+479a9967-fc04-4ef7-9fa6-73fd186fa9db,Linn,Brandassi,lbrandassiiw@networksolutions.com,F,237.194.25.44,France,Other,215237,TRUE,20-Aug,heavy user,46,pvp,5718.19,
+6dfa46b4-32ff-4a9d-82d7-de1e7d9f374d,Rossy,Scandred,rscandredix@walmart.com,F,33.135.151.141,Portugal,Other,297091,TRUE,22-Oct,heavy user,76,raid,8127.19,4
+1af8600a-15a7-4f51-83b7-57496ac2e5e9,Orella,Whitcher,owhitcheriy@slideshare.net,M,241.193.216.131,China,Other,298888,TRUE,21-Sep,heavy user,22,fishing,6745.86,
+460bafb8-7a00-4129-8eaa-b1ff46b57c2c,Rance,Renney,rrenneyiz@ebay.com,F,167.187.94.123,Poland,Other,586278,TRUE,21-Sep,heavy user,46,raid,5785.44,19
+59d03423-8223-4a37-88f6-a8812f4da40d,Cletis,Prando,cprandoj0@google.cn,F,220.142.109.141,Indonesia,AOS,476999,TRUE,23-Nov,light user,18,fishing,4010.54,19
+94049953-52e1-4224-ab57-680e7b9e8a51,Hollyanne,Beagley,hbeagleyj1@netlog.com,F,206.143.81.22,China,Other,741107,FALSE,20-May,heavy user,30,pvp,6462.93,19
+f34ff4d3-79c3-46ce-8dda-ff962db4c4e5,Abramo,Paniman,apanimanj2@angelfire.com,M,181.206.212.194,China,IOS,607968,TRUE,22-Nov,medium user,49,pve,1060.14,11
+0452f55c-2773-4d9c-b074-903f2e3e41df,Pat,Worcester,pworcesterj3@myspace.com,M,125.77.156.31,Poland,Other,627813,FALSE,20-Apr,heavy user,48,pve,2098.8,20
+2061015c-9e17-4a7d-b0b8-966fc6bf4328,Lorry,Newburn,lnewburnj4@webmd.com,F,241.201.88.70,Philippines,Other,254265,TRUE,21-Apr,light user,5,pve,5752.88,20
+91c5e36a-0755-46ba-8a03-972fa9cff729,Kenon,Longmaid,klongmaidj5@ihg.com,F,125.130.203.31,Greece,Other,789216,TRUE,23-Sep,heavy user,36,pvp,6511.67,8
+2015a9db-a7ef-4007-ab66-b1e92179f63a,Morey,Brough,mbroughj6@unblog.fr,M,28.59.204.17,Ethiopia,Other,105929,FALSE,22-May,heavy user,48,pve,1818.72,
+de319397-49f2-4028-845b-4d0e28e68dca,Keir,Dalglish,kdalglishj7@scientificamerican.com,M,170.225.206.45,Indonesia,Other,546402,FALSE,20-Apr,heavy user,65,fishing,3060.19,9
+360747ae-5637-412f-a8f8-1cea1effd196,Karalynn,Towhey,ktowheyj8@fda.gov,M,143.74.105.236,Indonesia,IOS,224670,FALSE,21-Oct,heavy user,93,pvp,5516.27,3
+dce9a7fa-1184-4e3d-8f39-727ac59c1fb5,Sherlock,Tale,stalej9@bbb.org,M,155.56.252.188,Poland,Other,108622,TRUE,23-Jun,heavy user,55,raid,4327.31,5
+41cc65ec-7827-4817-a3a4-32d79f8c5a14,Corly,Hagergham,chagerghamja@ed.gov,M,199.253.59.123,China,Other,978509,FALSE,21-Jun,medium user,35,raid,2352.64,7
+ecf104a7-fbb8-4bba-844e-53a186525c16,Dennie,Scandroot,dscandrootjb@dropbox.com,M,31.51.36.185,Russia,Other,906452,TRUE,22-Nov,light user,63,raid,2368.27,17
+11751ea3-4053-4bc9-b92c-7c91edb5a56e,Selene,Elsey,selseyjc@taobao.com,M,224.166.187.236,Bosnia and Herzegovina,AOS,344762,TRUE,21-May,heavy user,78,raid,6497.82,14
+3a590d3a-2000-461d-81c0-297eebbd44b8,Carola,Jonson,cjonsonjd@google.co.uk,F,23.17.26.252,Poland,AOS,902224,TRUE,22-Dec,heavy user,9,raid,8871.83,6
+0294ba31-65f2-4e3a-b25a-87864f72e7a2,Rance,Stevenson,rstevensonje@independent.co.uk,M,230.173.121.255,Czech Republic,Other,42673,TRUE,20-Nov,medium user,87,pvp,7891.94,19
+b937af79-d6b8-4296-bc3c-36b4ab6eb5fe,Edin,Blanchard,eblanchardjf@bloomberg.com,F,17.186.6.31,China,Other,291924,FALSE,23-Apr,heavy user,76,raid,7887.99,20
+e6b34602-1096-437a-a683-d5a53926dff8,Jonathan,Fochs,jfochsjg@marriott.com,F,252.98.192.46,Brazil,Other,549103,FALSE,20-Nov,heavy user,68,pve,3453.7,2
+25523ab1-7306-4e98-af26-3a0a76a54831,Lyndsie,Berrow,lberrowjh@oracle.com,M,48.246.42.236,Ivory Coast,Other,673580,FALSE,22-Dec,heavy user,83,raid,5833.22,11
+86892246-d830-41ee-a2e3-f03cdedc95d5,Andrea,Armes,aarmesji@slate.com,M,101.18.217.147,Indonesia,Other,880134,FALSE,20-Jul,light user,71,pvp,5543.34,10
+f8856b9a-793a-46d3-b0fb-44ce9645711a,Linus,Tradewell,ltradewelljj@newyorker.com,M,73.1.125.121,Peru,AOS,740315,TRUE,23-Mar,light user,65,raid,2224.9,11
+703c81d4-3673-4ba8-ae69-76dc2ac18e55,Jedd,Lundon,jlundonjk@craigslist.org,F,158.208.4.16,France,IOS,523770,FALSE,21-Jan,heavy user,61,pve,6968.62,
+c214327c-281e-4024-bb56-d432d88411c4,Sabine,Hawtin,shawtinjl@yandex.ru,M,12.203.116.114,Brazil,IOS,8301,TRUE,23-Jul,heavy user,31,fishing,5736.76,1
+0ab90333-d27b-4d01-9f15-4ff9ee1b3878,Uta,Westrey,uwestreyjm@dyndns.org,F,53.104.132.132,Czech Republic,Other,127858,FALSE,23-Jul,heavy user,67,raid,8025.04,9
+0e3596ca-6679-4323-9a57-82032f948a72,Norby,McGinty,nmcgintyjn@weibo.com,F,15.113.73.226,China,IOS,920063,FALSE,22-May,heavy user,67,pvp,6727.16,20
+c82f7437-e1ca-4573-bc04-f97a6491aed5,Hollyanne,Housen,hhousenjo@wordpress.org,F,109.117.214.50,Finland,Other,6903,TRUE,23-Jan,heavy user,71,pve,3914.82,10
+2ec62a1e-ebd6-4037-9b25-a4d624b3258b,Mari,Lockhart,mlockhartjp@unicef.org,M,61.172.239.239,Indonesia,AOS,724885,TRUE,21-Nov,light user,75,raid,7452.68,14
+600e4c13-b671-49ac-877c-67738de02494,Tessa,Giamelli,tgiamellijq@w3.org,F,201.163.29.235,Philippines,Other,780652,FALSE,20-Jul,heavy user,50,pvp,8284.46,
+77cd2018-886d-4381-9169-34f6e4707f67,Nanette,Chipperfield,nchipperfieldjr@forbes.com,M,172.211.130.110,Sweden,Other,472169,TRUE,20-Dec,medium user,43,raid,9169.42,15
+659c292d-d9aa-48e7-a32f-6f4c43a94873,Horst,Burberow,hburberowjs@tamu.edu,M,250.78.121.53,China,Other,230661,TRUE,20-Dec,heavy user,87,pvp,9689.66,16
+933504df-027b-4281-9418-6f3d5cde740e,Grace,Woodall,gwoodalljt@nyu.edu,M,14.224.66.119,Greece,Other,205324,TRUE,20-Aug,heavy user,71,raid,735.35,10
+631ff137-dbe2-4205-a98a-8d50c064d759,Audry,Leetham,aleethamju@usnews.com,M,43.224.61.113,Philippines,Other,133199,TRUE,20-Aug,heavy user,39,raid,3982.95,11
+e2548e2e-2d0d-47d5-b52d-f6208a1438aa,Colby,Cozzi,ccozzijv@washingtonpost.com,M,47.251.149.28,Russia,Other,596607,FALSE,23-Sep,heavy user,26,pvp,9861.53,9
+a7b0d367-6819-4bfc-84ca-db021fe98b3a,Jarred,Crudginton,jcrudgintonjw@virginia.edu,F,81.216.96.151,Indonesia,AOS,997424,TRUE,21-Jan,heavy user,91,pvp,8382.81,
+f01db053-62e1-48c1-82df-37872815fd6b,Thorstein,Duchatel,tduchateljx@theglobeandmail.com,F,110.60.209.83,Mexico,Other,672600,FALSE,21-Feb,heavy user,100,pve,507.25,17
+779acf89-1bb5-49ca-83ff-44684d0cee46,Carmen,Bernhardt,cbernhardtjy@tripod.com,M,60.107.128.177,Philippines,Other,414404,FALSE,22-Aug,heavy user,36,pvp,6478.29,7
+b9199d7c-89f0-43f3-8506-11dbce76e984,Orlan,Spleving,osplevingjz@admin.ch,M,39.170.166.111,Russia,Other,736550,TRUE,22-Jul,heavy user,90,raid,3291.19,
+59fa1b45-0e56-431d-9968-e2b41536eb72,Chucho,Schneidau,cschneidauk0@zdnet.com,F,32.162.65.95,Yemen,Other,284696,TRUE,20-Oct,heavy user,97,pve,2431.9,
+be07f054-5a78-4999-bee3-ffc22b051d5f,Tiffanie,Dyers,tdyersk1@t-online.de,F,6.228.47.230,China,Other,329896,TRUE,23-Feb,heavy user,92,pve,890.31,18
+c629cf92-7a1c-42d2-884b-feaf8af26e34,Lek,Dixey,ldixeyk2@behance.net,F,209.172.54.94,China,Other,619398,TRUE,23-Aug,heavy user,23,raid,7461.24,15
+5b9f48a0-acc5-43f9-bdd8-88a20d9c4839,Tabina,Barrand,tbarrandk3@yelp.com,F,25.239.144.82,China,IOS,929257,FALSE,22-Dec,heavy user,10,raid,2111.63,11
+f142741f-17e5-427e-b0aa-a793ea9cf4fb,Elwyn,Wethered,ewetheredk4@pen.io,F,220.72.202.79,Brazil,IOS,535946,TRUE,21-Mar,light user,11,pvp,9170.55,10
+9c8fd695-0c0f-447b-9619-6c27326f6a09,Steffie,Liddiard,sliddiardk5@ow.ly,M,63.208.28.8,Iraq,Other,944815,TRUE,20-Dec,medium user,70,pvp,4966,3
+10c5f106-6cf0-4e3e-9e49-a6520da2d3d0,Alvy,Lemonby,alemonbyk6@edublogs.org,F,120.6.123.73,China,Other,174968,TRUE,23-Feb,heavy user,40,raid,6834.88,12
+d4f6a9ff-31df-4a0b-b5f9-1c97822109cf,Abagael,Pasek,apasekk7@infoseek.co.jp,F,60.126.173.7,Guadeloupe,Other,922032,TRUE,20-Oct,medium user,73,raid,8241.92,19
+2be05c40-153f-47cf-af66-3c950386d09f,Tommy,McKmurrie,tmckmurriek8@nasa.gov,F,157.223.129.18,Bolivia,Other,519121,TRUE,20-May,heavy user,84,pve,4344.94,
+2582fbb3-e07e-4898-a1da-9b0eb0a1267d,Stanfield,Peck,speckk9@statcounter.com,F,23.191.187.150,Philippines,AOS,662061,TRUE,20-Sep,heavy user,26,pve,2985.86,17
+abea33c1-89aa-447c-a446-9a8561d6985d,Flo,Aleksic,faleksicka@wired.com,M,188.209.72.74,Dominican Republic,Other,76776,FALSE,20-Jul,heavy user,3,pvp,6788.16,7
+83cfa801-2b49-4cb7-8176-0ee05d5baa42,Julietta,Ajam,jajamkb@acquirethisname.com,M,91.219.254.50,Israel,Other,606610,TRUE,22-Nov,medium user,89,pve,8307.55,10
+d68d48de-3f6f-4396-af5f-2b0c44b59cda,Caren,Gotts,cgottskc@gravatar.com,F,79.153.33.204,Sweden,IOS,378010,FALSE,21-Oct,heavy user,12,pve,4431.79,2
+68411fb2-b481-4c95-9569-4def4742a76f,Sybilla,Nott,snottkd@geocities.com,F,166.68.92.187,Ukraine,Other,886645,TRUE,22-Jan,heavy user,42,raid,4384.41,
+775e4947-b9f4-4b05-b143-93cec42228a9,Vinson,Farnon,vfarnonke@xing.com,M,104.190.254.91,China,AOS,587099,FALSE,23-Jul,heavy user,39,fishing,4069.47,18
+8efae0f6-5c92-43f6-8b9a-f1c4aa76434a,Corry,Gaffney,cgaffneykf@google.com.hk,F,18.25.59.103,Philippines,Other,483126,FALSE,21-Aug,light user,89,pvp,1575.83,11
+f0864627-3dd0-414a-afe7-7dd2f770108a,Briant,Tanby,btanbykg@slideshare.net,M,83.129.163.58,Ukraine,AOS,238455,FALSE,21-Nov,heavy user,31,pve,1230.6,9
+d615563e-8365-4822-b054-e930aebe86e3,Carlyle,Balam,cbalamkh@mtv.com,F,81.188.242.212,France,Other,906154,TRUE,23-Oct,heavy user,57,pvp,7720.02,11
+403b9daf-e403-4b86-9fa0-d637d013b075,Frederich,Risen,frisenki@ca.gov,M,179.208.30.232,China,IOS,594120,FALSE,22-Jul,medium user,96,pvp,5331.34,14
+3734add4-4ec2-4e32-bbf5-c194624beef6,Jane,Corneck,jcorneckkj@webnode.com,F,157.37.96.176,Colombia,AOS,527514,FALSE,20-Mar,heavy user,36,pvp,3920.8,12
+28e7f484-355e-46e5-9b86-e9500d1b8492,Obadias,Cockin,ocockinkk@illinois.edu,M,114.15.165.109,Slovenia,Other,765136,TRUE,22-Dec,heavy user,84,fishing,8804.09,18
+4dea87d1-e00a-4a25-a47a-a123b0d96a8f,Nikaniki,Lewisham,nlewishamkl@zimbio.com,M,187.251.51.246,China,Other,533088,FALSE,20-Aug,heavy user,86,raid,3360.26,14
+0b2b15ee-579b-4a12-8751-97b80a9768bb,Erna,Lambole,elambolekm@wikimedia.org,F,57.182.19.161,China,Other,364212,FALSE,20-Aug,light user,46,pvp,6808.9,5
+a7c79903-76c1-4fea-827c-8e1c0f7a53b6,Sileas,Swindlehurst,sswindlehurstkn@disqus.com,M,13.122.117.26,Thailand,Other,874260,FALSE,23-Nov,medium user,18,raid,2098.15,3
+db3c75b0-e414-4c84-97bd-1b421506d6dc,Stirling,Corsan,scorsanko@4shared.com,M,153.15.220.51,Mexico,Other,736454,TRUE,22-Mar,heavy user,93,pvp,6524.76,4
+f3e98f22-025b-433d-bc0f-31aad8179945,Raina,Janoschek,rjanoschekkp@un.org,F,1.24.81.230,Armenia,Other,432536,FALSE,23-Aug,heavy user,43,pve,1283.48,8
+d2bde164-a86d-4819-8910-4d80ef90098b,Letisha,Creboe,lcreboekq@engadget.com,M,34.206.225.104,Guadeloupe,Other,959420,FALSE,21-Nov,heavy user,2,pvp,4931.98,
+e013bbf8-3ee6-4073-a51c-473beb7bd1ee,Gunner,Hamor,ghamorkr@1688.com,M,123.218.114.171,Russia,Other,674694,FALSE,22-May,medium user,22,pvp,9793.71,6
+6b0ce4ce-ecbf-4045-b47f-10e3c27979e5,Cal,Wyne,cwyneks@rediff.com,M,93.151.139.39,Philippines,Other,498173,TRUE,21-Nov,heavy user,91,raid,6363.76,
+6033bf67-0123-4954-8894-cb317e9f4f63,Ealasaid,Brailey,ebraileykt@google.com.hk,F,35.80.144.245,Russia,Other,547970,TRUE,23-Apr,heavy user,67,pve,9866.05,
+be6cc898-1f90-4928-94e6-2980354110ff,Winston,Rigg,wriggku@people.com.cn,M,75.20.124.42,Ukraine,AOS,112068,FALSE,23-Apr,heavy user,27,pve,1522.34,
+71d56e90-eb17-4f36-8a58-ba7a95f8b51c,Granthem,Brushfield,gbrushfieldkv@unc.edu,M,107.211.196.92,Norway,AOS,444895,TRUE,20-Jun,medium user,30,pve,8035.83,20
+869589c2-578d-4cc3-b567-b6f47da4b51f,Clair,Fairtlough,cfairtloughkw@flavors.me,F,62.33.65.52,United States,Other,948670,TRUE,23-Oct,heavy user,66,fishing,9169.19,2
+8c71a715-4df7-44bb-af53-ad7cfca00090,Mohandis,Baggaley,mbaggaleykx@google.co.uk,F,253.239.104.96,Poland,AOS,495023,TRUE,20-Nov,heavy user,23,raid,677.32,9
+82794236-ea04-4571-97ea-e9cfc705ddff,Giordano,Adcock,gadcockky@gnu.org,M,193.188.107.255,Poland,Other,511740,TRUE,23-Jun,heavy user,64,raid,3356.7,10
+2069fc60-78b0-4e3a-b14d-f032df30474a,Davie,Lorkings,dlorkingskz@odnoklassniki.ru,F,69.79.28.222,Spain,Other,323368,TRUE,21-Nov,heavy user,41,fishing,2002.37,9
+9a4d9b2c-e084-408e-bb87-a3a01062691e,Chuck,Zollner,czollnerl0@engadget.com,F,102.205.142.59,Brazil,Other,617965,TRUE,21-Mar,heavy user,25,pvp,7885.48,18
+23c02e71-dbe4-4e74-8636-9b3d68121ed4,Jocelyn,Quinton,jquintonl1@senate.gov,F,66.250.15.227,Indonesia,Other,664071,TRUE,23-Nov,heavy user,38,pve,6719.42,1
+a7d5d583-049f-41a1-98f9-440897629c60,Giff,Crang,gcrangl2@shareasale.com,F,9.113.66.66,China,Other,330786,TRUE,21-Jul,heavy user,29,pvp,3778.49,6
+e62a199d-f2bd-48b5-adfc-3dabc2172bc9,Terrye,Ganley,tganleyl3@twitpic.com,F,179.244.119.84,Indonesia,Other,119457,FALSE,21-Oct,heavy user,68,pve,3550.71,2
+be64fd27-1e78-4f4a-9018-3338a4768e63,Chandler,Learmond,clearmondl4@360.cn,F,22.145.52.111,Indonesia,AOS,229889,TRUE,20-Nov,medium user,66,fishing,6354.73,1
+884b79c0-db75-474f-a422-9c12036674fa,Fred,Siddaley,fsiddaleyl5@census.gov,F,177.203.9.97,Armenia,Other,231741,TRUE,22-Apr,heavy user,69,pvp,5669.07,10
+b0fc5bad-25d9-46d5-8c59-05b7066595a1,Cyrus,Cicchillo,ccicchillol6@jigsy.com,F,29.128.186.252,Maldives,Other,519149,TRUE,20-Feb,heavy user,51,fishing,4055.51,20
+2774fe15-9b1f-40f7-b157-54a8f41f5b6c,Lucien,Arend,larendl7@360.cn,F,22.117.101.247,Portugal,Other,43741,FALSE,22-Sep,heavy user,98,raid,8764.84,8
+68f6049f-f59a-4a3c-a10f-ae21b6b7bcac,Filippo,Swatman,fswatmanl8@census.gov,F,140.88.32.168,Democratic Republic of the Congo,Other,553283,TRUE,20-Nov,heavy user,77,raid,3247.61,11
+ba71422a-1a0b-4576-aa3e-c310f739d081,Vi,Ready,vreadyl9@delicious.com,M,89.203.229.79,France,Other,552531,TRUE,23-Sep,heavy user,81,raid,9410.39,8
+eb41584f-37e0-4c55-8abe-6830ae95bfd6,Leonerd,Zavattari,lzavattarila@google.com.br,F,160.79.89.99,China,Other,861140,FALSE,23-Nov,heavy user,69,pvp,3650.02,16
+9bda2d2b-7732-4daa-8fb3-ef4b03fe50a3,Ninetta,Leaming,nleaminglb@salon.com,M,109.235.70.159,Russia,Other,359019,TRUE,21-Jul,heavy user,16,fishing,9824.63,6
+76ad7dcd-217a-49e9-a854-afa6abb679a4,Earle,Gartrell,egartrelllc@dropbox.com,M,212.44.174.5,Portugal,Other,821800,TRUE,20-Mar,medium user,37,raid,388.83,16
+1efde45c-e843-4a53-bed0-0d982f7581dd,Gayler,O'Shevlin,goshevlinld@themeforest.net,F,254.194.190.185,United States,IOS,207115,FALSE,23-May,heavy user,37,pvp,3411.86,
+c4248efd-a999-49ab-b55e-afade1bdd39a,Clio,Maly,cmalyle@bing.com,F,0.161.165.178,Peru,AOS,779300,FALSE,21-Jul,heavy user,25,raid,5137.36,4
+7e926aa4-c8f0-40a4-9bc4-edfb2ee834b4,Cirilo,Coltart,ccoltartlf@dailymail.co.uk,F,54.129.93.112,China,Other,877899,TRUE,22-Apr,medium user,51,fishing,7295.88,19
+0ec368dd-8a9e-484e-85ab-b1e8ff2ee881,Spence,Wintersgill,swintersgilllg@lulu.com,F,0.25.248.226,Yemen,IOS,426193,FALSE,21-Oct,heavy user,99,pvp,4091.69,6
+cf9c134a-b97d-4561-ac6a-d12b36b430d4,Corrina,McAughtrie,cmcaughtrielh@harvard.edu,M,50.47.176.192,Portugal,Other,914446,FALSE,21-Apr,heavy user,87,pvp,1501.29,20
+41045f9d-aa0f-48a0-bd41-788d71d60cac,Cindy,Meadowcraft,cmeadowcraftli@prweb.com,M,237.154.80.113,Colombia,Other,362780,TRUE,23-Apr,heavy user,34,pve,6968.89,7
+91babffd-770c-4ed4-a533-1aafa32eafb2,Kelbee,Lindenberg,klindenberglj@amazon.co.jp,M,69.100.6.180,Paraguay,Other,820289,TRUE,20-May,heavy user,49,fishing,643.53,2
+27fe6283-dc18-4418-8edd-a2c33efe47f2,Pansie,Gasparro,pgasparrolk@boston.com,F,35.243.95.132,Bosnia and Herzegovina,Other,60496,TRUE,20-Aug,heavy user,26,raid,7179.38,
+04a9520c-2632-4310-bd68-b52091fefbf4,Parnell,Kift,pkiftll@prnewswire.com,M,188.35.244.181,Malaysia,Other,4491,TRUE,22-Aug,medium user,39,pvp,7085.94,
+4b74f322-3c40-450a-9140-6b54844fe07a,Tobye,O'Shee,tosheelm@wsj.com,M,236.17.79.111,China,Other,917377,TRUE,21-Feb,heavy user,51,raid,8277.15,
+ff4e0fe0-d739-4c13-af69-bea813e51978,Dacey,Teideman,dteidemanln@sun.com,M,122.12.51.153,Indonesia,Other,148936,FALSE,23-Feb,heavy user,86,pvp,448.77,
+ad56796a-1a37-4523-ae68-96ba77595f96,Miltie,Emmens,memmenslo@diigo.com,F,164.88.147.35,Peru,Other,171517,FALSE,24-Jan,heavy user,9,pvp,524.21,14
+d35d5f13-45a3-4ffe-8777-dbdfe691ecb1,Farley,Brundrett,fbrundrettlp@pagesperso-orange.fr,M,33.196.181.161,China,AOS,165749,FALSE,20-Aug,heavy user,10,pve,5118.16,6
+96d6cffb-ded1-4927-9ee8-e8558442e755,Steffen,Desmond,sdesmondlq@whitehouse.gov,F,15.0.221.180,Belarus,Other,494082,FALSE,23-Nov,medium user,40,fishing,1244.11,8
+a31adfc5-95b6-4088-af85-08a527fea110,Mattheus,Richard,mrichardlr@blogger.com,M,242.251.76.222,Tunisia,IOS,730406,TRUE,20-Sep,light user,87,raid,8984.7,
+4b7227d6-c9d4-4465-b9ab-45cffb7b43fd,Raymond,Scrivin,rscrivinls@shinystat.com,F,141.196.20.195,Philippines,Other,36787,TRUE,21-Feb,heavy user,72,raid,932.74,20
+52df4a93-6e83-4ae8-901e-45cdbca43824,Claiborn,Yannoni,cyannonilt@parallels.com,M,67.112.46.216,Syria,Other,100757,FALSE,23-Sep,heavy user,20,fishing,3392.12,15
+02989f14-e693-40da-bf68-4ea9982997ea,Axe,Uzelli,auzellilu@upenn.edu,F,9.204.254.111,Peru,Other,909372,FALSE,20-Nov,heavy user,35,raid,7302.63,10
+31866380-ba52-4c6a-ac75-e2597a91d63a,Hazel,Tremathack,htremathacklv@oaic.gov.au,M,221.214.219.131,Maldives,Other,886970,TRUE,21-Nov,heavy user,56,raid,5936.31,2
+2a1a986c-fe3b-4ce0-ac2a-9b5811edb8d4,Florrie,Tomadoni,ftomadonilw@slashdot.org,M,90.190.48.109,Yemen,Other,994313,TRUE,24-Jan,heavy user,77,fishing,4772.68,3
+e2e24bd2-7532-455f-8286-cd2aaf9be232,Eddie,Heaffey,eheaffeylx@sphinn.com,M,11.228.50.187,France,Other,974663,FALSE,21-Oct,light user,5,fishing,6850.93,5
+16f2bf87-cfb4-4146-82ea-86b672676031,Cosmo,Wawer,cwawerly@mashable.com,M,158.217.13.138,China,Other,507742,FALSE,21-Aug,heavy user,91,raid,6654.81,6
+a7971d87-2fa5-4fc4-9b9a-d79ccdd07380,Erie,Sugars,esugarslz@cargocollective.com,M,192.205.113.216,Thailand,Other,277547,TRUE,21-Oct,light user,52,pvp,2086.34,
+ec0ef6e8-abee-452c-91c8-14237f48904c,Dell,Dearden,ddeardenm0@disqus.com,F,233.165.109.178,Brazil,IOS,705894,FALSE,23-Jan,heavy user,40,pvp,4613.53,6
+6259417d-86b1-4a35-91d9-4f579dd91914,Julie,Tieraney,jtieraneym1@wsj.com,M,149.43.84.204,Kenya,IOS,72616,TRUE,24-Jan,light user,94,fishing,681.08,12
+5e6ecea4-c022-4005-88f9-fed930c557de,Rae,Iglesias,riglesiasm2@marketwatch.com,M,33.122.75.60,Ireland,AOS,641585,TRUE,20-Oct,heavy user,88,raid,4258.9,1
+83de2c77-954c-433f-aace-7c429ab02306,Romy,Greeding,rgreedingm3@twitpic.com,F,31.215.55.211,China,Other,258615,TRUE,23-May,heavy user,55,fishing,2044.31,19
+5e62581e-fb93-4ff8-a3e9-004f6fa53f51,Klarika,Mosdill,kmosdillm4@goo.ne.jp,M,187.149.142.37,Indonesia,Other,825728,FALSE,23-Nov,medium user,63,raid,8468.01,10
+123984fd-e37a-44af-8628-6b16710a9508,Henrie,Olivetta,holivettam5@exblog.jp,F,224.69.149.159,Brazil,AOS,783213,FALSE,24-Feb,heavy user,20,pvp,9863.89,9
+a56d1f8d-da6e-4fe6-820d-a42360290925,Thurstan,Molson,tmolsonm6@jiathis.com,M,88.110.184.70,Portugal,Other,829641,TRUE,20-Jul,medium user,4,pvp,4410.99,2
+3f6bf666-2917-48fb-9433-cd75383010e0,Benedikt,Pemble,bpemblem7@comsenz.com,F,110.64.93.71,Kuwait,IOS,321495,FALSE,22-Sep,heavy user,41,raid,3405.51,17
+e847ab76-f70b-4371-b0ff-2af1e97989f2,Else,Gatfield,egatfieldm8@xinhuanet.com,M,106.135.185.208,China,AOS,233771,FALSE,20-May,heavy user,34,fishing,9399.33,10
+eb9e29fa-ccae-4da8-b363-04283669dcee,Audy,Fanshawe,afanshawem9@nyu.edu,F,188.218.43.36,Brazil,Other,452753,TRUE,22-Jan,heavy user,33,pvp,3950.8,2
+ab10f60e-4441-449a-b38c-51c216ef4be8,Corabelle,Blint,cblintma@engadget.com,M,56.163.187.130,Russia,Other,974685,TRUE,21-Apr,heavy user,88,pve,5778.82,
+5dc22ee2-54dd-4e08-981c-37862afafc87,Lars,Seddon,lseddonmb@sohu.com,M,1.72.251.182,Thailand,AOS,74877,FALSE,20-Jun,light user,79,fishing,9494.38,
+7a03ddd3-ebf9-43c5-a977-825696ddd16e,Regine,Bog,rbogmc@harvard.edu,F,14.142.111.33,China,AOS,827745,FALSE,22-Oct,heavy user,15,pvp,3781.74,
+167fbd14-1fbc-415b-8f58-46874d1709a4,Fran,Gilchrest,fgilchrestmd@yelp.com,F,216.217.234.228,Indonesia,Other,687393,FALSE,21-Dec,heavy user,39,pve,1609.92,8
+eaa78565-2513-4672-abb4-7e210cba54b5,Thurston,Lissandri,tlissandrime@51.la,M,158.214.118.113,Brazil,IOS,969977,FALSE,23-Mar,heavy user,89,fishing,9770.63,15
+ecc7fc02-db47-4c07-93cd-5f9cd1037d8d,Bellanca,Lehrle,blehrlemf@adobe.com,F,78.42.31.252,Colombia,Other,68255,TRUE,21-Apr,light user,46,fishing,1454.29,17
+2a46673c-ddf7-4d5a-8516-c2c8e0bf1f44,Henri,Claremont,hclaremontmg@blogger.com,F,250.38.85.19,China,Other,558076,FALSE,23-Jun,heavy user,58,fishing,1869.93,
+b06144aa-2e35-4a09-a78a-d3775ceafdd6,Rochell,Krysztofowicz,rkrysztofowiczmh@techcrunch.com,F,254.254.220.209,Poland,Other,236509,TRUE,20-Nov,heavy user,69,raid,95.91,15
+fcd2cf33-78c1-4233-8dda-753a73bb4b93,Raine,Sowray,rsowraymi@is.gd,F,213.113.33.34,China,AOS,570372,TRUE,22-Nov,heavy user,73,pvp,8772.3,
+03d9c4fa-3822-4b20-9c27-8fb32e9cc257,Judah,Galvan,jgalvanmj@gov.uk,F,196.43.172.70,Jordan,Other,413373,FALSE,20-Oct,heavy user,31,pvp,8012.32,11
+dc1f2c11-74c3-4cc9-b11a-b3c3b5e7b9b3,Sylas,Busse,sbussemk@cpanel.net,M,35.125.157.19,France,Other,859631,FALSE,21-Jul,heavy user,51,raid,7598.44,13
+fce72365-225a-48f1-8bbf-377667580807,Merralee,Sanbrook,msanbrookml@yelp.com,F,239.55.134.176,Russia,Other,48418,FALSE,20-Sep,heavy user,42,fishing,8480.55,14
+f8c54422-2af9-403d-9902-1d46b65ef33c,Brooke,Tejero,btejeromm@vk.com,F,134.218.196.212,Philippines,Other,789109,TRUE,23-Jan,heavy user,6,raid,3084.08,18
+ddd2426d-f887-4597-b6f1-c4e0c59b2883,Virgie,McLaughlin,vmclaughlinmn@google.com.hk,F,94.26.174.96,China,AOS,491342,FALSE,23-Mar,heavy user,56,fishing,9390.72,15
+d933c447-fe09-41b8-bbcb-a4196ed1e292,Josias,Lusk,jluskmo@who.int,M,66.10.101.222,Jordan,Other,469499,TRUE,21-Apr,heavy user,47,pve,4713.25,11
+7602b622-067d-4ee7-b883-9b0cef38f603,Bendix,Warwicker,bwarwickermp@apache.org,F,228.153.100.4,Philippines,AOS,639696,TRUE,20-Oct,medium user,100,pvp,4298.6,15
+0c3a7032-74b6-4c75-9174-df0e6c6d6dcc,Kaitlyn,Ferrierio,kferrieriomq@java.com,M,176.66.139.149,Russia,AOS,64701,TRUE,22-Jan,heavy user,47,raid,1552.51,2
+2f6ef621-6266-4e8f-b86a-a9b7d4b52976,Conni,Livard,clivardmr@google.nl,M,248.94.145.51,Philippines,Other,778803,FALSE,23-Nov,heavy user,43,pvp,7381.78,
+e4114be4-524c-4cf5-9257-f208c5a30d0d,Daryle,Bowle,dbowlems@edublogs.org,F,193.141.158.206,Croatia,IOS,331761,FALSE,20-Mar,heavy user,64,pvp,6252.99,3
+06206c0c-ad73-4bfa-a96f-b44d07acd12b,Pat,Hollingsby,phollingsbymt@tumblr.com,M,135.251.118.167,Czech Republic,Other,257569,TRUE,22-Jun,heavy user,33,fishing,7556.9,4
+e44c1012-5b53-4349-a5f2-8ce6a1cf88cd,Catherina,Atto,cattomu@example.com,M,159.30.99.110,Peru,Other,964283,FALSE,22-Jan,heavy user,62,fishing,7844.61,
+c012b823-3274-429e-99ed-08e5b24e7af6,Arnie,Joy,ajoymv@gov.uk,M,239.128.116.253,China,Other,66041,FALSE,21-May,light user,32,pve,6206.85,8
+7d114f86-d5c4-4bac-8191-be9f3db41a23,Blondell,Kidgell,bkidgellmw@feedburner.com,F,43.146.143.50,Faroe Islands,Other,579641,FALSE,23-Jan,heavy user,20,raid,197.41,10
+8e046aca-fa3d-4a3c-9860-af2a5d135a54,Cecilio,Kagan,ckaganmx@icio.us,F,92.6.7.141,China,Other,801459,FALSE,21-Aug,heavy user,13,fishing,5191.39,13
+d721f3ac-a608-408e-bb1f-487af88dc723,Carmen,Hatfield,chatfieldmy@wired.com,F,70.174.40.17,Mexico,Other,560013,FALSE,20-Mar,heavy user,23,raid,7747.9,4
+81699421-d5ab-400f-8db5-a6fefd18dd0e,Keelby,Mungham,kmunghammz@theatlantic.com,F,84.69.38.222,Philippines,IOS,498006,FALSE,21-Jan,heavy user,23,raid,9488.41,1
+afd68f19-e466-40b3-9c8b-2c2fd0ecf2e9,Casey,Gethins,cgethinsn0@soup.io,M,81.98.45.143,Armenia,AOS,199602,TRUE,21-Aug,heavy user,83,pve,3789.19,
+9d7d8098-6226-4650-a884-65f1975f584f,Reena,Hambidge,rhambidgen1@dropbox.com,F,152.41.45.123,China,Other,584810,TRUE,23-Oct,heavy user,98,fishing,4550.81,16
+13e08c74-8ca2-4f66-9c1c-cdd6a75a1f01,Sabrina,Frossell,sfrosselln2@toplist.cz,M,109.88.39.102,Brazil,Other,670812,TRUE,20-Dec,light user,58,pvp,8951.53,
+d8d16ebe-25d5-431f-8b31-8410604a95d1,Penelopa,MacKimm,pmackimmn3@samsung.com,F,152.25.119.234,Sweden,Other,211705,FALSE,20-Feb,heavy user,61,fishing,4631.36,19
+0f56afcf-51c4-4d93-832f-1e111140ade2,Howard,Brayfield,hbrayfieldn4@ebay.co.uk,F,88.147.194.207,Indonesia,IOS,906102,FALSE,20-Mar,medium user,49,pvp,7607,9
+432c26ea-7a88-4ead-ac7d-d9f81644b7e3,Leela,Tunnah,ltunnahn5@virginia.edu,M,126.190.211.231,China,Other,341498,TRUE,20-Aug,heavy user,95,fishing,8063.45,11
+b9413e32-4917-4906-bda6-394137e83b80,Delmar,Northing,dnorthingn6@rediff.com,F,143.223.201.156,China,AOS,203394,TRUE,23-Apr,light user,73,pvp,1086.08,9
+c2830a71-1dff-4ab7-bd52-f6c99a93acc9,Gamaliel,Iacobucci,giacobuccin7@studiopress.com,F,246.53.255.63,China,Other,911166,FALSE,22-Dec,medium user,13,fishing,8573.84,4
+5eeec1e8-9e80-4b20-aa8c-970d6db33c55,Consuelo,Henrion,chenrionn8@patch.com,F,40.123.181.233,Indonesia,Other,453030,FALSE,23-Jan,light user,2,fishing,9661.41,4
+eb08395b-6209-4a1e-b59f-96472440954c,Alvy,Napoli,anapolin9@icio.us,M,35.102.129.219,Colombia,Other,574925,TRUE,21-Mar,medium user,45,pvp,9949.63,4
+1983c892-ffb5-4c4f-878b-82fc52c30123,Robin,Dubois,rduboisna@businesswire.com,F,28.194.98.191,Malaysia,AOS,729022,TRUE,21-Aug,heavy user,80,raid,9242.98,13
+62021d23-25f6-4ea4-bcaa-6dddcc86f8fa,Margette,Kieff,mkieffnb@aol.com,F,54.209.82.100,Russia,Other,416440,FALSE,21-Nov,heavy user,4,pve,5591.93,6
+c8a4205a-9797-4d4a-89fa-94a93537e4d6,Shem,Menear,smenearnc@vkontakte.ru,M,240.175.72.73,Mongolia,Other,668122,FALSE,20-Mar,light user,39,pvp,9493.59,18
+705babee-c15c-4ea8-af53-9c29cf4b6f4c,Milty,Spriddle,mspriddlend@apple.com,F,242.179.254.126,Vanuatu,IOS,757345,FALSE,22-May,medium user,39,pvp,9201.44,7
+ca570a7c-e300-470a-ab5d-a0dd4bedde9d,Burnaby,Itzakson,bitzaksonne@bravesites.com,M,233.233.45.110,Thailand,Other,994700,FALSE,21-Oct,heavy user,4,raid,4753.29,18
+40395d8e-5891-43a9-813e-36d244cce03d,Valentina,Laboune,vlabounenf@ebay.com,F,237.190.60.51,Nigeria,Other,306404,FALSE,20-Apr,heavy user,89,fishing,9272.9,7
+62412775-df97-4387-be98-32084c873c4f,Beulah,Sidebotham,bsidebothamng@ucsd.edu,M,59.101.42.140,United States,Other,279372,FALSE,20-May,heavy user,12,pvp,2056.3,14
+5813a50d-e61f-4d8e-97c1-67bddf435b92,Claudelle,Ciobotaro,cciobotaronh@webnode.com,M,7.225.134.176,Azerbaijan,AOS,667470,TRUE,22-Jul,medium user,24,pvp,5385.79,8
+e0b5bfbd-cfb7-4bf1-8a4b-8bc960c7b0e8,Ode,Boydell,oboydellni@dagondesign.com,F,221.20.148.196,Indonesia,Other,609382,FALSE,21-Jan,heavy user,72,pvp,6255.73,5
+a4e5f2ce-fd19-40d6-af8e-9dae21a3fd05,Aimil,Roscher,aroschernj@fema.gov,M,223.62.99.69,Colombia,AOS,626409,FALSE,21-Feb,heavy user,72,pvp,461.44,17
+8c460009-4d78-49e8-a9e6-938bf81602ac,Ladonna,Nys,lnysnk@soup.io,F,175.87.101.224,Dominican Republic,Other,407105,FALSE,20-Oct,medium user,36,fishing,7175.22,7
+c993b04a-5d1a-4f81-ba94-0539989c1030,Grange,Brockman,gbrockmannl@stanford.edu,F,129.121.185.135,Russia,AOS,930655,TRUE,22-May,medium user,49,pvp,245.11,10
+fc4d4447-4125-448e-beef-85de93b67de9,Muffin,Verrier,mverriernm@discuz.net,F,124.228.146.17,China,Other,928557,TRUE,20-Oct,medium user,86,raid,9985.49,12
+0e4d4af8-d764-414c-bf81-7b5570809303,Roderick,Enochsson,renochssonnn@webs.com,M,131.120.127.66,Luxembourg,Other,245372,FALSE,20-Aug,heavy user,32,pve,8502.72,3
+6a61d7be-30d1-4b1c-a1ac-418aaf882428,Merwin,Bryceson,mbrycesonno@nationalgeographic.com,F,144.155.225.106,France,Other,113185,TRUE,21-Feb,heavy user,60,pve,640.39,18
+61cb19e6-8d07-451e-8444-2003ef0e076e,Ninnetta,MacAllen,nmacallennp@craigslist.org,F,172.80.203.28,Argentina,Other,447041,FALSE,20-Nov,heavy user,79,pvp,9532.07,2
+d711ba05-03d0-4144-8c37-75820d55cb12,Cody,Tompion,ctompionnq@slideshare.net,F,124.42.46.159,Honduras,Other,287865,TRUE,20-Mar,heavy user,45,pvp,9803.71,1
+2cd23783-fdd8-416b-95d2-34f730a4ab94,Edita,Matthiesen,ematthiesennr@shutterfly.com,F,110.248.15.4,Bhutan,IOS,516146,TRUE,21-Mar,heavy user,93,pve,4958.07,7
+52459d71-da84-41cd-bf27-8b44bfbac0c2,Sutherlan,Traviss,stravissns@photobucket.com,F,193.133.163.206,Sweden,Other,809352,TRUE,20-Mar,light user,79,fishing,3217.71,20
+d2c8429f-aa72-4cc1-aafa-dbe9d758682e,Sharlene,Beautyman,sbeautymannt@princeton.edu,F,39.136.239.238,Japan,IOS,595595,TRUE,23-Mar,heavy user,70,pvp,9186.98,3
+eddce37c-9fe2-4b06-b293-5deeb634319a,Gene,Slessor,gslessornu@nba.com,M,123.207.243.112,Kosovo,Other,521263,TRUE,24-Feb,heavy user,71,pve,2165.8,19
+6f0aba15-8bbd-4f14-9646-886bf5d4cc9e,Niki,Mesnard,nmesnardnv@cnet.com,F,68.201.45.229,Poland,IOS,940880,TRUE,21-Sep,light user,85,pvp,2468.19,2
+a480f9b1-320b-481b-87c7-3f136e1a137b,Virginie,Pyffe,vpyffenw@studiopress.com,M,83.252.51.1,Russia,AOS,349877,FALSE,22-Mar,heavy user,78,fishing,8755.79,18
+00368fc8-3c0c-4f3d-b52e-fa360b373ad6,Karlotta,Guerreiro,kguerreironx@virginia.edu,F,246.9.32.212,China,Other,334279,FALSE,21-Jun,heavy user,15,pve,2733.02,11
+5afe3b4d-93f4-4725-8d04-a24d1d8e0a53,Jackson,Panswick,jpanswickny@mail.ru,M,75.32.244.26,Syria,Other,662477,TRUE,22-Jun,light user,87,raid,8480.17,16
+c1a79b66-6f12-4e97-a3c9-3491b00b1739,Danica,Hadye,dhadyenz@about.com,F,36.125.121.216,Brazil,Other,816835,TRUE,22-Jan,heavy user,89,fishing,5189.15,7
+93b8d008-1385-4b76-b72f-c64efe711c4d,Constantino,Andrichuk,candrichuko0@slideshare.net,F,235.168.32.86,China,Other,350930,FALSE,22-May,heavy user,84,pve,2443.96,
+d44eac3c-d365-4344-a57f-6f2a4312c404,Zarla,Massingberd,zmassingberdo1@mapy.cz,F,159.233.124.106,Indonesia,Other,321820,FALSE,23-Sep,heavy user,82,pve,2904.07,16
+6511de9b-3c65-4e62-9ca3-98383f132f70,Raf,Hemphrey,rhemphreyo2@hud.gov,F,28.170.102.157,Philippines,Other,97351,TRUE,21-Dec,heavy user,25,pve,3143.35,20
+13eceef1-b02e-4c72-8640-183f63844d6d,Darcee,Durden,ddurdeno3@simplemachines.org,M,118.38.131.4,Philippines,Other,735255,FALSE,22-May,light user,66,pve,5619.3,8
+c3f8be80-4745-4434-891f-532901810a3b,Moss,Paffett,mpaffetto4@icq.com,F,202.226.160.155,Czech Republic,Other,743291,FALSE,23-May,heavy user,44,raid,5226.38,2
+0d8eb4c1-160b-43f7-b763-7cbcf0227e3b,Ugo,Gillogley,ugillogleyo5@bigcartel.com,F,2.221.115.5,Ukraine,Other,370835,TRUE,23-Apr,heavy user,55,fishing,6286.97,7
+14ab0a52-901e-4d27-9c87-bed4345072b7,Stirling,Shire,sshireo6@wikimedia.org,M,216.4.53.91,China,IOS,901057,TRUE,23-Jan,heavy user,64,pvp,7309.14,13
+1c95f21b-8a66-4f42-ad9f-6479b2fb731c,Vivia,Banford,vbanfordo7@delicious.com,F,84.241.131.78,Azerbaijan,Other,600104,FALSE,22-Nov,medium user,5,pve,471.85,15
+42d7e876-f7bd-4e18-9753-e24c4692195a,Stormie,Bogaert,sbogaerto8@mashable.com,M,39.17.253.123,United States,AOS,401079,FALSE,22-Jan,heavy user,92,pve,5787.94,17
+c40f6fa1-76cd-42e3-80ae-4c97bdcb2ef7,Ferrel,Spurdens,fspurdenso9@g.co,M,26.58.167.71,Brazil,Other,716007,FALSE,22-Nov,heavy user,54,pve,8961.09,17
+54027aa8-84d8-4ffe-9299-9faec264146a,Onfre,Cuming,ocumingoa@mapy.cz,F,177.145.23.245,Russia,Other,296997,FALSE,21-Apr,heavy user,69,fishing,3875.81,
+0e9a7697-baa7-4d72-9c5d-86b9d275bd9d,Byrom,Swatradge,bswatradgeob@reddit.com,M,187.78.47.11,Poland,AOS,964016,TRUE,21-Apr,light user,37,raid,2213.72,
+4052261c-d611-49e9-9a76-5eef2b6d08f1,Aindrea,Macenzy,amacenzyoc@feedburner.com,F,73.199.150.195,Bulgaria,Other,711048,FALSE,22-Sep,medium user,82,pvp,1165.8,6
+da5bd6bb-c2d9-4275-96b1-5da03b5a5051,Selma,Gierok,sgierokod@craigslist.org,F,123.164.53.183,France,Other,397193,FALSE,20-Jun,heavy user,14,pve,2531.44,
+b6f60a33-0077-4ce9-bb09-e203ad5d4e95,Guillema,Fulop,gfulopoe@elpais.com,F,50.220.115.210,United States,Other,395010,FALSE,21-May,heavy user,44,raid,4303.59,9
+50d26148-b55e-4c17-95d5-092568769dee,Hilary,Beccera,hbecceraof@creativecommons.org,M,69.142.12.154,Philippines,Other,825803,FALSE,22-Jun,heavy user,3,fishing,2449.34,10
+bafbb064-e7e2-4197-870e-7fa38ea7b84c,Fayre,Petrelli,fpetrelliog@godaddy.com,M,122.204.64.216,Russia,Other,624823,FALSE,22-Apr,light user,19,pve,3161.3,15
+e6340752-9efd-414f-a920-49875c94faaf,Ignatius,Athowe,iathoweoh@creativecommons.org,F,77.123.212.114,Tanzania,IOS,252371,FALSE,23-Oct,heavy user,2,pvp,8070.99,18
+0c7388e9-736b-47d0-8d7f-cd4727cb1ca3,Peggi,Everingham,peveringhamoi@shinystat.com,F,7.175.254.83,Czech Republic,Other,766093,FALSE,22-Sep,light user,43,fishing,9822.63,
+2a24f814-f268-4837-8199-606bd5c57c9d,Lilah,McKimmey,lmckimmeyoj@epa.gov,M,82.146.101.96,Morocco,AOS,158308,FALSE,21-Apr,light user,49,pve,4790.91,14
+c525f8c4-86b8-4ea3-9b4e-56814c821370,Fairleigh,Rubinsky,frubinskyok@vkontakte.ru,M,4.112.204.239,Iran,Other,36773,FALSE,20-Apr,medium user,66,pvp,5484.13,3
+50765f4b-8db8-40bc-a7e2-0eef11a91559,Mahmud,Pigney,mpigneyol@is.gd,F,7.199.157.239,China,Other,239853,FALSE,20-Dec,heavy user,54,raid,3668.37,13
+1e216c3c-551c-4888-b557-b56c4beb3b9e,Ermanno,Cadlock,ecadlockom@weebly.com,M,149.13.34.237,Portugal,Other,604660,TRUE,24-Jan,heavy user,49,fishing,4720.96,20
+91a443d7-2717-4123-81e2-76f94454c8f7,Evan,Burrel,eburrelon@domainmarket.com,F,116.175.102.91,Sweden,Other,128517,FALSE,22-Apr,heavy user,80,pvp,7261.17,9
+e8b94596-acf6-4c44-9521-be7078946564,Kenn,Antusch,kantuschoo@t-online.de,M,127.239.112.13,Brazil,IOS,764217,FALSE,23-Apr,light user,96,raid,8416.91,19
+5889bb3f-dfe9-454c-b1bb-04f5c1884aa6,Pieter,MacCarter,pmaccarterop@mozilla.org,M,234.0.172.3,Peru,AOS,755160,TRUE,22-Jul,heavy user,63,fishing,4854.43,14
+283b265d-8580-49eb-977c-54787a072cc7,Jordan,Yosevitz,jyosevitzoq@hc360.com,M,169.4.48.131,Yemen,AOS,517160,TRUE,21-Jul,heavy user,4,fishing,4642.43,10
+54d99aff-8fa1-4ac9-b914-9ec922daa3a1,Maxie,Moyle,mmoyleor@comsenz.com,F,35.143.174.211,Armenia,Other,156069,TRUE,23-Nov,heavy user,17,fishing,4977.78,16
+45546663-bfb3-427a-ba62-41c785d6f6db,Salomo,MacGahy,smacgahyos@alibaba.com,M,120.64.155.149,Myanmar,IOS,288303,FALSE,23-Jan,light user,84,raid,9590.78,6
+83e81532-f81a-4cb3-a974-ace65fbaba96,Cati,Wraxall,cwraxallot@shinystat.com,M,57.243.37.54,Bosnia and Herzegovina,Other,550984,TRUE,23-Aug,heavy user,19,fishing,6993.6,13
+031d3006-0a4b-4dda-9382-a05b2a44b0d9,Newton,Yarr,nyarrou@4shared.com,M,149.55.173.214,Tajikistan,IOS,63781,TRUE,21-Jun,heavy user,3,pvp,8917.5,9
+1397e89c-b3e1-419f-8a83-c316615e27cd,Reynard,Yea,ryeaov@amazonaws.com,F,178.207.215.162,China,Other,102018,FALSE,24-Jan,medium user,58,fishing,3675.66,8
+f80df725-70a5-48a1-8b67-f9be116cfb59,Leilah,Hadlee,lhadleeow@who.int,F,131.211.46.250,China,Other,356520,TRUE,23-Jul,heavy user,63,pve,1048.56,12
+7407a3ca-09d7-46a5-b773-fde2c7bdd255,Harlan,Rilston,hrilstonox@census.gov,M,93.124.33.133,Russia,Other,604903,TRUE,22-Feb,light user,55,raid,8724.7,20
+7438d91b-dea7-4f2c-af79-ce4f15667814,Lezlie,Clement,lclementoy@accuweather.com,F,148.117.128.161,Palestinian Territory,Other,210812,FALSE,20-May,light user,68,pve,5258.16,17
+7dab44fa-b1e5-4499-9242-12e92ecc6812,Webb,Pettegre,wpettegreoz@twitter.com,F,26.167.98.73,Indonesia,Other,439177,FALSE,23-Sep,heavy user,29,pvp,1665.88,8
+2986e0aa-db7e-408e-9b78-0ce272293870,Giovanna,Shrimpling,gshrimplingp0@desdev.cn,F,94.146.220.11,China,AOS,509578,FALSE,20-Sep,heavy user,89,fishing,1381.98,1
+e00162ce-b0fd-4222-a31e-854873b2b41a,Sharron,Huyhton,shuyhtonp1@microsoft.com,M,126.199.50.250,Brazil,AOS,545261,TRUE,20-Nov,heavy user,49,pve,8578.07,3
+ce5814b4-cde5-48c1-90f5-1313e2362af3,Zaria,Dominec,zdominecp2@is.gd,M,124.190.110.237,Sweden,Other,424532,FALSE,20-May,heavy user,10,raid,3139.48,
+bab75f9a-3521-4835-9d8c-327da224244c,Raul,Westwater,rwestwaterp3@pinterest.com,F,11.237.11.98,United States,Other,545971,TRUE,20-Jan,heavy user,48,fishing,793.32,12
+3d086e22-14e6-4f4b-8394-95a6f5676806,Fitz,Jamieson,fjamiesonp4@odnoklassniki.ru,M,72.137.94.160,Colombia,IOS,662449,TRUE,20-Aug,heavy user,8,pvp,7416.16,7
+a449aa33-5fdb-42d3-9357-e966fcb07bfc,Wendel,Vasin,wvasinp5@weebly.com,F,194.108.89.4,Nicaragua,Other,732015,TRUE,23-Apr,heavy user,31,raid,4026.18,14
+ce4e52c7-1f61-4b69-bb8f-e26031fc230f,Buddie,Piatek,bpiatekp6@seattletimes.com,M,64.105.32.1,Philippines,Other,929006,FALSE,21-Jan,heavy user,81,fishing,3761.76,
+632b28ec-9033-4b2b-9229-5655be4e8682,Alvira,Bee,abeep7@macromedia.com,M,220.132.31.225,Armenia,Other,532999,TRUE,21-Jun,heavy user,78,fishing,8800.07,13
+dd03eddb-5247-4b2a-b22d-3795e8d8a176,Claiborne,Pyrah,cpyrahp8@ocn.ne.jp,M,225.211.98.177,Vietnam,IOS,915065,TRUE,21-Feb,heavy user,23,fishing,9570.62,8
+757488e8-0eeb-485e-a355-17633444d744,Bartlet,Ellaway,bellawayp9@nifty.com,F,86.83.61.104,North Korea,AOS,363611,FALSE,21-Dec,heavy user,92,fishing,127.01,
+173e03f8-a23d-4b2f-afe9-47fcde5484d2,Tamarah,Bigby,tbigbypa@storify.com,M,219.99.26.139,China,Other,57098,FALSE,22-May,heavy user,27,fishing,5156.99,13
+d35f150a-480f-4556-a709-ae418483e1ff,Tracie,Kemp,tkemppb@wufoo.com,M,226.147.129.99,Tunisia,AOS,988483,TRUE,21-Jun,medium user,75,raid,3563.79,20
+3936f192-af39-40ee-9873-d97f4152b969,Latisha,Bydaway,lbydawaypc@shutterfly.com,F,61.233.53.186,Ukraine,Other,222971,FALSE,23-Oct,heavy user,28,pvp,9466.18,18
+95c7e08b-30ea-4fc2-9e76-2b14fc398fb9,Linc,Akid,lakidpd@netvibes.com,F,33.251.175.189,China,Other,934324,TRUE,21-Jun,heavy user,13,pve,3222.01,7
+c38e1601-b5ab-4025-afea-b0d089dfc991,Cornie,Brunskill,cbrunskillpe@weibo.com,M,50.129.58.233,Russia,Other,997912,FALSE,22-Aug,medium user,62,pve,5240.68,2
+4e1a189c-dfe1-41aa-9196-d6012b5eca2e,Perri,Stollsteiner,pstollsteinerpf@google.com.br,M,168.9.126.159,China,Other,562383,TRUE,23-May,medium user,50,raid,5431.56,6
+aad63da8-71f4-4f0c-8fd6-a59354ceb77a,Rowney,Foucard,rfoucardpg@berkeley.edu,M,203.243.70.179,Russia,Other,413743,TRUE,21-Mar,light user,2,pve,2119.35,
+2947c0b7-e3fd-471a-b657-3f4920600c10,Veronique,Hubach,vhubachph@foxnews.com,M,14.128.60.224,Sri Lanka,Other,570436,FALSE,20-Jan,heavy user,4,pve,3258.45,17
+1c1bb5c1-dc87-42fa-9ea1-5c0bd79ab5da,Cristina,d' Elboux,cdelbouxpi@hubpages.com,F,140.108.15.168,United States,Other,795902,TRUE,22-Aug,light user,12,pvp,2907.85,
+35fd2031-5921-48fc-95d0-635639dc0a93,Idalia,Mayler,imaylerpj@gmpg.org,F,197.66.216.127,Sweden,Other,604306,TRUE,22-Feb,heavy user,95,fishing,1265.6,8
+e26e8e94-e945-4c49-a416-0264373ce5bf,Joelle,Laborde,jlabordepk@sphinn.com,F,62.14.105.164,France,Other,864717,TRUE,20-Sep,light user,47,fishing,3389.33,
+879ede03-141a-4c32-9095-fe69d9a627a7,Shel,Danniell,sdanniellpl@wix.com,F,242.180.49.94,Brazil,Other,225521,FALSE,22-Jul,heavy user,79,pve,735.63,13
+9dd606e9-0c5d-4b11-888b-3c36a2965320,Antoni,McAvaddy,amcavaddypm@cisco.com,F,171.209.14.150,Brazil,Other,444245,FALSE,20-Jul,heavy user,51,fishing,6742.56,14
+69d9ca45-880a-49ac-9b1a-77544b9137ae,Jenn,Lundy,jlundypn@nps.gov,M,71.222.199.103,Tanzania,Other,769751,TRUE,21-Sep,heavy user,100,pvp,462.75,6
+7d0e0047-19b0-4e60-bd45-67ee5eb780ce,Shoshana,Whightman,swhightmanpo@springer.com,M,59.91.112.150,China,IOS,496397,FALSE,21-Mar,light user,20,fishing,8545.1,13
+3a173ee5-5492-4e07-9768-26cd3eb8870c,Osborn,Pevie,opeviepp@utexas.edu,F,30.168.249.163,Philippines,Other,342104,TRUE,23-Mar,medium user,99,raid,4572.7,3
+12dcdd9e-6f9f-40f0-b0b6-6a5ef8cf5f0f,Conn,Gay,cgaypq@feedburner.com,M,104.103.66.252,China,Other,461932,FALSE,21-Sep,heavy user,97,pve,1313.43,17
+c5bf21c2-301e-47d2-8697-23e513a67f2a,Thorpe,Andreolli,tandreollipr@examiner.com,F,6.51.230.232,China,IOS,629750,TRUE,22-Mar,medium user,15,raid,7818.67,18
+1d41b4d4-ec39-48a5-b4bf-72ee2885a3d9,Josi,Edgler,jedglerps@freewebs.com,F,21.171.140.190,Ecuador,Other,114511,FALSE,22-Feb,light user,74,raid,5615.21,17
+b8487e95-7708-45c2-8ec4-99f4ad936ccf,Tildie,Compton,tcomptonpt@list-manage.com,M,74.105.10.97,United States,Other,148527,FALSE,21-Feb,light user,64,raid,3136.47,12
+a20de4a0-6d41-41f9-b3d8-4d688ddb20a2,Keir,Clausewitz,kclausewitzpu@nsw.gov.au,F,53.137.57.193,Mexico,Other,534023,TRUE,22-Nov,medium user,62,pvp,5050.47,
+703a4390-6de8-4d1e-a1b2-41a16cfd4314,Ajay,Radborn,aradbornpv@indiatimes.com,F,176.91.79.177,China,Other,413484,FALSE,20-Jan,heavy user,59,pvp,5273.14,7
+fe9621a9-4a38-4a47-8cf1-a597e03234ec,Donny,Baudoux,dbaudouxpw@noaa.gov,F,122.104.166.118,United States,Other,506404,TRUE,21-May,light user,53,fishing,6644.48,1
+04353c9e-6b03-45c9-a932-0adf6308631b,Marya,Catlow,mcatlowpx@merriam-webster.com,F,41.13.29.47,Brazil,AOS,414325,FALSE,20-Oct,light user,1,pvp,3226.37,9
+5b0ba39d-1a47-4074-8321-bc72abfca0c1,Quintana,Jon,qjonpy@bluehost.com,M,107.142.41.61,China,Other,897653,FALSE,21-Oct,heavy user,70,pvp,67.58,12
+d23dae5b-23c9-4627-b7c2-23a7f62f13dc,Vally,Loverock,vloverockpz@ted.com,F,41.113.227.156,Colombia,AOS,635539,TRUE,21-Jun,light user,47,fishing,8813.5,14
+faeddd12-1848-48de-a1a6-7a0893e1fe2d,Bartolomeo,Harme,bharmeq0@i2i.jp,F,235.68.117.107,China,AOS,927696,TRUE,20-Feb,heavy user,74,pvp,2719.34,12
+58d173bf-bce2-4dba-b4ff-e0efb3b138ce,Giffer,Fagg,gfaggq1@livejournal.com,M,43.2.220.33,Brazil,Other,910091,TRUE,21-Dec,heavy user,60,pve,1663.99,
+56b7fdbf-bcf4-443b-9791-09c4fd8fabb8,Buddy,Scatcher,bscatcherq2@gmpg.org,F,80.102.243.226,Cameroon,IOS,463864,FALSE,20-Apr,heavy user,14,raid,9915.27,15
+aaa493f3-6a7f-4a45-9b44-6979af10bc91,Britney,Claussen,bclaussenq3@mlb.com,F,213.76.154.122,China,Other,199601,FALSE,21-Mar,heavy user,25,pve,8210.3,15
+6e56b06c-8a50-4cd4-998d-75a652ff2aaa,Marrilee,Beevens,mbeevensq4@com.com,M,206.226.77.34,Guatemala,IOS,217746,FALSE,23-May,heavy user,5,pve,8307.52,5
+0b1a4bd3-9e4d-4b61-966a-31a93bbc7584,Cheston,Lemon,clemonq5@sciencedaily.com,M,125.143.221.113,Indonesia,IOS,270187,TRUE,22-Dec,heavy user,32,pvp,8706.77,7
+c9c85d4b-3dd4-4af9-9964-84bb53256dd4,Sheila-kathryn,Rivaland,srivalandq6@reuters.com,M,68.241.56.117,Sweden,IOS,545852,TRUE,23-Feb,heavy user,36,raid,7022.41,19
+6b1b92d7-9d9f-4d5c-88ba-ad9ceed88d59,Si,Cradey,scradeyq7@tripadvisor.com,M,244.93.194.185,Iran,Other,38622,FALSE,21-Sep,heavy user,59,raid,4679.46,12
+8f7ff44c-7e7c-45b4-a058-731018fa223f,Jocelin,Dinan,jdinanq8@ifeng.com,M,115.189.187.160,China,Other,425495,TRUE,20-May,heavy user,44,pve,1686.26,3
+c6331d68-7836-40b2-bf1d-a82ac645dd89,Hamlin,MacIlwrick,hmacilwrickq9@biblegateway.com,M,61.132.207.148,Malawi,Other,61905,TRUE,21-Jan,medium user,61,fishing,1040.93,8
+e3e4e8c3-fe5a-482d-9c97-d077730d4f2b,Gaby,Catonnet,gcatonnetqa@miitbeian.gov.cn,M,18.206.7.68,Brazil,IOS,17675,FALSE,20-Jul,heavy user,39,pvp,7116.96,10
+5a786544-ae45-42a3-9814-3b1df461e1b1,Lynde,Harland,lharlandqb@nyu.edu,F,47.225.142.94,Portugal,IOS,152431,TRUE,23-Mar,heavy user,31,raid,9876.43,
+a0591be2-7834-4655-b438-2b4f2f1108b4,Florrie,Allsup,fallsupqc@macromedia.com,M,13.22.200.171,Liechtenstein,Other,262278,TRUE,22-Apr,heavy user,9,fishing,1406,16
+b47cc79a-6e25-4280-80dd-b16d722adc7a,Dionne,Hill,dhillqd@paypal.com,M,225.107.161.59,Czech Republic,Other,735858,TRUE,23-Dec,heavy user,58,pvp,9453.07,10
+fbc61419-a22c-460d-ac03-46827d56a5b9,Corny,Whitemarsh,cwhitemarshqe@shareasale.com,M,236.55.159.239,China,Other,266514,FALSE,20-Dec,heavy user,11,raid,4667.9,18
+8f0159e7-2ea2-4602-91e8-85b31b243b38,Vidovic,Andrew,vandrewqf@blogspot.com,M,161.182.101.169,Philippines,AOS,847047,FALSE,22-Feb,medium user,93,pvp,462.91,13
+85b779b8-5c7e-4930-aa84-8f69834d8ae3,Nettie,Backhurst,nbackhurstqg@nytimes.com,M,39.215.208.198,Thailand,IOS,55720,FALSE,21-Feb,heavy user,18,raid,3598.1,1
+7afe30f4-6550-45ff-a60c-073bf64f0f01,Flinn,O'Lagen,folagenqh@istockphoto.com,M,144.33.54.15,Norway,Other,219637,FALSE,21-Jul,heavy user,81,pvp,9726.91,14
+e929e1d9-8475-4e4d-832b-68d0b80aba40,Der,Dinneges,ddinnegesqi@usnews.com,F,15.94.183.179,Poland,Other,671014,TRUE,21-Dec,heavy user,40,fishing,4472.93,
+b7a00011-3563-46d2-93bf-a81955b36e84,Anna-maria,Hamnet,ahamnetqj@sourceforge.net,F,14.0.219.165,Argentina,Other,166134,FALSE,22-Jul,light user,31,fishing,6314.25,
+e4069d70-06fd-494f-a973-eac7170d7e10,Tiffi,Sewart,tsewartqk@naver.com,F,206.226.16.202,United States,Other,22492,FALSE,22-Oct,medium user,60,pvp,7690.36,
+bb0043d0-9e9e-4519-9ce5-49b5522e6277,Rene,Holtham,rholthamql@theglobeandmail.com,F,201.75.41.249,China,Other,902750,TRUE,20-Apr,heavy user,54,raid,6619.49,12
+4f6b51db-1015-4340-b928-65c8b4bc55f4,Danita,Chappel,dchappelqm@uol.com.br,M,254.110.36.61,United Kingdom,Other,780527,FALSE,21-May,light user,36,pvp,9915.82,12
+670622d5-e661-40c5-a41d-f204173ff5f9,Lindsy,MacKey,lmackeyqn@ask.com,F,225.250.184.177,China,AOS,796778,FALSE,23-Oct,heavy user,83,fishing,3131.1,
+63a8a7ce-1947-468d-b561-cbc78e551423,Benoit,Landsman,blandsmanqo@nature.com,F,25.70.150.171,China,Other,560342,TRUE,20-Feb,heavy user,73,raid,7023.25,20
+ef241b80-9dbb-443c-8c05-97bd4c4f9421,Walther,Cominoli,wcominoliqp@google.com,F,117.238.95.153,Pakistan,Other,846958,TRUE,21-Jul,medium user,77,pvp,9262.55,
+2f2f116a-53ec-4a4b-b9d7-1970bd03ec1c,Allina,Glinde,aglindeqq@cdc.gov,F,116.91.111.153,China,Other,457969,FALSE,21-May,heavy user,1,pve,2727.01,14
+b14f3fc1-b7b7-43cf-bca8-ca96a71fd742,Thurstan,Wicklin,twicklinqr@biglobe.ne.jp,M,31.199.116.113,Portugal,Other,538284,FALSE,20-Aug,heavy user,29,pve,6060.75,13
+e9c29741-1a9e-4b60-b52d-1410d62545a8,Mona,Grimestone,mgrimestoneqs@multiply.com,F,227.202.207.8,China,Other,729319,FALSE,23-Sep,heavy user,52,raid,3772.57,19
+67f2615d-dd7d-4b31-9d77-0e68c1db649c,Bill,Briton,bbritonqt@vimeo.com,F,56.3.137.101,Philippines,Other,450511,FALSE,20-Sep,heavy user,2,fishing,1825.86,6
+c78a88c2-0bb7-480a-b6a6-03306c4366e5,Elmore,Drinan,edrinanqu@thetimes.co.uk,M,210.189.143.113,Philippines,Other,330495,TRUE,22-Nov,medium user,99,pve,8653.18,7
+9b5ed3e0-1e87-4632-ae49-cc09f9ef9421,Jae,Chatfield,jchatfieldqv@geocities.com,M,31.46.22.41,France,Other,834324,TRUE,20-Dec,heavy user,54,fishing,4084.81,12
+958cbdee-f9d7-4bf1-a106-a6eb615fa6c6,Stacy,Peepall,speepallqw@moonfruit.com,M,187.51.207.104,Panama,Other,411933,TRUE,21-Nov,heavy user,17,fishing,7131.81,
+9c8e176a-2290-4ce5-8cd5-8c2fa77a9034,Ethan,Symson,esymsonqx@china.com.cn,M,129.150.125.165,France,Other,878792,TRUE,21-Sep,heavy user,16,raid,7151.7,20
+18acb693-1b84-40e6-94dd-c3da83796f48,Star,Bilney,sbilneyqy@smugmug.com,F,237.11.125.192,Costa Rica,IOS,263016,TRUE,20-Aug,medium user,37,pve,2370.61,17
+da031a88-d04c-47b3-9ff2-a13a13437bde,Wendy,Randleson,wrandlesonqz@squarespace.com,M,239.117.0.68,Indonesia,Other,717228,TRUE,20-Jun,heavy user,17,pvp,2809.89,6
+019697c8-1e35-44e3-89f6-9916b025f576,Fidelity,Barnfather,fbarnfatherr0@ca.gov,M,160.216.154.49,Indonesia,Other,144813,TRUE,20-Apr,heavy user,69,pvp,2206.75,13
+0328726a-a08e-4f46-b4ba-ccf06ffc8bd8,Felike,McVitie,fmcvitier1@narod.ru,M,184.178.22.103,Argentina,AOS,329285,FALSE,21-Jun,medium user,25,pve,4172.36,14
+a490aec5-e003-4ac2-af1d-5e98fb7575b4,Woodie,Hourihan,whourihanr2@answers.com,M,47.3.92.237,Indonesia,Other,905865,TRUE,22-Oct,heavy user,66,fishing,3293.94,17
+16872354-2fd6-4145-8b58-7140dc7d450a,Malva,David,mdavidr3@omniture.com,F,19.89.50.115,Indonesia,Other,611659,TRUE,22-Apr,light user,66,pvp,6443.1,19
+03c3495f-3b7f-4144-bf64-6d72ab298101,Paul,Schorah,pschorahr4@xinhuanet.com,F,137.76.141.69,North Korea,AOS,513623,FALSE,21-Sep,heavy user,13,pve,4349.33,8
+716d0472-4945-4709-9405-61a92ed88f51,Filberto,Layzell,flayzellr5@usgs.gov,M,208.252.137.171,Iran,Other,561495,TRUE,21-Dec,heavy user,44,pvp,750.78,20
+d5774905-05e2-43fb-a455-4ad149c1c6eb,Billy,Yushachkov,byushachkovr6@smh.com.au,M,116.30.233.245,Russia,Other,159911,FALSE,20-Jan,light user,67,raid,9268.3,2
+9706fad3-08f8-4cad-84db-79815a9daf30,Katrine,Maseres,kmaseresr7@google.co.uk,F,235.127.240.3,China,Other,677780,FALSE,23-Mar,heavy user,32,pvp,7405.31,13
+8a0acb51-c2e3-42bc-9044-38fe9e3a18df,Tarra,Fosdyke,tfosdyker8@sciencedaily.com,F,123.200.90.211,Latvia,AOS,798761,FALSE,23-Oct,heavy user,15,pvp,4553.8,13
+b4a9d42e-b1a6-4dfc-88c9-f82d643e6022,Berny,Hucks,bhucksr9@bravesites.com,M,238.186.6.216,Czech Republic,IOS,785980,FALSE,20-Oct,light user,74,raid,5917.61,5
+d61554ed-c00c-4185-a99a-8763c7ca5748,Kristos,Farnall,kfarnallra@shinystat.com,M,89.110.37.229,Russia,Other,855123,FALSE,22-Jan,light user,89,raid,5838.21,3
+c01cccd2-5622-4893-abe6-526a6d562371,Serene,Streak,sstreakrb@eepurl.com,M,179.88.171.17,South Africa,Other,962563,TRUE,20-Jul,heavy user,60,raid,562.27,19
+ebb8a140-b2c1-4eb9-a9df-e3224a6a6e11,Averell,Perrington,aperringtonrc@youtu.be,F,246.22.113.149,France,Other,617627,TRUE,23-Apr,heavy user,55,fishing,6780.9,13
+dc61b5fd-05ec-4240-935e-353d30f8d88d,Colette,Stodit,cstoditrd@ucsd.edu,M,62.127.1.35,Sweden,Other,996999,TRUE,20-Dec,heavy user,16,raid,4807.52,1
+d520dd73-5fae-4f0c-b47a-f6220efd30d1,Nonnah,Gascoyen,ngascoyenre@dion.ne.jp,M,177.21.101.249,Russia,Other,781097,FALSE,21-Feb,light user,83,raid,4159.64,9
+6490da4d-eff2-46d3-b638-3dfa116a142d,Jolene,Marven,jmarvenrf@woothemes.com,M,121.238.162.150,Luxembourg,Other,307288,FALSE,24-Feb,medium user,51,pvp,9007.96,15
+120d0a44-fc2a-4372-8381-605b75fa6d0c,Glendon,Adlard,gadlardrg@sohu.com,F,45.204.44.200,Democratic Republic of the Congo,Other,691203,TRUE,23-Feb,heavy user,31,pve,6370.01,1
+b32d53f8-21b5-471d-aeab-4f44e4f3fcfb,Gabey,Hallows,ghallowsrh@youku.com,M,72.25.109.26,Philippines,Other,147750,FALSE,20-Mar,light user,24,pve,5068.06,
+5e976df9-ed9e-43b6-8472-a3f23dc5eccf,Jarred,Samarth,jsamarthri@surveymonkey.com,F,173.157.20.123,Thailand,IOS,57386,TRUE,22-May,heavy user,89,pve,1324.89,4
+83bcea73-90aa-4f8b-b81d-5191e47330dd,Una,Fritchley,ufritchleyrj@odnoklassniki.ru,F,48.108.66.76,Indonesia,Other,617406,TRUE,24-Jan,heavy user,91,pve,2004.47,2
+b5fb28e4-be70-4334-a10e-61361d659ae4,Terrell,McGuckin,tmcguckinrk@gmpg.org,M,82.40.177.148,Indonesia,IOS,43086,TRUE,21-Aug,heavy user,86,pve,5874.82,
+97db08ee-ea1e-4e5e-a0a2-2df9fd534cd1,Lacey,Hambling,lhamblingrl@flickr.com,F,35.178.208.168,China,AOS,603740,TRUE,22-Dec,medium user,28,raid,9894.55,12
+7e55714f-fc32-484a-b8e4-fbcc1d471e84,Honoria,Bumpass,hbumpassrm@jimdo.com,M,84.51.111.100,Somalia,Other,155130,TRUE,21-Jan,heavy user,59,pvp,3213.81,13
+de5d3a50-d19a-4209-ad31-736e8cc8f618,Reginauld,Maxwaile,rmaxwailern@gmpg.org,F,188.174.106.160,Sweden,Other,483002,TRUE,23-Mar,heavy user,99,fishing,9151.83,1
+68ae27bc-1b54-465e-985f-af0143290ed8,Elia,Gatley,egatleyro@is.gd,F,17.129.133.254,Laos,Other,360731,TRUE,20-Jan,heavy user,52,fishing,7868.57,
+ae699faf-4c6d-4f81-a212-fc1f2324ad8b,Gabbey,Egdal,gegdalrp@linkedin.com,F,185.241.156.59,France,Other,473613,FALSE,23-Apr,heavy user,26,pvp,2107.86,17
+eacd032b-0752-4f72-b45d-643452c788d5,Ash,Bedome,abedomerq@g.co,M,161.123.137.2,China,Other,152366,FALSE,20-Mar,light user,97,pvp,8119.93,14
+6ac0b488-ac47-4048-8fb8-07b2cfa98440,Walden,Rigby,wrigbyrr@phpbb.com,F,237.255.239.93,Bolivia,Other,291135,FALSE,21-Jun,heavy user,6,pve,8502.83,7
