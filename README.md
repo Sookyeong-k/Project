@@ -16,6 +16,5 @@
    - SQL, python, tableau
    - 전처리, EDA
    - AHP(계층화분석) 기법 도입
-   - 대시보드 제작(개인 develop)
 
 ...updating...
